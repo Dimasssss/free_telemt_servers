@@ -20,10 +20,9 @@ SNI взяты с https://github.com/hxehex/russia-mobile-internet-whitelist
 #### Ссылки с SNI
 | SNI               | link                                                                                                                |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------- |
-| yandex.ru         | tg://proxy?server=195.226.94.42&port=443&secret=eebe3007e927acd147dde12bee8b1a7c9379616e6465782e7275                |
+| max.ru            | tg://proxy?server=195.226.94.42&port=443&secret=eebe3007e927acd147dde12bee8b1a7c936d61782e7275                      |
 | hd.kinopoisk.ru   | tg://proxy?server=195.226.94.42&port=443&secret=eebe3007e927acd147dde12bee8b1a7c9368642e6b696e6f706f69736b2e7275    |
 | my.mail.ru        | tg://proxy?server=195.226.94.42&port=443&secret=eebe3007e927acd147dde12bee8b1a7c936d792e6d61696c2e7275              |
-| max.ru            | tg://proxy?server=195.226.94.42&port=443&secret=eebe3007e927acd147dde12bee8b1a7c936d61782e7275                      |
 | avito.ru          | tg://proxy?server=195.226.94.42&port=443&secret=eebe3007e927acd147dde12bee8b1a7c93617669746f2e7275                  |
 | gosuslugi.ru      | tg://proxy?server=195.226.94.42&port=443&secret=eebe3007e927acd147dde12bee8b1a7c93676f7375736c7567692e7275          |
 
@@ -39,10 +38,9 @@ SNI взяты с https://github.com/hxehex/russia-mobile-internet-whitelist
 #### Ссылки с SNI
 | SNI               | link                                                                                                                |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------- |
-| yandex.ru         | tg://proxy?server=45.147.28.10&port=443&secret=eebe3007e927acd147dde12bee8b1a7c9379616e6465782e7275                 |
+| max.ru            | tg://proxy?server=45.147.28.10&port=443&secret=eebe3007e927acd147dde12bee8b1a7c936d61782e7275                       |
 | hd.kinopoisk.ru   | tg://proxy?server=45.147.28.10&port=443&secret=eebe3007e927acd147dde12bee8b1a7c9368642e6b696e6f706f69736b2e7275     |
 | my.mail.ru        | tg://proxy?server=45.147.28.10&port=443&secret=eebe3007e927acd147dde12bee8b1a7c936d792e6d61696c2e7275               |
-| max.ru            | tg://proxy?server=45.147.28.10&port=443&secret=eebe3007e927acd147dde12bee8b1a7c936d61782e7275                       |
 | avito.ru          | tg://proxy?server=45.147.28.10&port=443&secret=eebe3007e927acd147dde12bee8b1a7c93617669746f2e7275                   |
 | gosuslugi.ru      | tg://proxy?server=45.147.28.10&port=443&secret=eebe3007e927acd147dde12bee8b1a7c93676f7375736c7567692e7275           |
 
@@ -58,10 +56,9 @@ SNI взяты с https://github.com/hxehex/russia-mobile-internet-whitelist
 #### Ссылки с SNI
 | SNI               | link                                                                                                                |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------- |
-| yandex.ru         | tg://proxy?server=108.165.174.245&port=443&secret=eebe3007e927acd147dde12bee8b1a7c9379616e6465782e7275              |
+| max.ru            | tg://proxy?server=108.165.174.245&port=443&secret=eebe3007e927acd147dde12bee8b1a7c936d61782e7275                    |
 | hd.kinopoisk.ru   | tg://proxy?server=108.165.174.245&port=443&secret=eebe3007e927acd147dde12bee8b1a7c9368642e6b696e6f706f69736b2e7275  |
 | my.mail.ru        | tg://proxy?server=108.165.174.245&port=443&secret=eebe3007e927acd147dde12bee8b1a7c936d792e6d61696c2e7275            |
-| max.ru            | tg://proxy?server=108.165.174.245&port=443&secret=eebe3007e927acd147dde12bee8b1a7c936d61782e7275                    |
 | avito.ru          | tg://proxy?server=108.165.174.245&port=443&secret=eebe3007e927acd147dde12bee8b1a7c93617669746f2e7275                |
 | gosuslugi.ru      | tg://proxy?server=108.165.174.245&port=443&secret=eebe3007e927acd147dde12bee8b1a7c93676f7375736c7567692e7275        |
 
@@ -77,16 +74,15 @@ SNI взяты с https://github.com/hxehex/russia-mobile-internet-whitelist
 #### Ссылки с SNI
 | SNI               | link                                                                                                                |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------- |
-| yandex.ru         | tg://proxy?server=185.225.203.236&port=443&secret=eebe3007e927acd147dde12bee8b1a7c9379616e6465782e7275              |
+| max.ru            | tg://proxy?server=185.225.203.236&port=443&secret=eebe3007e927acd147dde12bee8b1a7c936d61782e7275                    |
 | hd.kinopoisk.ru   | tg://proxy?server=185.225.203.236&port=443&secret=eebe3007e927acd147dde12bee8b1a7c9368642e6b696e6f706f69736b2e7275  |
 | my.mail.ru        | tg://proxy?server=185.225.203.236&port=443&secret=eebe3007e927acd147dde12bee8b1a7c936d792e6d61696c2e7275            |
-| max.ru            | tg://proxy?server=185.225.203.236&port=443&secret=eebe3007e927acd147dde12bee8b1a7c936d61782e7275                    |
 | avito.ru          | tg://proxy?server=185.225.203.236&port=443&secret=eebe3007e927acd147dde12bee8b1a7c93617669746f2e7275                |
 | gosuslugi.ru      | tg://proxy?server=185.225.203.236&port=443&secret=eebe3007e927acd147dde12bee8b1a7c93676f7375736c7567692e7275        |
 
 -----
 
-# Server Metrics 2026-02-26 12:24:26 UTC
+# Server Metrics 2026-02-26 12:27:56 UTC
 - Updated every 5 minutes. 
 - Metrics with a value of 0 are not displayed.
 
@@ -95,14 +91,13 @@ SNI взяты с https://github.com/hxehex/russia-mobile-internet-whitelist
 ```
 telemt 3.1.0
 
-telemt_uptime_seconds 14531.8 (4h 2m)
-telemt_connections_total 346
-telemt_connections_bad_total 25
-telemt_user_connections_total{user="hello"} 321
-telemt_user_octets_from_client{user="hello"} 416152 (406.40 KB)
-telemt_user_octets_to_client{user="hello"} 2297218 (2.19 MB)
-telemt_user_msgs_from_client{user="hello"} 1106
-telemt_user_msgs_to_client{user="hello"} 1351
+telemt_uptime_seconds 105.2 (0h 1m)
+telemt_connections_total 1
+telemt_user_connections_total{user="hello"} 1
+telemt_user_octets_from_client{user="hello"} 924 (924 B)
+telemt_user_octets_to_client{user="hello"} 482 (482 B)
+telemt_user_msgs_from_client{user="hello"} 3
+telemt_user_msgs_to_client{user="hello"} 3
 ```
 
 ## psb.hosting
@@ -110,15 +105,13 @@ telemt_user_msgs_to_client{user="hello"} 1351
 ```
 telemt 3.1.0
 
-telemt_uptime_seconds 11885.1 (3h 18m)
-telemt_connections_total 89
-telemt_connections_bad_total 26
-telemt_handshake_timeouts_total 1
-telemt_user_connections_total{user="hello"} 61
-telemt_user_octets_from_client{user="hello"} 25586 (24.99 KB)
-telemt_user_octets_to_client{user="hello"} 12076 (11.79 KB)
-telemt_user_msgs_from_client{user="hello"} 77
-telemt_user_msgs_to_client{user="hello"} 77
+telemt_uptime_seconds 143.1 (0h 2m)
+telemt_connections_total 1
+telemt_user_connections_total{user="hello"} 1
+telemt_user_octets_from_client{user="hello"} 438 (438 B)
+telemt_user_octets_to_client{user="hello"} 275 (275 B)
+telemt_user_msgs_from_client{user="hello"} 1
+telemt_user_msgs_to_client{user="hello"} 1
 ```
 
 ## koara.io
@@ -126,14 +119,13 @@ telemt_user_msgs_to_client{user="hello"} 77
 ```
 telemt 3.1.0
 
-telemt_uptime_seconds 9092.7 (2h 31m)
-telemt_connections_total 293
-telemt_connections_bad_total 54
-telemt_user_connections_total{user="hello"} 238
-telemt_user_octets_from_client{user="hello"} 532008 (519.54 KB)
-telemt_user_octets_to_client{user="hello"} 35916313 (34.25 MB)
-telemt_user_msgs_from_client{user="hello"} 1314
-telemt_user_msgs_to_client{user="hello"} 5916
+telemt_uptime_seconds 65.3 (0h 1m)
+telemt_connections_total 1
+telemt_user_connections_total{user="hello"} 1
+telemt_user_octets_from_client{user="hello"} 3301 (3.22 KB)
+telemt_user_octets_to_client{user="hello"} 4583 (4.48 KB)
+telemt_user_msgs_from_client{user="hello"} 10
+telemt_user_msgs_to_client{user="hello"} 9
 ```
 
 ## landvps.ru
@@ -141,12 +133,19 @@ telemt_user_msgs_to_client{user="hello"} 5916
 ```
 telemt 3.1.0
 
-telemt_uptime_seconds 4695.1 (1h 18m)
-telemt_connections_total 134
-telemt_connections_bad_total 1
-telemt_user_connections_total{user="hello"} 133
-telemt_user_octets_from_client{user="hello"} 120535541 (114.95 MB)
-telemt_user_octets_to_client{user="hello"} 35694113 (34.04 MB)
-telemt_user_msgs_from_client{user="hello"} 43508
-telemt_user_msgs_to_client{user="hello"} 11990
+telemt_uptime_seconds 83.1 (0h 1m)
+telemt_connections_total 1
+telemt_user_connections_total{user="hello"} 1
+telemt_user_octets_from_client{user="hello"} 646 (646 B)
+telemt_user_octets_to_client{user="hello"} 383 (383 B)
+telemt_user_msgs_from_client{user="hello"} 2
+telemt_user_msgs_to_client{user="hello"} 1
+```
+
+## 4vps.su
+
+```
+telemt 3.1.0
+
+telemt_uptime_seconds 42.5 (0h 0m)
 ```
