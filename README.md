@@ -48,7 +48,26 @@ SNI взяты с https://github.com/hxehex/russia-mobile-internet-whitelist
 
 -----
 
-# Server Metrics 2026-02-26 09:52:25 UTC
+## koara.io
+- Локация: Германия, Франкфурт-на-Майне
+- Тариф: DE-2
+- Краткое описание: 2 vCore, 4 Gb ram, 1 gbit/s
+- Цена в месяц: 639.00 RUB
+- Оплачен до: 25 марта
+
+#### Ссылки с SNI
+| SNI               | link                                                                                                                |
+| ----------------- | ------------------------------------------------------------------------------------------------------------------- |
+| yandex.ru         | tg://proxy?server=108.165.174.245&port=443&secret=eebe3007e927acd147dde12bee8b1a7c9379616e6465782e7275              |
+| hd.kinopoisk.ru   | tg://proxy?server=108.165.174.245&port=443&secret=eebe3007e927acd147dde12bee8b1a7c9368642e6b696e6f706f69736b2e7275  |
+| my.mail.ru        | tg://proxy?server=108.165.174.245&port=443&secret=eebe3007e927acd147dde12bee8b1a7c936d792e6d61696c2e7275            |
+| max.ru            | tg://proxy?server=108.165.174.245&port=443&secret=eebe3007e927acd147dde12bee8b1a7c936d61782e7275                    |
+| avito.ru          | tg://proxy?server=108.165.174.245&port=443&secret=eebe3007e927acd147dde12bee8b1a7c93617669746f2e7275                |
+| gosuslugi.ru      | tg://proxy?server=108.165.174.245&port=443&secret=eebe3007e927acd147dde12bee8b1a7c93676f7375736c7567692e7275        |
+
+-----
+
+# Server Metrics 2026-02-26 09:54:08 UTC
 - Updated every 5 minutes. 
 - Metrics with a value of 0 are not displayed.
 
@@ -57,7 +76,7 @@ SNI взяты с https://github.com/hxehex/russia-mobile-internet-whitelist
 ```
 telemt 3.1.0
 
-telemt_uptime_seconds 5392.7 (1h 29m)
+telemt_uptime_seconds 5511.4 (1h 31m)
 telemt_connections_total 53
 telemt_connections_bad_total 15
 telemt_user_connections_total{user="hello"} 38
@@ -72,7 +91,7 @@ telemt_user_msgs_to_client{user="hello"} 73
 ```
 telemt 3.1.0
 
-telemt_uptime_seconds 2746.4 (0h 45m)
+telemt_uptime_seconds 2865.2 (0h 47m)
 telemt_connections_total 20
 telemt_connections_bad_total 9
 telemt_user_connections_total{user="hello"} 11
@@ -84,4 +103,14 @@ telemt_user_msgs_to_client{user="hello"} 23
 
 ## koara.io
 
-Не удалось получить метрики для этого сервера.
+```
+telemt 3.1.0
+
+telemt_uptime_seconds 72.8 (0h 1m)
+telemt_connections_total 24
+telemt_user_connections_total{user="hello"} 24
+telemt_user_octets_from_client{user="hello"} 90370 (88.25 KB)
+telemt_user_octets_to_client{user="hello"} 31490752 (30.03 MB)
+telemt_user_msgs_from_client{user="hello"} 144
+telemt_user_msgs_to_client{user="hello"} 4139
+```
