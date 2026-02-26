@@ -5,8 +5,8 @@ use_middle_proxy = false
 show ="*"
 
 [censorship]
-tls_domain = "yandex.ru"
-tls_domains = ["yandex.ru", "hd.kinopoisk.ru", "my.mail.ru", "max.ru", "avito.ru", "gosuslugi.ru"]
+tls_domain = "max.ru"
+tls_domains = ["max.ru", "hd.kinopoisk.ru", "my.mail.ru", "avito.ru", "gosuslugi.ru"]
 tls_emulation = true
 
 [access.users]
