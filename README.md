@@ -17,14 +17,14 @@ SNI взяты с https://github.com/hxehex/russia-mobile-internet-whitelist
 - Оплачен до: 26 марта
 
 #### Ссылки с разными SNI
-| SNI               | link                                                                                                             |
-| ----------------- | ---------------------------------------------------------------------------------------------------------------- |
-| yandex.ru         | tg://proxy?server=195.226.94.42&port=443&secret=eebe3007e927acd147dde12bee8b1a7c9379616e6465782e7275             |
-| hd.kinopoisk.ru   | tg://proxy?server=195.226.94.42&port=443&secret=eebe3007e927acd147dde12bee8b1a7c9368642e6b696e6f706f69736b2e7275 |
-| my.mail.ru        | tg://proxy?server=195.226.94.42&port=443&secret=eebe3007e927acd147dde12bee8b1a7c936d792e6d61696c2e7275           |
-| max.ru            | tg://proxy?server=195.226.94.42&port=443&secret=eebe3007e927acd147dde12bee8b1a7c936d61782e7275                   |
-| avito.ru          | tg://proxy?server=195.226.94.42&port=443&secret=eebe3007e927acd147dde12bee8b1a7c93617669746f2e7275               |
-| gosuslugi.ru      | tg://proxy?server=195.226.94.42&port=443&secret=eebe3007e927acd147dde12bee8b1a7c93676f7375736c7567692e7275       |
+| SNI               | link                                                                                                                     |
+| ----------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| yandex.ru         | https://t.me/proxy?server=195.226.94.42&port=443&secret=eebe3007e927acd147dde12bee8b1a7c9379616e6465782e7275             |
+| hd.kinopoisk.ru   | https://t.me/proxy?server=195.226.94.42&port=443&secret=eebe3007e927acd147dde12bee8b1a7c9368642e6b696e6f706f69736b2e7275 |
+| my.mail.ru        | https://t.me/proxy?server=195.226.94.42&port=443&secret=eebe3007e927acd147dde12bee8b1a7c936d792e6d61696c2e7275           |
+| max.ru            | https://t.me/proxy?server=195.226.94.42&port=443&secret=eebe3007e927acd147dde12bee8b1a7c936d61782e7275                   |
+| avito.ru          | https://t.me/proxy?server=195.226.94.42&port=443&secret=eebe3007e927acd147dde12bee8b1a7c93617669746f2e7275               |
+| gosuslugi.ru      | https://t.me/proxy?server=195.226.94.42&port=443&secret=eebe3007e927acd147dde12bee8b1a7c93676f7375736c7567692e7275       |
 
 -----
 
@@ -36,18 +36,18 @@ SNI взяты с https://github.com/hxehex/russia-mobile-internet-whitelist
 - Оплачен до: 25 марта
 
 #### Ссылки с разными SNI
-| SNI               | link                                                                                                             |
-| ----------------- | ---------------------------------------------------------------------------------------------------------------- |
-| yandex.ru         | tg://proxy?server=45.147.28.10&port=443&secret=eebe3007e927acd147dde12bee8b1a7c9379616e6465782e7275              |
-| hd.kinopoisk.ru   | tg://proxy?server=45.147.28.10&port=443&secret=eebe3007e927acd147dde12bee8b1a7c9368642e6b696e6f706f69736b2e7275  |
-| my.mail.ru        | tg://proxy?server=45.147.28.10&port=443&secret=eebe3007e927acd147dde12bee8b1a7c936d792e6d61696c2e7275            |
-| max.ru            | tg://proxy?server=45.147.28.10&port=443&secret=eebe3007e927acd147dde12bee8b1a7c936d61782e7275                    |
-| avito.ru          | tg://proxy?server=45.147.28.10&port=443&secret=eebe3007e927acd147dde12bee8b1a7c93617669746f2e7275                |
-| gosuslugi.ru      | tg://proxy?server=45.147.28.10&port=443&secret=eebe3007e927acd147dde12bee8b1a7c93676f7375736c7567692e7275        |
+| SNI               | link                                                                                                                     |
+| ----------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| yandex.ru         | https://t.me/proxy?server=45.147.28.10&port=443&secret=eebe3007e927acd147dde12bee8b1a7c9379616e6465782e7275              |
+| hd.kinopoisk.ru   | https://t.me/proxy?server=45.147.28.10&port=443&secret=eebe3007e927acd147dde12bee8b1a7c9368642e6b696e6f706f69736b2e7275  |
+| my.mail.ru        | https://t.me/proxy?server=45.147.28.10&port=443&secret=eebe3007e927acd147dde12bee8b1a7c936d792e6d61696c2e7275            |
+| max.ru            | https://t.me/proxy?server=45.147.28.10&port=443&secret=eebe3007e927acd147dde12bee8b1a7c936d61782e7275                    |
+| avito.ru          | https://t.me/proxy?server=45.147.28.10&port=443&secret=eebe3007e927acd147dde12bee8b1a7c93617669746f2e7275                |
+| gosuslugi.ru      | https://t.me/proxy?server=45.147.28.10&port=443&secret=eebe3007e927acd147dde12bee8b1a7c93676f7375736c7567692e7275        |
 
 -----
 
-# Server Metrics 2026-02-26 09:25:46 UTC
+# Server Metrics 2026-02-26 09:27:03 UTC
 - Updated every 5 minutes. 
 - Metrics with a value of 0 are not displayed.
 
@@ -56,7 +56,7 @@ SNI взяты с https://github.com/hxehex/russia-mobile-internet-whitelist
 ```
 telemt 3.1.0
 
-telemt_uptime_seconds 3809.0 (1h 3m)
+telemt_uptime_seconds 3886.1 (1h 4m)
 telemt_connections_total 53
 telemt_connections_bad_total 15
 telemt_user_connections_total{user="hello"} 38
@@ -71,7 +71,7 @@ telemt_user_msgs_to_client{user="hello"} 73
 ```
 telemt 3.1.0
 
-telemt_uptime_seconds 1163.0 (0h 19m)
+telemt_uptime_seconds 1239.7 (0h 20m)
 telemt_connections_total 17
 telemt_connections_bad_total 6
 telemt_user_connections_total{user="hello"} 11
