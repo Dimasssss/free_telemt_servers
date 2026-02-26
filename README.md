@@ -86,7 +86,7 @@ SNI взяты с https://github.com/hxehex/russia-mobile-internet-whitelist
 
 -----
 
-# Server Metrics 2026-02-26 12:19:19 UTC
+# Server Metrics 2026-02-26 12:24:26 UTC
 - Updated every 5 minutes. 
 - Metrics with a value of 0 are not displayed.
 
@@ -95,7 +95,7 @@ SNI взяты с https://github.com/hxehex/russia-mobile-internet-whitelist
 ```
 telemt 3.1.0
 
-telemt_uptime_seconds 14225.0 (3h 57m)
+telemt_uptime_seconds 14531.8 (4h 2m)
 telemt_connections_total 346
 telemt_connections_bad_total 25
 telemt_user_connections_total{user="hello"} 321
@@ -110,9 +110,9 @@ telemt_user_msgs_to_client{user="hello"} 1351
 ```
 telemt 3.1.0
 
-telemt_uptime_seconds 11579.1 (3h 12m)
-telemt_connections_total 87
-telemt_connections_bad_total 24
+telemt_uptime_seconds 11885.1 (3h 18m)
+telemt_connections_total 89
+telemt_connections_bad_total 26
 telemt_handshake_timeouts_total 1
 telemt_user_connections_total{user="hello"} 61
 telemt_user_octets_from_client{user="hello"} 25586 (24.99 KB)
@@ -126,7 +126,7 @@ telemt_user_msgs_to_client{user="hello"} 77
 ```
 telemt 3.1.0
 
-telemt_uptime_seconds 8785.9 (2h 26m)
+telemt_uptime_seconds 9092.7 (2h 31m)
 telemt_connections_total 293
 telemt_connections_bad_total 54
 telemt_user_connections_total{user="hello"} 238
@@ -141,11 +141,12 @@ telemt_user_msgs_to_client{user="hello"} 5916
 ```
 telemt 3.1.0
 
-telemt_uptime_seconds 4388.2 (1h 13m)
-telemt_connections_total 130
-telemt_user_connections_total{user="hello"} 130
-telemt_user_octets_from_client{user="hello"} 120529835 (114.95 MB)
-telemt_user_octets_to_client{user="hello"} 35688164 (34.03 MB)
-telemt_user_msgs_from_client{user="hello"} 43495
-telemt_user_msgs_to_client{user="hello"} 11971
+telemt_uptime_seconds 4695.1 (1h 18m)
+telemt_connections_total 134
+telemt_connections_bad_total 1
+telemt_user_connections_total{user="hello"} 133
+telemt_user_octets_from_client{user="hello"} 120535541 (114.95 MB)
+telemt_user_octets_to_client{user="hello"} 35694113 (34.04 MB)
+telemt_user_msgs_from_client{user="hello"} 43508
+telemt_user_msgs_to_client{user="hello"} 11990
 ```
