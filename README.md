@@ -2,7 +2,7 @@
 
 Покупаю сервера у разных хостингов для теста.
 
-На всех серверах используется один и тот же конфиг.
+На всех серверах используется один и тот же [конфиг](https://github.com/Dimasssss/free_telemt_servers/blob/main/config.toml). 
 
 SNI взяты с https://github.com/hxehex/russia-mobile-internet-whitelist
 
@@ -46,7 +46,7 @@ SNI взяты с https://github.com/hxehex/russia-mobile-internet-whitelist
 
 -----
 
-# Server Metrics 2026-02-26 09:14:06 UTC
+# Server Metrics 2026-02-26 09:18:56 UTC
 - Updated every 5 minutes. 
 - Metrics with a value of 0 are not displayed.
 
@@ -55,9 +55,9 @@ SNI взяты с https://github.com/hxehex/russia-mobile-internet-whitelist
 ```
 telemt 3.1.0
 
-telemt_uptime_seconds 3109.9 (0h 51m)
-telemt_connections_total 52
-telemt_connections_bad_total 14
+telemt_uptime_seconds 3399.6 (0h 56m)
+telemt_connections_total 53
+telemt_connections_bad_total 15
 telemt_user_connections_total{user="hello"} 38
 telemt_user_octets_from_client{user="hello"} 20780 (20.29 KB)
 telemt_user_octets_to_client{user="hello"} 16293 (15.91 KB)
@@ -70,7 +70,7 @@ telemt_user_msgs_to_client{user="hello"} 73
 ```
 telemt 3.1.0
 
-telemt_uptime_seconds 464.0 (0h 7m)
+telemt_uptime_seconds 753.6 (0h 12m)
 telemt_connections_total 17
 telemt_connections_bad_total 6
 telemt_user_connections_total{user="hello"} 11
