@@ -100,7 +100,7 @@ SNI взяты с https://github.com/hxehex/russia-mobile-internet-whitelist
 
 -----
 
-# Server Metrics 2026-02-26 12:55:33 UTC
+# Server Metrics 2026-02-26 13:00:40 UTC
 - Updated every 5 minutes. 
 - Metrics with a value of 0 are not displayed.
 
@@ -109,7 +109,7 @@ SNI взяты с https://github.com/hxehex/russia-mobile-internet-whitelist
 ```
 telemt 3.1.0
 
-telemt_uptime_seconds 278.1 (0h 4m)
+telemt_uptime_seconds 585.2 (0h 9m)
 telemt_connections_total 1
 ```
 
@@ -118,7 +118,7 @@ telemt_connections_total 1
 ```
 telemt 3.1.0
 
-telemt_uptime_seconds 270.5 (0h 4m)
+telemt_uptime_seconds 577.7 (0h 9m)
 ```
 
 ## koara.io
@@ -126,7 +126,7 @@ telemt_uptime_seconds 270.5 (0h 4m)
 ```
 telemt 3.1.0
 
-telemt_uptime_seconds 284.9 (0h 4m)
+telemt_uptime_seconds 592.1 (0h 9m)
 telemt_connections_total 7
 telemt_connections_bad_total 7
 ```
@@ -136,7 +136,7 @@ telemt_connections_bad_total 7
 ```
 telemt 3.1.0
 
-telemt_uptime_seconds 281.1 (0h 4m)
+telemt_uptime_seconds 588.3 (0h 9m)
 telemt_connections_total 2
 telemt_connections_bad_total 2
 ```
@@ -146,12 +146,12 @@ telemt_connections_bad_total 2
 ```
 telemt 3.1.0
 
-telemt_uptime_seconds 282.2 (0h 4m)
-telemt_connections_total 15
-telemt_user_connections_total{user="hello"} 15
+telemt_uptime_seconds 589.4 (0h 9m)
+telemt_connections_total 25
+telemt_user_connections_total{user="hello"} 25
 telemt_user_connections_current{user="hello"} 10
-telemt_user_octets_from_client{user="hello"} 52761 (51.52 KB)
-telemt_user_octets_to_client{user="hello"} 146972 (143.53 KB)
-telemt_user_msgs_from_client{user="hello"} 193
-telemt_user_msgs_to_client{user="hello"} 263
+telemt_user_octets_from_client{user="hello"} 356005 (347.66 KB)
+telemt_user_octets_to_client{user="hello"} 983583 (960.53 KB)
+telemt_user_msgs_from_client{user="hello"} 458
+telemt_user_msgs_to_client{user="hello"} 838
 ```
