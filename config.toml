@@ -1,0 +1,18 @@
+[general]
+use_middle_proxy = false
+
+[general.links]
+show ="*"
+
+[censorship]
+tls_domain = "yandex.ru"
+tls_domains = ["yandex.ru", "hd.kinopoisk.ru", "my.mail.ru", "max.ru", "avito.ru", "gosuslugi.ru"]
+tls_emulation = true
+
+[access.users]
+hello = "be3007e927acd147dde12bee8b1a7c93"
+
+[server]
+port = 443
+metrics_port = 9090
+metrics_whitelist = ["127.0.0.1", "::1"]
