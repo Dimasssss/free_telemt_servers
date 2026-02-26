@@ -86,7 +86,26 @@ SNI взяты с https://github.com/hxehex/russia-mobile-internet-whitelist
 
 -----
 
-# Server Metrics 2026-02-26 11:48:16 UTC
+## 4vps.su
+- Локация: Финляндия, Хельсинки
+- Тариф: FI-cx21
+- Краткое описание тарифа: 2 vCore, 4 Gb ram, 2 Gbit/s
+- Цена в месяц: 770 RUB
+- Оплачен до: 28 марта
+
+#### Ссылки с SNI
+| SNI               | link                                                                                                                |
+| ----------------- | ------------------------------------------------------------------------------------------------------------------- |
+| yandex.ru         | tg://proxy?server=213.176.17.198&port=443&secret=eebe3007e927acd147dde12bee8b1a7c9379616e6465782e7275              |
+| hd.kinopoisk.ru   | tg://proxy?server=213.176.17.198&port=443&secret=eebe3007e927acd147dde12bee8b1a7c9368642e6b696e6f706f69736b2e7275  |
+| my.mail.ru        | tg://proxy?server=213.176.17.198&port=443&secret=eebe3007e927acd147dde12bee8b1a7c936d792e6d61696c2e7275            |
+| max.ru            | tg://proxy?server=213.176.17.198&port=443&secret=eebe3007e927acd147dde12bee8b1a7c936d61782e7275                    |
+| avito.ru          | tg://proxy?server=213.176.17.198&port=443&secret=eebe3007e927acd147dde12bee8b1a7c93617669746f2e7275                |
+| gosuslugi.ru      | tg://proxy?server=213.176.17.198&port=443&secret=eebe3007e927acd147dde12bee8b1a7c93676f7375736c7567692e7275        |
+
+-----
+
+# Server Metrics 2026-02-26 11:53:23 UTC
 - Updated every 5 minutes. 
 - Metrics with a value of 0 are not displayed.
 
@@ -95,14 +114,14 @@ SNI взяты с https://github.com/hxehex/russia-mobile-internet-whitelist
 ```
 telemt 3.1.0
 
-telemt_uptime_seconds 12362.3 (3h 26m)
-telemt_connections_total 206
+telemt_uptime_seconds 12669.4 (3h 31m)
+telemt_connections_total 223
 telemt_connections_bad_total 24
-telemt_user_connections_total{user="hello"} 182
-telemt_user_octets_from_client{user="hello"} 213478 (208.47 KB)
-telemt_user_octets_to_client{user="hello"} 313603 (306.25 KB)
-telemt_user_msgs_from_client{user="hello"} 586
-telemt_user_msgs_to_client{user="hello"} 509
+telemt_user_connections_total{user="hello"} 199
+telemt_user_octets_from_client{user="hello"} 225967 (220.67 KB)
+telemt_user_octets_to_client{user="hello"} 319225 (311.74 KB)
+telemt_user_msgs_from_client{user="hello"} 629
+telemt_user_msgs_to_client{user="hello"} 550
 ```
 
 ## psb.hosting
@@ -110,14 +129,14 @@ telemt_user_msgs_to_client{user="hello"} 509
 ```
 telemt 3.1.0
 
-telemt_uptime_seconds 9716.2 (2h 41m)
-telemt_connections_total 60
-telemt_connections_bad_total 19
-telemt_user_connections_total{user="hello"} 40
-telemt_user_octets_from_client{user="hello"} 16162 (15.78 KB)
-telemt_user_octets_to_client{user="hello"} 8645 (8.44 KB)
-telemt_user_msgs_from_client{user="hello"} 53
-telemt_user_msgs_to_client{user="hello"} 54
+telemt_uptime_seconds 10023.3 (2h 47m)
+telemt_connections_total 62
+telemt_connections_bad_total 20
+telemt_user_connections_total{user="hello"} 41
+telemt_user_octets_from_client{user="hello"} 16583 (16.19 KB)
+telemt_user_octets_to_client{user="hello"} 8928 (8.72 KB)
+telemt_user_msgs_from_client{user="hello"} 54
+telemt_user_msgs_to_client{user="hello"} 55
 ```
 
 ## koara.io
@@ -125,14 +144,15 @@ telemt_user_msgs_to_client{user="hello"} 54
 ```
 telemt 3.1.0
 
-telemt_uptime_seconds 6923.7 (1h 55m)
-telemt_connections_total 144
+telemt_uptime_seconds 7230.7 (2h 0m)
+telemt_connections_total 179
 telemt_connections_bad_total 8
-telemt_user_connections_total{user="hello"} 135
-telemt_user_octets_from_client{user="hello"} 185993 (181.63 KB)
-telemt_user_octets_to_client{user="hello"} 31543241 (30.08 MB)
-telemt_user_msgs_from_client{user="hello"} 432
-telemt_user_msgs_to_client{user="hello"} 4348
+telemt_user_connections_total{user="hello"} 170
+telemt_user_connections_current{user="hello"} 1
+telemt_user_octets_from_client{user="hello"} 213655 (208.65 KB)
+telemt_user_octets_to_client{user="hello"} 31674517 (30.21 MB)
+telemt_user_msgs_from_client{user="hello"} 531
+telemt_user_msgs_to_client{user="hello"} 4464
 ```
 
 ## landvps.ru
@@ -140,7 +160,7 @@ telemt_user_msgs_to_client{user="hello"} 4348
 ```
 telemt 3.1.0
 
-telemt_uptime_seconds 2525.8 (0h 42m)
+telemt_uptime_seconds 2832.9 (0h 47m)
 telemt_connections_total 64
 telemt_user_connections_total{user="hello"} 64
 telemt_user_octets_from_client{user="hello"} 120317998 (114.74 MB)
