@@ -82,7 +82,7 @@ SNI взяты с https://github.com/hxehex/russia-mobile-internet-whitelist
 
 -----
 
-## landvps.ru
+## 4vps.su
 - Локация: Финляндия, Хельсинки
 - Тариф: FI-cx21
 - Краткое описание тарифа: 2 vCore, 4 Gb ram, 2 Gbit/s
@@ -100,7 +100,7 @@ SNI взяты с https://github.com/hxehex/russia-mobile-internet-whitelist
 
 -----
 
-# Server Metrics 2026-02-26 12:31:17 UTC
+# Server Metrics 2026-02-26 12:31:40 UTC
 - Updated every 5 minutes. 
 - Metrics with a value of 0 are not displayed.
 
@@ -109,7 +109,7 @@ SNI взяты с https://github.com/hxehex/russia-mobile-internet-whitelist
 ```
 telemt 3.1.0
 
-telemt_uptime_seconds 305.6 (0h 5m)
+telemt_uptime_seconds 328.9 (0h 5m)
 telemt_connections_total 2
 telemt_user_connections_total{user="hello"} 2
 telemt_user_octets_from_client{user="hello"} 1444 (1.41 KB)
@@ -123,7 +123,7 @@ telemt_user_msgs_to_client{user="hello"} 5
 ```
 telemt 3.1.0
 
-telemt_uptime_seconds 343.5 (0h 5m)
+telemt_uptime_seconds 367.0 (0h 6m)
 telemt_connections_total 2
 telemt_user_connections_total{user="hello"} 2
 telemt_user_octets_from_client{user="hello"} 1110 (1.08 KB)
@@ -137,7 +137,7 @@ telemt_user_msgs_to_client{user="hello"} 3
 ```
 telemt 3.1.0
 
-telemt_uptime_seconds 265.3 (0h 4m)
+telemt_uptime_seconds 289.1 (0h 4m)
 telemt_connections_total 10
 telemt_connections_bad_total 7
 telemt_user_connections_total{user="hello"} 3
@@ -152,7 +152,7 @@ telemt_user_msgs_to_client{user="hello"} 13
 ```
 telemt 3.1.0
 
-telemt_uptime_seconds 283.4 (0h 4m)
+telemt_uptime_seconds 307.3 (0h 5m)
 telemt_connections_total 2
 telemt_user_connections_total{user="hello"} 2
 telemt_user_octets_from_client{user="hello"} 1742 (1.70 KB)
@@ -166,11 +166,12 @@ telemt_user_msgs_to_client{user="hello"} 3
 ```
 telemt 3.1.0
 
-telemt_uptime_seconds 242.8 (0h 4m)
-telemt_connections_total 17
-telemt_user_connections_total{user="hello"} 17
-telemt_user_octets_from_client{user="hello"} 18944 (18.50 KB)
-telemt_user_octets_to_client{user="hello"} 14232 (13.90 KB)
-telemt_user_msgs_from_client{user="hello"} 52
-telemt_user_msgs_to_client{user="hello"} 39
+telemt_uptime_seconds 266.6 (0h 4m)
+telemt_connections_total 18
+telemt_user_connections_total{user="hello"} 18
+telemt_user_connections_current{user="hello"} 1
+telemt_user_octets_from_client{user="hello"} 19929 (19.46 KB)
+telemt_user_octets_to_client{user="hello"} 15036 (14.68 KB)
+telemt_user_msgs_from_client{user="hello"} 54
+telemt_user_msgs_to_client{user="hello"} 42
 ```
