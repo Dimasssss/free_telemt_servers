@@ -23,7 +23,11 @@ SNI взяты с https://github.com/hxehex/russia-mobile-internet-whitelist
 | avito.ru          | tg://proxy?server=195.226.94.42&port=443&secret=eebe3007e927acd147dde12bee8b1a7c93617669746f2e7275               |
 | gosuslugi.ru      | tg://proxy?server=195.226.94.42&port=443&secret=eebe3007e927acd147dde12bee8b1a7c93676f7375736c7567692e7275       |
 
-# Server Metrics 2026-02-26 08:45:46 UTC
+
+
+-------------------------------------------------------------------------
+
+# Server Metrics 2026-02-26 08:50:51 UTC
 - Updated every 5 minutes. 
 - Metrics with a value of 0 are not displayed.
 
@@ -32,7 +36,7 @@ SNI взяты с https://github.com/hxehex/russia-mobile-internet-whitelist
 ```
 telemt 3.1.0
 
-telemt_uptime_seconds 1409.0 (0h 23m)
+telemt_uptime_seconds 1714.4 (0h 28m)
 telemt_connections_total 39
 telemt_connections_bad_total 1
 telemt_user_connections_total{user="hello"} 38
