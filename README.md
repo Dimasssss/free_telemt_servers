@@ -86,7 +86,7 @@ SNI взяты с https://github.com/hxehex/russia-mobile-internet-whitelist
 
 -----
 
-# Server Metrics 2026-02-26 11:07:22 UTC
+# Server Metrics 2026-02-26 11:12:28 UTC
 - Updated every 5 minutes. 
 - Metrics with a value of 0 are not displayed.
 
@@ -95,7 +95,7 @@ SNI взяты с https://github.com/hxehex/russia-mobile-internet-whitelist
 ```
 telemt 3.1.0
 
-telemt_uptime_seconds 9907.6 (2h 45m)
+telemt_uptime_seconds 10214.4 (2h 50m)
 telemt_connections_total 132
 telemt_connections_bad_total 24
 telemt_user_connections_total{user="hello"} 108
@@ -110,14 +110,14 @@ telemt_user_msgs_to_client{user="hello"} 259
 ```
 telemt 3.1.0
 
-telemt_uptime_seconds 7261.5 (2h 1m)
-telemt_connections_total 40
+telemt_uptime_seconds 7568.3 (2h 6m)
+telemt_connections_total 41
 telemt_connections_bad_total 9
-telemt_user_connections_total{user="hello"} 31
-telemt_user_octets_from_client{user="hello"} 13100 (12.79 KB)
-telemt_user_octets_to_client{user="hello"} 6577 (6.42 KB)
-telemt_user_msgs_from_client{user="hello"} 44
-telemt_user_msgs_to_client{user="hello"} 45
+telemt_user_connections_total{user="hello"} 32
+telemt_user_octets_from_client{user="hello"} 13158 (12.85 KB)
+telemt_user_octets_to_client{user="hello"} 6714 (6.56 KB)
+telemt_user_msgs_from_client{user="hello"} 45
+telemt_user_msgs_to_client{user="hello"} 46
 ```
 
 ## koara.io
@@ -125,7 +125,7 @@ telemt_user_msgs_to_client{user="hello"} 45
 ```
 telemt 3.1.0
 
-telemt_uptime_seconds 4469.3 (1h 14m)
+telemt_uptime_seconds 4775.5 (1h 19m)
 telemt_connections_total 89
 telemt_connections_bad_total 8
 telemt_user_connections_total{user="hello"} 80
@@ -140,5 +140,12 @@ telemt_user_msgs_to_client{user="hello"} 4234
 ```
 telemt 3.1.0
 
-telemt_uptime_seconds 71.0 (0h 1m)
+telemt_uptime_seconds 377.8 (0h 6m)
+telemt_connections_total 33
+telemt_user_connections_total{user="hello"} 33
+telemt_user_connections_current{user="hello"} 10
+telemt_user_octets_from_client{user="hello"} 120209274 (114.64 MB)
+telemt_user_octets_to_client{user="hello"} 32492300 (30.99 MB)
+telemt_user_msgs_from_client{user="hello"} 42532
+telemt_user_msgs_to_client{user="hello"} 9735
 ```
