@@ -52,7 +52,7 @@ SNI взяты с https://github.com/hxehex/russia-mobile-internet-whitelist
 - Локация: Германия, Франкфурт-на-Майне
 - Тариф: DE-2
 - Краткое описание тарифа: 2 vCore, 4 Gb ram, 1 Gbit/s
-- Цена в месяц: 639.00 RUB
+- Цена в месяц: 639 RUB
 - Оплачен до: 25 марта
 
 #### Ссылки с SNI
@@ -67,7 +67,14 @@ SNI взяты с https://github.com/hxehex/russia-mobile-internet-whitelist
 
 -----
 
-# Server Metrics 2026-02-26 10:57:44 UTC
+## landvps.ru
+- Локация: Финляндия
+- Тариф: FL-2
+- Краткое описание тарифа: 2 vCore, 2 Gb ram, 200 Mbps/s
+- Цена в месяц: 800 RUB
+- Оплачен до: 26 марта
+
+# Server Metrics 2026-02-26 11:02:52 UTC
 - Updated every 5 minutes. 
 - Metrics with a value of 0 are not displayed.
 
@@ -76,7 +83,7 @@ SNI взяты с https://github.com/hxehex/russia-mobile-internet-whitelist
 ```
 telemt 3.1.0
 
-telemt_uptime_seconds 9330.2 (2h 35m)
+telemt_uptime_seconds 9637.9 (2h 40m)
 telemt_connections_total 114
 telemt_connections_bad_total 24
 telemt_user_connections_total{user="hello"} 90
@@ -91,7 +98,7 @@ telemt_user_msgs_to_client{user="hello"} 224
 ```
 telemt 3.1.0
 
-telemt_uptime_seconds 6684.2 (1h 51m)
+telemt_uptime_seconds 6991.7 (1h 56m)
 telemt_connections_total 39
 telemt_connections_bad_total 9
 telemt_user_connections_total{user="hello"} 30
@@ -106,7 +113,7 @@ telemt_user_msgs_to_client{user="hello"} 44
 ```
 telemt 3.1.0
 
-telemt_uptime_seconds 3891.5 (1h 4m)
+telemt_uptime_seconds 4199.5 (1h 9m)
 telemt_connections_total 86
 telemt_connections_bad_total 8
 telemt_user_connections_total{user="hello"} 77
