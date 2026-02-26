@@ -2,7 +2,7 @@
 
 Покупаю сервера у разных хостингов для тестов и запуска прокси для Telegram
 
-Для прокси используеться https://github.com/telemt/telemt  
+Для прокси используется https://github.com/telemt/telemt  
 [Конфиг](https://github.com/Dimasssss/free_telemt_servers/blob/main/config.toml) используемый на всех серверах.
 
 SNI взяты с https://github.com/hxehex/russia-mobile-internet-whitelist  
@@ -67,7 +67,7 @@ SNI взяты с https://github.com/hxehex/russia-mobile-internet-whitelist
 
 -----
 
-# Server Metrics 2026-02-26 10:14:11 UTC
+# Server Metrics 2026-02-26 10:15:23 UTC
 - Updated every 5 minutes. 
 - Metrics with a value of 0 are not displayed.
 
@@ -76,7 +76,7 @@ SNI взяты с https://github.com/hxehex/russia-mobile-internet-whitelist
 ```
 telemt 3.1.0
 
-telemt_uptime_seconds 6716.6 (1h 51m)
+telemt_uptime_seconds 6789.2 (1h 53m)
 telemt_connections_total 53
 telemt_connections_bad_total 15
 telemt_user_connections_total{user="hello"} 38
@@ -91,7 +91,7 @@ telemt_user_msgs_to_client{user="hello"} 73
 ```
 telemt 3.1.0
 
-telemt_uptime_seconds 4070.5 (1h 7m)
+telemt_uptime_seconds 4143.1 (1h 9m)
 telemt_connections_total 20
 telemt_connections_bad_total 9
 telemt_user_connections_total{user="hello"} 11
@@ -106,7 +106,7 @@ telemt_user_msgs_to_client{user="hello"} 23
 ```
 telemt 3.1.0
 
-telemt_uptime_seconds 1278.3 (0h 21m)
+telemt_uptime_seconds 1350.7 (0h 22m)
 telemt_connections_total 28
 telemt_connections_bad_total 4
 telemt_user_connections_total{user="hello"} 24
