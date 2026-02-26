@@ -6,6 +6,7 @@
 
 SNI взяты с https://github.com/hxehex/russia-mobile-internet-whitelist
 
+
 ## NKtelecom
 - Локация: Netherlands - Amsterdam
 - Тариф: AMS-CLOUD-40
@@ -13,7 +14,7 @@ SNI взяты с https://github.com/hxehex/russia-mobile-internet-whitelist
 - Цена в месяц: 4.49$
 - Оплачен до: 26 марта
 
-#### Ссылки с разными SNI
+#### Ссылки с разными SNI <sub>Если нужно добавить больше SNI в таблицу, то пишите в [Issues](https://github.com/Dimasssss/free_telemt_servers/issues).</sub>
 | SNI               | link                                                                                                             |
 | ----------------- | ---------------------------------------------------------------------------------------------------------------- |
 | yandex.ru         | tg://proxy?server=195.226.94.42&port=443&secret=eebe3007e927acd147dde12bee8b1a7c9379616e6465782e7275             |
@@ -23,11 +24,7 @@ SNI взяты с https://github.com/hxehex/russia-mobile-internet-whitelist
 | avito.ru          | tg://proxy?server=195.226.94.42&port=443&secret=eebe3007e927acd147dde12bee8b1a7c93617669746f2e7275               |
 | gosuslugi.ru      | tg://proxy?server=195.226.94.42&port=443&secret=eebe3007e927acd147dde12bee8b1a7c93676f7375736c7567692e7275       |
 
-
-
--------------------------------------------------------------------------
-
-# Server Metrics 2026-02-26 08:55:56 UTC
+# Server Metrics 2026-02-26 09:01:01 UTC
 - Updated every 5 minutes. 
 - Metrics with a value of 0 are not displayed.
 
@@ -36,9 +33,9 @@ SNI взяты с https://github.com/hxehex/russia-mobile-internet-whitelist
 ```
 telemt 3.1.0
 
-telemt_uptime_seconds 2019.4 (0h 33m)
-telemt_connections_total 39
-telemt_connections_bad_total 1
+telemt_uptime_seconds 2324.3 (0h 38m)
+telemt_connections_total 51
+telemt_connections_bad_total 13
 telemt_user_connections_total{user="hello"} 38
 telemt_user_octets_from_client{user="hello"} 20780 (20.29 KB)
 telemt_user_octets_to_client{user="hello"} 16293 (15.91 KB)
