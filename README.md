@@ -67,7 +67,7 @@ SNI взяты с https://github.com/hxehex/russia-mobile-internet-whitelist
 
 -----
 
-# Server Metrics 2026-02-26 10:52:37 UTC
+# Server Metrics 2026-02-26 10:57:44 UTC
 - Updated every 5 minutes. 
 - Metrics with a value of 0 are not displayed.
 
@@ -76,9 +76,9 @@ SNI взяты с https://github.com/hxehex/russia-mobile-internet-whitelist
 ```
 telemt 3.1.0
 
-telemt_uptime_seconds 9022.5 (2h 30m)
-telemt_connections_total 112
-telemt_connections_bad_total 22
+telemt_uptime_seconds 9330.2 (2h 35m)
+telemt_connections_total 114
+telemt_connections_bad_total 24
 telemt_user_connections_total{user="hello"} 90
 telemt_user_octets_from_client{user="hello"} 116758 (114.02 KB)
 telemt_user_octets_to_client{user="hello"} 228178 (222.83 KB)
@@ -91,7 +91,7 @@ telemt_user_msgs_to_client{user="hello"} 224
 ```
 telemt 3.1.0
 
-telemt_uptime_seconds 6376.4 (1h 46m)
+telemt_uptime_seconds 6684.2 (1h 51m)
 telemt_connections_total 39
 telemt_connections_bad_total 9
 telemt_user_connections_total{user="hello"} 30
@@ -106,7 +106,7 @@ telemt_user_msgs_to_client{user="hello"} 44
 ```
 telemt 3.1.0
 
-telemt_uptime_seconds 3584.0 (0h 59m)
+telemt_uptime_seconds 3891.5 (1h 4m)
 telemt_connections_total 86
 telemt_connections_bad_total 8
 telemt_user_connections_total{user="hello"} 77
