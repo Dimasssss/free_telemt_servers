@@ -30,7 +30,7 @@ SNI взяты с https://github.com/hxehex/russia-mobile-internet-whitelist
 ## psb.hosting
 - Локация: Finland
 - Тариф: FI-200
-- Краткое описание: 2 vCore, 4 Gb ram, 1 gbit/s, Traffic Unlime
+- Краткое описание: 2 vCore, 4 Gb ram, 1 gbit/s
 - Цена в месяц: 12$
 - Оплачен до: 25 марта
 
@@ -46,7 +46,7 @@ SNI взяты с https://github.com/hxehex/russia-mobile-internet-whitelist
 
 -----
 
-# Server Metrics 2026-02-26 09:13:24 UTC
+# Server Metrics 2026-02-26 09:14:06 UTC
 - Updated every 5 minutes. 
 - Metrics with a value of 0 are not displayed.
 
@@ -55,7 +55,7 @@ SNI взяты с https://github.com/hxehex/russia-mobile-internet-whitelist
 ```
 telemt 3.1.0
 
-telemt_uptime_seconds 3067.6 (0h 51m)
+telemt_uptime_seconds 3109.9 (0h 51m)
 telemt_connections_total 52
 telemt_connections_bad_total 14
 telemt_user_connections_total{user="hello"} 38
@@ -70,9 +70,9 @@ telemt_user_msgs_to_client{user="hello"} 73
 ```
 telemt 3.1.0
 
-telemt_uptime_seconds 421.4 (0h 7m)
-telemt_connections_total 16
-telemt_connections_bad_total 5
+telemt_uptime_seconds 464.0 (0h 7m)
+telemt_connections_total 17
+telemt_connections_bad_total 6
 telemt_user_connections_total{user="hello"} 11
 telemt_user_octets_from_client{user="hello"} 4341 (4.24 KB)
 telemt_user_octets_to_client{user="hello"} 3438 (3.36 KB)
