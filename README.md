@@ -100,7 +100,7 @@ SNI взяты с https://github.com/hxehex/russia-mobile-internet-whitelist
 
 -----
 
-# Server Metrics 2026-02-26 15:09:07 UTC
+# Server Metrics 2026-02-26 15:14:15 UTC
 - Updated every 5 minutes. 
 - Metrics with a value of 0 are not displayed.
 
@@ -109,14 +109,14 @@ SNI взяты с https://github.com/hxehex/russia-mobile-internet-whitelist
 ```
 telemt 3.1.0
 
-telemt_uptime_seconds 8292.5 (2h 18m)
-telemt_connections_total 72
-telemt_connections_bad_total 6
-telemt_user_connections_total{user="hello"} 65
-telemt_user_octets_from_client{user="hello"} 83059 (81.11 KB)
-telemt_user_octets_to_client{user="hello"} 80403 (78.52 KB)
-telemt_user_msgs_from_client{user="hello"} 258
-telemt_user_msgs_to_client{user="hello"} 232
+telemt_uptime_seconds 8600.5 (2h 23m)
+telemt_connections_total 74
+telemt_connections_bad_total 7
+telemt_user_connections_total{user="hello"} 66
+telemt_user_octets_from_client{user="hello"} 83467 (81.51 KB)
+telemt_user_octets_to_client{user="hello"} 80669 (78.78 KB)
+telemt_user_msgs_from_client{user="hello"} 259
+telemt_user_msgs_to_client{user="hello"} 233
 ```
 
 ## psb.hosting
@@ -124,14 +124,14 @@ telemt_user_msgs_to_client{user="hello"} 232
 ```
 telemt 3.1.0
 
-telemt_uptime_seconds 8285.1 (2h 18m)
-telemt_connections_total 51
+telemt_uptime_seconds 8592.9 (2h 23m)
+telemt_connections_total 52
 telemt_connections_bad_total 21
-telemt_user_connections_total{user="hello"} 30
-telemt_user_octets_from_client{user="hello"} 20088 (19.62 KB)
-telemt_user_octets_to_client{user="hello"} 13266 (12.96 KB)
-telemt_user_msgs_from_client{user="hello"} 63
-telemt_user_msgs_to_client{user="hello"} 64
+telemt_user_connections_total{user="hello"} 31
+telemt_user_octets_from_client{user="hello"} 20678 (20.19 KB)
+telemt_user_octets_to_client{user="hello"} 13535 (13.22 KB)
+telemt_user_msgs_from_client{user="hello"} 64
+telemt_user_msgs_to_client{user="hello"} 65
 ```
 
 ## koara.io
@@ -139,14 +139,14 @@ telemt_user_msgs_to_client{user="hello"} 64
 ```
 telemt 3.1.0
 
-telemt_uptime_seconds 8299.5 (2h 18m)
-telemt_connections_total 142
+telemt_uptime_seconds 8607.2 (2h 23m)
+telemt_connections_total 143
 telemt_connections_bad_total 25
-telemt_user_connections_total{user="hello"} 116
-telemt_user_octets_from_client{user="hello"} 102217 (99.82 KB)
-telemt_user_octets_to_client{user="hello"} 67679 (66.09 KB)
-telemt_user_msgs_from_client{user="hello"} 301
-telemt_user_msgs_to_client{user="hello"} 242
+telemt_user_connections_total{user="hello"} 117
+telemt_user_octets_from_client{user="hello"} 102862 (100.45 KB)
+telemt_user_octets_to_client{user="hello"} 68037 (66.44 KB)
+telemt_user_msgs_from_client{user="hello"} 303
+telemt_user_msgs_to_client{user="hello"} 244
 ```
 
 ## landvps.ru
@@ -154,14 +154,14 @@ telemt_user_msgs_to_client{user="hello"} 242
 ```
 telemt 3.1.0
 
-telemt_uptime_seconds 8295.8 (2h 18m)
-telemt_connections_total 86
+telemt_uptime_seconds 8603.5 (2h 23m)
+telemt_connections_total 90
 telemt_connections_bad_total 24
-telemt_user_connections_total{user="hello"} 59
-telemt_user_octets_from_client{user="hello"} 47105 (46.00 KB)
-telemt_user_octets_to_client{user="hello"} 29726 (29.03 KB)
-telemt_user_msgs_from_client{user="hello"} 154
-telemt_user_msgs_to_client{user="hello"} 130
+telemt_user_connections_total{user="hello"} 63
+telemt_user_octets_from_client{user="hello"} 54648 (53.37 KB)
+telemt_user_octets_to_client{user="hello"} 37588 (36.71 KB)
+telemt_user_msgs_from_client{user="hello"} 185
+telemt_user_msgs_to_client{user="hello"} 159
 ```
 
 ## 4vps.su
@@ -169,10 +169,10 @@ telemt_user_msgs_to_client{user="hello"} 130
 ```
 telemt 3.1.0
 
-telemt_uptime_seconds 8296.8 (2h 18m)
-telemt_connections_total 139
-telemt_connections_bad_total 8
-telemt_handshake_timeouts_total 8
+telemt_uptime_seconds 8604.6 (2h 23m)
+telemt_connections_total 141
+telemt_connections_bad_total 9
+telemt_handshake_timeouts_total 9
 telemt_user_connections_total{user="hello"} 124
 telemt_user_octets_from_client{user="hello"} 471556 (460.50 KB)
 telemt_user_octets_to_client{user="hello"} 1106380 (1.06 MB)
