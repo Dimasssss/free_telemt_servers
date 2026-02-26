@@ -101,7 +101,7 @@ SNI взяты с https://github.com/hxehex/russia-mobile-internet-whitelist
 
 -----
 
-# Server Metrics 2026-02-26 20:32:44 UTC
+# Server Metrics 2026-02-26 20:37:51 UTC
 - Updated every 5 minutes. 
 - Metrics with a value of 0 are not displayed.
 
@@ -110,16 +110,16 @@ SNI взяты с https://github.com/hxehex/russia-mobile-internet-whitelist
 ```
 telemt 3.1.2
 
-telemt_uptime_seconds 8980.8 (2h 29m)
-telemt_connections_total 614
-telemt_connections_bad_total 18
+telemt_uptime_seconds 9288.4 (2h 34m)
+telemt_connections_total 620
+telemt_connections_bad_total 19
 telemt_handshake_timeouts_total 15
-telemt_user_connections_total{user="hello"} 515
-telemt_user_connections_current{user="hello"} 6
-telemt_user_octets_from_client{user="hello"} 262636366 (250.47 MB)
-telemt_user_octets_to_client{user="hello"} 43014686 (41.02 MB)
-telemt_user_msgs_from_client{user="hello"} 98287
-telemt_user_msgs_to_client{user="hello"} 20435
+telemt_user_connections_total{user="hello"} 520
+telemt_user_connections_current{user="hello"} 5
+telemt_user_octets_from_client{user="hello"} 262675196 (250.51 MB)
+telemt_user_octets_to_client{user="hello"} 43329333 (41.32 MB)
+telemt_user_msgs_from_client{user="hello"} 98432
+telemt_user_msgs_to_client{user="hello"} 20621
 ```
 
 ## psb.hosting
@@ -127,9 +127,9 @@ telemt_user_msgs_to_client{user="hello"} 20435
 ```
 telemt 3.1.2
 
-telemt_uptime_seconds 8938.2 (2h 28m)
-telemt_connections_total 115
-telemt_connections_bad_total 21
+telemt_uptime_seconds 9245.8 (2h 34m)
+telemt_connections_total 117
+telemt_connections_bad_total 23
 telemt_handshake_timeouts_total 14
 telemt_user_connections_total{user="hello"} 80
 telemt_user_octets_from_client{user="hello"} 41024 (40.06 KB)
@@ -143,15 +143,15 @@ telemt_user_msgs_to_client{user="hello"} 172
 ```
 telemt 3.1.2
 
-telemt_uptime_seconds 8925.2 (2h 28m)
-telemt_connections_total 949
+telemt_uptime_seconds 9232.7 (2h 33m)
+telemt_connections_total 991
 telemt_connections_bad_total 53
 telemt_handshake_timeouts_total 13
-telemt_user_connections_total{user="hello"} 879
-telemt_user_octets_from_client{user="hello"} 5518645 (5.26 MB)
-telemt_user_octets_to_client{user="hello"} 80356528 (76.63 MB)
-telemt_user_msgs_from_client{user="hello"} 10642
-telemt_user_msgs_to_client{user="hello"} 25617
+telemt_user_connections_total{user="hello"} 921
+telemt_user_octets_from_client{user="hello"} 5549586 (5.29 MB)
+telemt_user_octets_to_client{user="hello"} 80620407 (76.89 MB)
+telemt_user_msgs_from_client{user="hello"} 10752
+telemt_user_msgs_to_client{user="hello"} 25868
 ```
 
 ## landvps.ru
@@ -159,16 +159,16 @@ telemt_user_msgs_to_client{user="hello"} 25617
 ```
 telemt 3.1.2
 
-telemt_uptime_seconds 8991.8 (2h 29m)
-telemt_connections_total 275
+telemt_uptime_seconds 9299.3 (2h 34m)
+telemt_connections_total 284
 telemt_connections_bad_total 24
-telemt_handshake_timeouts_total 17
-telemt_user_connections_total{user="hello"} 224
+telemt_handshake_timeouts_total 19
+telemt_user_connections_total{user="hello"} 230
 telemt_user_connections_current{user="hello"} 1
-telemt_user_octets_from_client{user="hello"} 2472939 (2.36 MB)
-telemt_user_octets_to_client{user="hello"} 457932334 (436.72 MB)
-telemt_user_msgs_from_client{user="hello"} 6705
-telemt_user_msgs_to_client{user="hello"} 126022
+telemt_user_octets_from_client{user="hello"} 2489165 (2.37 MB)
+telemt_user_octets_to_client{user="hello"} 458012965 (436.80 MB)
+telemt_user_msgs_from_client{user="hello"} 6758
+telemt_user_msgs_to_client{user="hello"} 126083
 ```
 
 ## 4vps.su
@@ -176,9 +176,9 @@ telemt_user_msgs_to_client{user="hello"} 126022
 ```
 telemt 3.1.2
 
-telemt_uptime_seconds 9185.1 (2h 33m)
-telemt_connections_total 253
-telemt_connections_bad_total 7
+telemt_uptime_seconds 9492.6 (2h 38m)
+telemt_connections_total 260
+telemt_connections_bad_total 14
 telemt_handshake_timeouts_total 179
 telemt_user_connections_total{user="hello"} 66
 telemt_user_octets_from_client{user="hello"} 48810 (47.67 KB)
