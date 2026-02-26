@@ -13,7 +13,7 @@ SNI взяты с https://github.com/hxehex/russia-mobile-internet-whitelist
 ## NKtelecom
 - Локация: Netherlands - Amsterdam
 - Тариф: AMS-CLOUD-40
-- Краткое описание: 2 vCore, 2 Gb ram, 1 gbit/s, Traffic Unlime
+- Краткое описание: 2 vCore, 2 Gb ram, 1 gbit/s
 - Цена в месяц: 4.99$
 - Оплачен до: 26 марта
 
@@ -67,7 +67,7 @@ SNI взяты с https://github.com/hxehex/russia-mobile-internet-whitelist
 
 -----
 
-# Server Metrics 2026-02-26 10:20:57 UTC
+# Server Metrics 2026-02-26 10:26:05 UTC
 - Updated every 5 minutes. 
 - Metrics with a value of 0 are not displayed.
 
@@ -76,14 +76,14 @@ SNI взяты с https://github.com/hxehex/russia-mobile-internet-whitelist
 ```
 telemt 3.1.0
 
-telemt_uptime_seconds 7122.8 (1h 58m)
-telemt_connections_total 88
+telemt_uptime_seconds 7430.8 (2h 3m)
+telemt_connections_total 105
 telemt_connections_bad_total 15
-telemt_user_connections_total{user="hello"} 73
-telemt_user_octets_from_client{user="hello"} 104515 (102.07 KB)
-telemt_user_octets_to_client{user="hello"} 220973 (215.79 KB)
-telemt_user_msgs_from_client{user="hello"} 209
-telemt_user_msgs_to_client{user="hello"} 199
+telemt_user_connections_total{user="hello"} 90
+telemt_user_octets_from_client{user="hello"} 116758 (114.02 KB)
+telemt_user_octets_to_client{user="hello"} 228178 (222.83 KB)
+telemt_user_msgs_from_client{user="hello"} 251
+telemt_user_msgs_to_client{user="hello"} 224
 ```
 
 ## psb.hosting
@@ -91,14 +91,14 @@ telemt_user_msgs_to_client{user="hello"} 199
 ```
 telemt 3.1.0
 
-telemt_uptime_seconds 4476.4 (1h 14m)
-telemt_connections_total 38
+telemt_uptime_seconds 4784.7 (1h 19m)
+telemt_connections_total 39
 telemt_connections_bad_total 9
-telemt_user_connections_total{user="hello"} 29
-telemt_user_octets_from_client{user="hello"} 12351 (12.06 KB)
-telemt_user_octets_to_client{user="hello"} 6015 (5.87 KB)
-telemt_user_msgs_from_client{user="hello"} 42
-telemt_user_msgs_to_client{user="hello"} 43
+telemt_user_connections_total{user="hello"} 30
+telemt_user_octets_from_client{user="hello"} 12851 (12.55 KB)
+telemt_user_octets_to_client{user="hello"} 6306 (6.16 KB)
+telemt_user_msgs_from_client{user="hello"} 43
+telemt_user_msgs_to_client{user="hello"} 44
 ```
 
 ## koara.io
@@ -106,12 +106,12 @@ telemt_user_msgs_to_client{user="hello"} 43
 ```
 telemt 3.1.0
 
-telemt_uptime_seconds 1684.1 (0h 28m)
-telemt_connections_total 62
-telemt_connections_bad_total 4
-telemt_user_connections_total{user="hello"} 58
-telemt_user_octets_from_client{user="hello"} 111604 (108.99 KB)
-telemt_user_octets_to_client{user="hello"} 31501732 (30.04 MB)
-telemt_user_msgs_from_client{user="hello"} 211
-telemt_user_msgs_to_client{user="hello"} 4193
+telemt_uptime_seconds 1992.2 (0h 33m)
+telemt_connections_total 66
+telemt_connections_bad_total 5
+telemt_user_connections_total{user="hello"} 61
+telemt_user_octets_from_client{user="hello"} 114371 (111.69 KB)
+telemt_user_octets_to_client{user="hello"} 31504106 (30.04 MB)
+telemt_user_msgs_from_client{user="hello"} 221
+telemt_user_msgs_to_client{user="hello"} 4200
 ```
