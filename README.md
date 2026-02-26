@@ -13,7 +13,7 @@ SNI взяты с https://github.com/hxehex/russia-mobile-internet-whitelist
 ## NKtelecom
 - Локация: Netherlands - Amsterdam
 - Тариф: AMS-CLOUD-40
-- Краткое описание: 2 vCore, 2 Gb ram, 1 gbit/s
+- Краткое описание тарифа: 2 vCore, 2 Gb ram, 1 Gbit/s
 - Цена в месяц: 4.99$
 - Оплачен до: 26 марта
 
@@ -32,7 +32,7 @@ SNI взяты с https://github.com/hxehex/russia-mobile-internet-whitelist
 ## psb.hosting
 - Локация: Finland
 - Тариф: FI-200
-- Краткое описание: 2 vCore, 4 Gb ram, 1 gbit/s
+- Краткое описание тарифа: 2 vCore, 4 Gb ram, 1 Gbit/s
 - Цена в месяц: 12$
 - Оплачен до: 25 марта
 
@@ -51,7 +51,7 @@ SNI взяты с https://github.com/hxehex/russia-mobile-internet-whitelist
 ## koara.io
 - Локация: Германия, Франкфурт-на-Майне
 - Тариф: DE-2
-- Краткое описание: 2 vCore, 4 Gb ram, 1 gbit/s
+- Краткое описание тарифа: 2 vCore, 4 Gb ram, 1 Gbit/s
 - Цена в месяц: 639.00 RUB
 - Оплачен до: 25 марта
 
@@ -67,7 +67,7 @@ SNI взяты с https://github.com/hxehex/russia-mobile-internet-whitelist
 
 -----
 
-# Server Metrics 2026-02-26 10:26:05 UTC
+# Server Metrics 2026-02-26 10:27:02 UTC
 - Updated every 5 minutes. 
 - Metrics with a value of 0 are not displayed.
 
@@ -76,7 +76,7 @@ SNI взяты с https://github.com/hxehex/russia-mobile-internet-whitelist
 ```
 telemt 3.1.0
 
-telemt_uptime_seconds 7430.8 (2h 3m)
+telemt_uptime_seconds 7488.0 (2h 4m)
 telemt_connections_total 105
 telemt_connections_bad_total 15
 telemt_user_connections_total{user="hello"} 90
@@ -91,7 +91,7 @@ telemt_user_msgs_to_client{user="hello"} 224
 ```
 telemt 3.1.0
 
-telemt_uptime_seconds 4784.7 (1h 19m)
+telemt_uptime_seconds 4842.0 (1h 20m)
 telemt_connections_total 39
 telemt_connections_bad_total 9
 telemt_user_connections_total{user="hello"} 30
@@ -106,12 +106,12 @@ telemt_user_msgs_to_client{user="hello"} 44
 ```
 telemt 3.1.0
 
-telemt_uptime_seconds 1992.2 (0h 33m)
-telemt_connections_total 66
+telemt_uptime_seconds 2049.6 (0h 34m)
+telemt_connections_total 82
 telemt_connections_bad_total 5
-telemt_user_connections_total{user="hello"} 61
-telemt_user_octets_from_client{user="hello"} 114371 (111.69 KB)
-telemt_user_octets_to_client{user="hello"} 31504106 (30.04 MB)
-telemt_user_msgs_from_client{user="hello"} 221
-telemt_user_msgs_to_client{user="hello"} 4200
+telemt_user_connections_total{user="hello"} 77
+telemt_user_octets_from_client{user="hello"} 124753 (121.83 KB)
+telemt_user_octets_to_client{user="hello"} 31510189 (30.05 MB)
+telemt_user_msgs_from_client{user="hello"} 261
+telemt_user_msgs_to_client{user="hello"} 4221
 ```
