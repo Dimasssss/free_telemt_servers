@@ -17,11 +17,11 @@
 #### Ссылки с SNI
 | SNI               | link                                                                                                                |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------- |
+| microsoft.com     | tg://proxy?server=195.226.94.42&port=443&secret=eebe3007e927acd147dde12bee8b1a7c936d6963726f736f66742e636f6d        |
 | max.ru            | tg://proxy?server=195.226.94.42&port=443&secret=eebe3007e927acd147dde12bee8b1a7c936d61782e7275                      |
 | hd.kinopoisk.ru   | tg://proxy?server=195.226.94.42&port=443&secret=eebe3007e927acd147dde12bee8b1a7c9368642e6b696e6f706f69736b2e7275    |
 | my.mail.ru        | tg://proxy?server=195.226.94.42&port=443&secret=eebe3007e927acd147dde12bee8b1a7c936d792e6d61696c2e7275              |
 | avito.ru          | tg://proxy?server=195.226.94.42&port=443&secret=eebe3007e927acd147dde12bee8b1a7c93617669746f2e7275                  |
-| microsoft.com     | tg://proxy?server=195.226.94.42&port=443&secret=eebe3007e927acd147dde12bee8b1a7c936d6963726f736f66742e636f6d        |
 
 -----
 
@@ -35,11 +35,11 @@
 #### Ссылки с SNI
 | SNI               | link                                                                                                                |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------- |
+| microsoft.com     | tg://proxy?server=45.147.28.10&port=443&secret=eebe3007e927acd147dde12bee8b1a7c936d6963726f736f66742e636f6d         |
 | max.ru            | tg://proxy?server=45.147.28.10&port=443&secret=eebe3007e927acd147dde12bee8b1a7c936d61782e7275                       |
 | hd.kinopoisk.ru   | tg://proxy?server=45.147.28.10&port=443&secret=eebe3007e927acd147dde12bee8b1a7c9368642e6b696e6f706f69736b2e7275     |
 | my.mail.ru        | tg://proxy?server=45.147.28.10&port=443&secret=eebe3007e927acd147dde12bee8b1a7c936d792e6d61696c2e7275               |
 | avito.ru          | tg://proxy?server=45.147.28.10&port=443&secret=eebe3007e927acd147dde12bee8b1a7c93617669746f2e7275                   |
-| microsoft.com     | tg://proxy?server=45.147.28.10&port=443&secret=eebe3007e927acd147dde12bee8b1a7c936d6963726f736f66742e636f6d         |
 
 -----
 
@@ -53,11 +53,11 @@
 #### Ссылки с SNI
 | SNI               | link                                                                                                                |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------- |
+| microsoft.com     | tg://proxy?server=108.165.174.245&port=443&secret=eebe3007e927acd147dde12bee8b1a7c936d6963726f736f66742e636f6d      |
 | max.ru            | tg://proxy?server=108.165.174.245&port=443&secret=eebe3007e927acd147dde12bee8b1a7c936d61782e7275                    |
 | hd.kinopoisk.ru   | tg://proxy?server=108.165.174.245&port=443&secret=eebe3007e927acd147dde12bee8b1a7c9368642e6b696e6f706f69736b2e7275  |
 | my.mail.ru        | tg://proxy?server=108.165.174.245&port=443&secret=eebe3007e927acd147dde12bee8b1a7c936d792e6d61696c2e7275            |
 | avito.ru          | tg://proxy?server=108.165.174.245&port=443&secret=eebe3007e927acd147dde12bee8b1a7c93617669746f2e7275                |
-| microsoft.com     | tg://proxy?server=108.165.174.245&port=443&secret=eebe3007e927acd147dde12bee8b1a7c936d6963726f736f66742e636f6d      |
 
 -----
 
@@ -71,11 +71,11 @@
 #### Ссылки с SNI
 | SNI               | link                                                                                                                |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------- |
+| microsoft.com     | tg://proxy?server=185.225.203.236&port=443&secret=eebe3007e927acd147dde12bee8b1a7c936d6963726f736f66742e636f6d      |
 | max.ru            | tg://proxy?server=185.225.203.236&port=443&secret=eebe3007e927acd147dde12bee8b1a7c936d61782e7275                    |
 | hd.kinopoisk.ru   | tg://proxy?server=185.225.203.236&port=443&secret=eebe3007e927acd147dde12bee8b1a7c9368642e6b696e6f706f69736b2e7275  |
 | my.mail.ru        | tg://proxy?server=185.225.203.236&port=443&secret=eebe3007e927acd147dde12bee8b1a7c936d792e6d61696c2e7275            |
 | avito.ru          | tg://proxy?server=185.225.203.236&port=443&secret=eebe3007e927acd147dde12bee8b1a7c93617669746f2e7275                |
-| microsoft.com     | tg://proxy?server=185.225.203.236&port=443&secret=eebe3007e927acd147dde12bee8b1a7c936d6963726f736f66742e636f6d      |
 
 -----
 
@@ -89,15 +89,15 @@
 #### Ссылки с SNI
 | SNI               | link                                                                                                                |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------- |
+| microsoft.com     | tg://proxy?server=213.176.17.198&port=443&secret=eebe3007e927acd147dde12bee8b1a7c936d6963726f736f66742e636f6d       |
 | max.ru            | tg://proxy?server=213.176.17.198&port=443&secret=eebe3007e927acd147dde12bee8b1a7c936d61782e7275                     |
 | hd.kinopoisk.ru   | tg://proxy?server=213.176.17.198&port=443&secret=eebe3007e927acd147dde12bee8b1a7c9368642e6b696e6f706f69736b2e7275   |
 | my.mail.ru        | tg://proxy?server=213.176.17.198&port=443&secret=eebe3007e927acd147dde12bee8b1a7c936d792e6d61696c2e7275             |
 | avito.ru          | tg://proxy?server=213.176.17.198&port=443&secret=eebe3007e927acd147dde12bee8b1a7c93617669746f2e7275                 |
-| microsoft.com     | tg://proxy?server=213.176.17.198&port=443&secret=eebe3007e927acd147dde12bee8b1a7c936d6963726f736f66742e636f6d       |
 
 -----
 
-# Server Metrics 2026-02-27 16:49:43 UTC
+# Server Metrics 2026-02-27 16:50:56 UTC
 - Updated every 5 minutes. 
 - Metrics with a value of 0 are not displayed.
 
@@ -106,16 +106,16 @@
 ```
 telemt 3.1.2
 
-telemt_uptime_seconds 81999.3 (22h 46m)
-telemt_connections_total 9202
+telemt_uptime_seconds 82072.2 (22h 47m)
+telemt_connections_total 9224
 telemt_connections_bad_total 266
 telemt_handshake_timeouts_total 35
-telemt_user_connections_total{user="hello"} 8482
-telemt_user_connections_current{user="hello"} 5
-telemt_user_octets_from_client{user="hello"} 758306961 (723.18 MB)
-telemt_user_octets_to_client{user="hello"} 801076232 (763.97 MB)
-telemt_user_msgs_from_client{user="hello"} 337101
-telemt_user_msgs_to_client{user="hello"} 251469
+telemt_user_connections_total{user="hello"} 8503
+telemt_user_connections_current{user="hello"} 6
+telemt_user_octets_from_client{user="hello"} 758367635 (723.24 MB)
+telemt_user_octets_to_client{user="hello"} 801378778 (764.25 MB)
+telemt_user_msgs_from_client{user="hello"} 337303
+telemt_user_msgs_to_client{user="hello"} 251995
 ```
 
 ## psb.hosting
@@ -123,15 +123,15 @@ telemt_user_msgs_to_client{user="hello"} 251469
 ```
 telemt 3.1.2
 
-telemt_uptime_seconds 81956.2 (22h 45m)
-telemt_connections_total 1747
+telemt_uptime_seconds 82029.6 (22h 47m)
+telemt_connections_total 1748
 telemt_connections_bad_total 290
 telemt_handshake_timeouts_total 29
-telemt_user_connections_total{user="hello"} 1340
-telemt_user_octets_from_client{user="hello"} 506936103 (483.45 MB)
-telemt_user_octets_to_client{user="hello"} 121634185 (116.00 MB)
-telemt_user_msgs_from_client{user="hello"} 189200
-telemt_user_msgs_to_client{user="hello"} 52787
+telemt_user_connections_total{user="hello"} 1341
+telemt_user_octets_from_client{user="hello"} 506937214 (483.45 MB)
+telemt_user_octets_to_client{user="hello"} 121634658 (116.00 MB)
+telemt_user_msgs_from_client{user="hello"} 189203
+telemt_user_msgs_to_client{user="hello"} 52790
 ```
 
 ## koara.io
@@ -139,15 +139,15 @@ telemt_user_msgs_to_client{user="hello"} 52787
 ```
 telemt 3.1.2
 
-telemt_uptime_seconds 17494.8 (4h 51m)
-telemt_connections_total 1247
+telemt_uptime_seconds 17568.1 (4h 52m)
+telemt_connections_total 1253
 telemt_connections_bad_total 191
 telemt_handshake_timeouts_total 4
-telemt_user_connections_total{user="hello"} 1012
-telemt_user_octets_from_client{user="hello"} 62024178 (59.15 MB)
-telemt_user_octets_to_client{user="hello"} 307681635 (293.43 MB)
-telemt_user_msgs_from_client{user="hello"} 26419
-telemt_user_msgs_to_client{user="hello"} 75514
+telemt_user_connections_total{user="hello"} 1018
+telemt_user_octets_from_client{user="hello"} 62025399 (59.15 MB)
+telemt_user_octets_to_client{user="hello"} 307682943 (293.43 MB)
+telemt_user_msgs_from_client{user="hello"} 26426
+telemt_user_msgs_to_client{user="hello"} 75521
 ```
 
 ## landvps.ru
@@ -155,15 +155,15 @@ telemt_user_msgs_to_client{user="hello"} 75514
 ```
 telemt 3.1.2
 
-telemt_uptime_seconds 82009.9 (22h 46m)
-telemt_connections_total 3141
+telemt_uptime_seconds 82083.3 (22h 48m)
+telemt_connections_total 3142
 telemt_connections_bad_total 446
 telemt_handshake_timeouts_total 57
-telemt_user_connections_total{user="hello"} 2516
-telemt_user_octets_from_client{user="hello"} 779663696 (743.55 MB)
-telemt_user_octets_to_client{user="hello"} 824309889 (786.12 MB)
-telemt_user_msgs_from_client{user="hello"} 300001
-telemt_user_msgs_to_client{user="hello"} 236047
+telemt_user_connections_total{user="hello"} 2517
+telemt_user_octets_from_client{user="hello"} 779664223 (743.55 MB)
+telemt_user_octets_to_client{user="hello"} 824310169 (786.12 MB)
+telemt_user_msgs_from_client{user="hello"} 300002
+telemt_user_msgs_to_client{user="hello"} 236048
 ```
 
 ## 4vps.su
@@ -171,26 +171,26 @@ telemt_user_msgs_to_client{user="hello"} 236047
 ```
 telemt 3.1.2
 
-telemt_uptime_seconds 27893.7 (7h 44m)
-telemt_connections_total 861
+telemt_uptime_seconds 27967.0 (7h 46m)
+telemt_connections_total 862
 telemt_connections_bad_total 130
 telemt_handshake_timeouts_total 39
-telemt_me_keepalive_sent_total 139009
-telemt_me_keepalive_pong_total 138871
-telemt_me_keepalive_timeout_total 137
-telemt_me_reconnect_attempts_total 8863
-telemt_me_reconnect_success_total 9135
-telemt_me_route_drop_no_conn_total 166
+telemt_me_keepalive_sent_total 139361
+telemt_me_keepalive_pong_total 139223
+telemt_me_keepalive_timeout_total 138
+telemt_me_reconnect_attempts_total 8882
+telemt_me_reconnect_success_total 9154
+telemt_me_route_drop_no_conn_total 167
 telemt_pool_swap_total 29
 telemt_pool_force_close_total 110
 telemt_pool_stale_pick_total 20
-telemt_me_writer_removed_total 9813
-telemt_me_writer_removed_unexpected_total 9045
-telemt_me_refill_triggered_total 8647
+telemt_me_writer_removed_total 9832
+telemt_me_writer_removed_unexpected_total 9064
+telemt_me_refill_triggered_total 8666
 telemt_me_refill_skipped_inflight_total 398
-telemt_me_writer_restored_same_endpoint_total 8647
+telemt_me_writer_restored_same_endpoint_total 8666
 telemt_me_writer_removed_unexpected_minus_restored_total 398
-telemt_user_connections_total{user="hello"} 625
-telemt_user_octets_from_client{user="hello"} 1309205016 (1.22 GB)
-telemt_user_octets_to_client{user="hello"} 30900428 (29.47 MB)
+telemt_user_connections_total{user="hello"} 626
+telemt_user_octets_from_client{user="hello"} 1309205632 (1.22 GB)
+telemt_user_octets_to_client{user="hello"} 30900688 (29.47 MB)
 ```
