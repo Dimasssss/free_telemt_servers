@@ -82,7 +82,7 @@
 
 -----
 
-# Server Metrics 2026-02-27 23:51:18 UTC
+# Server Metrics 2026-02-27 23:56:26 UTC
 - Updated every 5 minutes. 
 - Metrics with a value of 0 are not displayed.
 
@@ -91,15 +91,15 @@
 ```
 telemt 3.1.2
 
-telemt_uptime_seconds 1483.8 (0h 24m)
-telemt_connections_total 390
-telemt_connections_bad_total 2
-telemt_user_connections_total{user="hello"} 383
+telemt_uptime_seconds 1791.6 (0h 29m)
+telemt_connections_total 477
+telemt_connections_bad_total 5
+telemt_user_connections_total{user="hello"} 466
 telemt_user_connections_current{user="hello"} 3
-telemt_user_octets_from_client{user="hello"} 199737 (195.06 KB)
-telemt_user_octets_to_client{user="hello"} 455753 (445.07 KB)
-telemt_user_msgs_from_client{user="hello"} 878
-telemt_user_msgs_to_client{user="hello"} 1854
+telemt_user_octets_from_client{user="hello"} 240515 (234.88 KB)
+telemt_user_octets_to_client{user="hello"} 528597 (516.21 KB)
+telemt_user_msgs_from_client{user="hello"} 1065
+telemt_user_msgs_to_client{user="hello"} 2197
 ```
 
 ## psb.hosting
@@ -107,7 +107,7 @@ telemt_user_msgs_to_client{user="hello"} 1854
 ```
 telemt 3.1.2
 
-telemt_uptime_seconds 1310.2 (0h 21m)
+telemt_uptime_seconds 1617.9 (0h 26m)
 telemt_connections_total 5
 telemt_connections_bad_total 5
 ```
@@ -117,7 +117,7 @@ telemt_connections_bad_total 5
 ```
 telemt 3.1.2
 
-telemt_uptime_seconds 1478.0 (0h 24m)
+telemt_uptime_seconds 1785.6 (0h 29m)
 telemt_connections_total 5
 telemt_connections_bad_total 4
 telemt_handshake_timeouts_total 1
@@ -128,7 +128,7 @@ telemt_handshake_timeouts_total 1
 ```
 telemt 3.1.2
 
-telemt_uptime_seconds 2621.1 (0h 43m)
+telemt_uptime_seconds 2928.7 (0h 48m)
 telemt_connections_total 6
 telemt_connections_bad_total 6
 ```
@@ -138,8 +138,8 @@ telemt_connections_bad_total 6
 ```
 telemt 3.1.2
 
-telemt_uptime_seconds 1471.7 (0h 24m)
-telemt_connections_total 5
-telemt_connections_bad_total 5
+telemt_uptime_seconds 1779.3 (0h 29m)
+telemt_connections_total 16
+telemt_connections_bad_total 16
 telemt_handshake_timeouts_total 2
 ```
