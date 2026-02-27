@@ -97,7 +97,7 @@
 
 -----
 
-# Server Metrics 2026-02-27 15:53:03 UTC
+# Server Metrics 2026-02-27 15:58:11 UTC
 - Updated every 5 minutes. 
 - Metrics with a value of 0 are not displayed.
 
@@ -106,16 +106,16 @@
 ```
 telemt 3.1.2
 
-telemt_uptime_seconds 78599.4 (21h 49m)
-telemt_connections_total 8898
+telemt_uptime_seconds 78907.1 (21h 55m)
+telemt_connections_total 8954
 telemt_connections_bad_total 264
 telemt_handshake_timeouts_total 35
-telemt_user_connections_total{user="hello"} 8194
-telemt_user_connections_current{user="hello"} 8
-telemt_user_octets_from_client{user="hello"} 756615098 (721.56 MB)
-telemt_user_octets_to_client{user="hello"} 776854403 (740.87 MB)
-telemt_user_msgs_from_client{user="hello"} 333385
-telemt_user_msgs_to_client{user="hello"} 238962
+telemt_user_connections_total{user="hello"} 8243
+telemt_user_connections_current{user="hello"} 7
+telemt_user_octets_from_client{user="hello"} 756692838 (721.64 MB)
+telemt_user_octets_to_client{user="hello"} 777956781 (741.92 MB)
+telemt_user_msgs_from_client{user="hello"} 333642
+telemt_user_msgs_to_client{user="hello"} 239773
 ```
 
 ## psb.hosting
@@ -123,9 +123,9 @@ telemt_user_msgs_to_client{user="hello"} 238962
 ```
 telemt 3.1.2
 
-telemt_uptime_seconds 78556.5 (21h 49m)
-telemt_connections_total 1731
-telemt_connections_bad_total 279
+telemt_uptime_seconds 78864.5 (21h 54m)
+telemt_connections_total 1738
+telemt_connections_bad_total 286
 telemt_handshake_timeouts_total 29
 telemt_user_connections_total{user="hello"} 1335
 telemt_user_octets_from_client{user="hello"} 506933144 (483.45 MB)
@@ -139,9 +139,9 @@ telemt_user_msgs_to_client{user="hello"} 52780
 ```
 telemt 3.1.2
 
-telemt_uptime_seconds 14095.1 (3h 54m)
-telemt_connections_total 1017
-telemt_connections_bad_total 184
+telemt_uptime_seconds 14403.0 (4h 0m)
+telemt_connections_total 1018
+telemt_connections_bad_total 185
 telemt_handshake_timeouts_total 4
 telemt_user_connections_total{user="hello"} 810
 telemt_user_octets_from_client{user="hello"} 59741203 (56.97 MB)
@@ -155,9 +155,9 @@ telemt_user_msgs_to_client{user="hello"} 56358
 ```
 telemt 3.1.2
 
-telemt_uptime_seconds 78610.2 (21h 50m)
-telemt_connections_total 3077
-telemt_connections_bad_total 436
+telemt_uptime_seconds 78918.3 (21h 55m)
+telemt_connections_total 3084
+telemt_connections_bad_total 443
 telemt_handshake_timeouts_total 56
 telemt_user_connections_total{user="hello"} 2467
 telemt_user_octets_from_client{user="hello"} 779623127 (743.51 MB)
@@ -171,25 +171,25 @@ telemt_user_msgs_to_client{user="hello"} 235519
 ```
 telemt 3.1.2
 
-telemt_uptime_seconds 24494.0 (6h 48m)
-telemt_connections_total 806
-telemt_connections_bad_total 78
+telemt_uptime_seconds 24801.9 (6h 53m)
+telemt_connections_total 807
+telemt_connections_bad_total 79
 telemt_handshake_timeouts_total 37
-telemt_me_keepalive_sent_total 122097
-telemt_me_keepalive_pong_total 121971
-telemt_me_keepalive_timeout_total 126
-telemt_me_reconnect_attempts_total 7755
-telemt_me_reconnect_success_total 7992
+telemt_me_keepalive_sent_total 123693
+telemt_me_keepalive_pong_total 123565
+telemt_me_keepalive_timeout_total 127
+telemt_me_reconnect_attempts_total 7852
+telemt_me_reconnect_success_total 8090
 telemt_me_route_drop_no_conn_total 166
 telemt_pool_swap_total 25
 telemt_pool_force_close_total 110
 telemt_pool_stale_pick_total 20
-telemt_me_writer_removed_total 8568
-telemt_me_writer_removed_unexpected_total 7911
-telemt_me_refill_triggered_total 7579
-telemt_me_refill_skipped_inflight_total 332
-telemt_me_writer_restored_same_endpoint_total 7579
-telemt_me_writer_removed_unexpected_minus_restored_total 332
+telemt_me_writer_removed_total 8668
+telemt_me_writer_removed_unexpected_total 8011
+telemt_me_refill_triggered_total 7670
+telemt_me_refill_skipped_inflight_total 341
+telemt_me_writer_restored_same_endpoint_total 7670
+telemt_me_writer_removed_unexpected_minus_restored_total 341
 telemt_user_connections_total{user="hello"} 623
 telemt_user_octets_from_client{user="hello"} 1309203156 (1.22 GB)
 telemt_user_octets_to_client{user="hello"} 30899540 (29.47 MB)
