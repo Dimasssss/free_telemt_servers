@@ -16,12 +16,9 @@
 
 #### Ссылки с SNI
 | SNI               | link                                                                                                                |
-| ----------------- | ------------------------------------------------------------------------------------------------------------------- |
+|-------------------|---------------------------------------------------------------------------------------------------------------------|
 | microsoft.com     | tg://proxy?server=195.226.94.42&port=443&secret=eebe3007e927acd147dde12bee8b1a7c936d6963726f736f66742e636f6d        |
-| max.ru            | tg://proxy?server=195.226.94.42&port=443&secret=eebe3007e927acd147dde12bee8b1a7c936d61782e7275                      |
-| hd.kinopoisk.ru   | tg://proxy?server=195.226.94.42&port=443&secret=eebe3007e927acd147dde12bee8b1a7c9368642e6b696e6f706f69736b2e7275    |
-| my.mail.ru        | tg://proxy?server=195.226.94.42&port=443&secret=eebe3007e927acd147dde12bee8b1a7c936d792e6d61696c2e7275              |
-| avito.ru          | tg://proxy?server=195.226.94.42&port=443&secret=eebe3007e927acd147dde12bee8b1a7c93617669746f2e7275                  |
+| drive.google.com  | tg://proxy?server=195.226.94.42&port=443&secret=eebe3007e927acd147dde12bee8b1a7c9364726976652e676f6f676c652e636f6d  |
 
 -----
 
@@ -34,13 +31,9 @@
 
 #### Ссылки с SNI
 | SNI               | link                                                                                                                |
-| ----------------- | ------------------------------------------------------------------------------------------------------------------- |
+|-------------------|---------------------------------------------------------------------------------------------------------------------|
 | microsoft.com     | tg://proxy?server=45.147.28.10&port=443&secret=eebe3007e927acd147dde12bee8b1a7c936d6963726f736f66742e636f6d         |
 | drive.google.com  | tg://proxy?server=45.147.28.10&port=443&secret=eebe3007e927acd147dde12bee8b1a7c9364726976652e676f6f676c652e636f6d   |
-| max.ru            | tg://proxy?server=45.147.28.10&port=443&secret=eebe3007e927acd147dde12bee8b1a7c936d61782e7275                       |
-| hd.kinopoisk.ru   | tg://proxy?server=45.147.28.10&port=443&secret=eebe3007e927acd147dde12bee8b1a7c9368642e6b696e6f706f69736b2e7275     |
-| my.mail.ru        | tg://proxy?server=45.147.28.10&port=443&secret=eebe3007e927acd147dde12bee8b1a7c936d792e6d61696c2e7275               |
-| avito.ru          | tg://proxy?server=45.147.28.10&port=443&secret=eebe3007e927acd147dde12bee8b1a7c93617669746f2e7275                   |
 
 -----
 
@@ -53,13 +46,9 @@
 
 #### Ссылки с SNI
 | SNI               | link                                                                                                                |
-| ----------------- | ------------------------------------------------------------------------------------------------------------------- |
+|-------------------|---------------------------------------------------------------------------------------------------------------------|
 | microsoft.com     | tg://proxy?server=108.165.174.245&port=443&secret=eebe3007e927acd147dde12bee8b1a7c936d6963726f736f66742e636f6d      |
 | drive.google.com  | tg://proxy?server=108.165.174.245&port=443&secret=eebe3007e927acd147dde12bee8b1a7c9364726976652e676f6f676c652e636f6d|
-| max.ru            | tg://proxy?server=108.165.174.245&port=443&secret=eebe3007e927acd147dde12bee8b1a7c936d61782e7275                    |
-| hd.kinopoisk.ru   | tg://proxy?server=108.165.174.245&port=443&secret=eebe3007e927acd147dde12bee8b1a7c9368642e6b696e6f706f69736b2e7275  |
-| my.mail.ru        | tg://proxy?server=108.165.174.245&port=443&secret=eebe3007e927acd147dde12bee8b1a7c936d792e6d61696c2e7275            |
-| avito.ru          | tg://proxy?server=108.165.174.245&port=443&secret=eebe3007e927acd147dde12bee8b1a7c93617669746f2e7275                |
 
 -----
 
@@ -72,13 +61,9 @@
 
 #### Ссылки с SNI
 | SNI               | link                                                                                                                |
-| ----------------- | ------------------------------------------------------------------------------------------------------------------- |
+|-------------------|---------------------------------------------------------------------------------------------------------------------|
 | microsoft.com     | tg://proxy?server=185.225.203.236&port=443&secret=eebe3007e927acd147dde12bee8b1a7c936d6963726f736f66742e636f6d      |
 | drive.google.com  | tg://proxy?server=185.225.203.236&port=443&secret=eebe3007e927acd147dde12bee8b1a7c9364726976652e676f6f676c652e636f6d|
-| max.ru            | tg://proxy?server=185.225.203.236&port=443&secret=eebe3007e927acd147dde12bee8b1a7c936d61782e7275                    |
-| hd.kinopoisk.ru   | tg://proxy?server=185.225.203.236&port=443&secret=eebe3007e927acd147dde12bee8b1a7c9368642e6b696e6f706f69736b2e7275  |
-| my.mail.ru        | tg://proxy?server=185.225.203.236&port=443&secret=eebe3007e927acd147dde12bee8b1a7c936d792e6d61696c2e7275            |
-| avito.ru          | tg://proxy?server=185.225.203.236&port=443&secret=eebe3007e927acd147dde12bee8b1a7c93617669746f2e7275                |
 
 -----
 
@@ -91,17 +76,13 @@
 
 #### Ссылки с SNI
 | SNI               | link                                                                                                                |
-| ----------------- | ------------------------------------------------------------------------------------------------------------------- |
+|-------------------|---------------------------------------------------------------------------------------------------------------------|
 | microsoft.com     | tg://proxy?server=213.176.17.198&port=443&secret=eebe3007e927acd147dde12bee8b1a7c936d6963726f736f66742e636f6d       |
 | drive.google.com  | tg://proxy?server=213.176.17.198&port=443&secret=eebe3007e927acd147dde12bee8b1a7c9364726976652e676f6f676c652e636f6d |
-| max.ru            | tg://proxy?server=213.176.17.198&port=443&secret=eebe3007e927acd147dde12bee8b1a7c936d61782e7275                     |
-| hd.kinopoisk.ru   | tg://proxy?server=213.176.17.198&port=443&secret=eebe3007e927acd147dde12bee8b1a7c9368642e6b696e6f706f69736b2e7275   |
-| my.mail.ru        | tg://proxy?server=213.176.17.198&port=443&secret=eebe3007e927acd147dde12bee8b1a7c936d792e6d61696c2e7275             |
-| avito.ru          | tg://proxy?server=213.176.17.198&port=443&secret=eebe3007e927acd147dde12bee8b1a7c93617669746f2e7275                 |
 
 -----
 
-# Server Metrics 2026-02-27 17:06:20 UTC
+# Server Metrics 2026-02-27 17:09:37 UTC
 - Updated every 5 minutes. 
 - Metrics with a value of 0 are not displayed.
 
@@ -110,16 +91,14 @@
 ```
 telemt 3.1.2
 
-telemt_uptime_seconds 82995.8 (23h 3m)
-telemt_connections_total 9491
-telemt_connections_bad_total 266
-telemt_handshake_timeouts_total 35
-telemt_user_connections_total{user="hello"} 8745
+telemt_uptime_seconds 83.9 (0h 1m)
+telemt_connections_total 22
+telemt_user_connections_total{user="hello"} 22
 telemt_user_connections_current{user="hello"} 15
-telemt_user_octets_from_client{user="hello"} 764977256 (729.54 MB)
-telemt_user_octets_to_client{user="hello"} 810839884 (773.28 MB)
-telemt_user_msgs_from_client{user="hello"} 340114
-telemt_user_msgs_to_client{user="hello"} 257552
+telemt_user_octets_from_client{user="hello"} 38715 (37.81 KB)
+telemt_user_octets_to_client{user="hello"} 94342 (92.13 KB)
+telemt_user_msgs_from_client{user="hello"} 135
+telemt_user_msgs_to_client{user="hello"} 342
 ```
 
 ## psb.hosting
@@ -127,7 +106,7 @@ telemt_user_msgs_to_client{user="hello"} 257552
 ```
 telemt 3.1.2
 
-telemt_uptime_seconds 377.5 (0h 6m)
+telemt_uptime_seconds 575.1 (0h 9m)
 telemt_connections_total 5
 telemt_connections_bad_total 1
 telemt_user_connections_total{user="hello"} 1
@@ -142,7 +121,7 @@ telemt_user_msgs_to_client{user="hello"} 1
 ```
 telemt 3.1.2
 
-telemt_uptime_seconds 19.6 (0h 0m)
+telemt_uptime_seconds 217.4 (0h 3m)
 ```
 
 ## landvps.ru
@@ -150,7 +129,7 @@ telemt_uptime_seconds 19.6 (0h 0m)
 ```
 telemt 3.1.2
 
-telemt_uptime_seconds 132.1 (0h 2m)
+telemt_uptime_seconds 330.0 (0h 5m)
 ```
 
 ## 4vps.su
@@ -158,5 +137,5 @@ telemt_uptime_seconds 132.1 (0h 2m)
 ```
 telemt 3.1.2
 
-telemt_uptime_seconds 188.6 (0h 3m)
+telemt_uptime_seconds 386.5 (0h 6m)
 ```
