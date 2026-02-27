@@ -5,8 +5,8 @@ use_middle_proxy = false
 show ="*"
 
 [censorship]
-tls_domain = "max.ru"
-tls_domains = ["max.ru", "hd.kinopoisk.ru", "my.mail.ru", "avito.ru", "microsoft.com", "drive.google.com"]
+tls_domain = "microsoft.com"
+tls_domains = ["microsoft.com", "drive.google.com", "max.ru", "hd.kinopoisk.ru", "my.mail.ru", "avito.ru"]
 tls_emulation = true
 
 [access.users]
@@ -16,4 +16,3 @@ hello = "be3007e927acd147dde12bee8b1a7c93"
 port = 443
 metrics_port = 9090
 metrics_whitelist = ["127.0.0.1", "::1"]
-
