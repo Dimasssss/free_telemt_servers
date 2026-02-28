@@ -82,7 +82,7 @@
 
 -----
 
-# Server Metrics 2026-02-28 00:37:26 UTC
+# Server Metrics 2026-02-28 00:42:47 UTC
 - Updated every 5 minutes. 
 - Metrics with a value of 0 are not displayed.
 
@@ -91,15 +91,15 @@
 ```
 telemt 3.1.2
 
-telemt_uptime_seconds 4252.0 (1h 10m)
-telemt_connections_total 754
+telemt_uptime_seconds 4559.7 (1h 15m)
+telemt_connections_total 839
 telemt_connections_bad_total 19
-telemt_user_connections_total{user="hello"} 727
-telemt_user_connections_current{user="hello"} 2
-telemt_user_octets_from_client{user="hello"} 440631 (430.30 KB)
-telemt_user_octets_to_client{user="hello"} 1750910 (1.67 MB)
-telemt_user_msgs_from_client{user="hello"} 1860
-telemt_user_msgs_to_client{user="hello"} 3819
+telemt_user_connections_total{user="hello"} 812
+telemt_user_connections_current{user="hello"} 3
+telemt_user_octets_from_client{user="hello"} 487055 (475.64 KB)
+telemt_user_octets_to_client{user="hello"} 1855556 (1.77 MB)
+telemt_user_msgs_from_client{user="hello"} 2055
+telemt_user_msgs_to_client{user="hello"} 4201
 ```
 
 ## psb.hosting
@@ -107,7 +107,7 @@ telemt_user_msgs_to_client{user="hello"} 3819
 ```
 telemt 3.1.2
 
-telemt_uptime_seconds 4078.4 (1h 7m)
+telemt_uptime_seconds 4386.1 (1h 13m)
 telemt_connections_total 8
 telemt_connections_bad_total 8
 ```
@@ -117,7 +117,7 @@ telemt_connections_bad_total 8
 ```
 telemt 3.1.2
 
-telemt_uptime_seconds 4246.4 (1h 10m)
+telemt_uptime_seconds 4554.1 (1h 15m)
 telemt_connections_total 14
 telemt_connections_bad_total 6
 telemt_handshake_timeouts_total 1
@@ -128,7 +128,7 @@ telemt_handshake_timeouts_total 1
 ```
 telemt 3.1.2
 
-telemt_uptime_seconds 5389.4 (1h 29m)
+telemt_uptime_seconds 5711.2 (1h 35m)
 telemt_connections_total 62
 telemt_connections_bad_total 55
 telemt_user_connections_total{user="hello"} 7
@@ -143,7 +143,7 @@ telemt_user_msgs_to_client{user="hello"} 7
 ```
 telemt 3.1.2
 
-telemt_uptime_seconds 4240.0 (1h 10m)
+telemt_uptime_seconds 4547.9 (1h 15m)
 telemt_connections_total 82
 telemt_connections_bad_total 79
 telemt_handshake_timeouts_total 4
