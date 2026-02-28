@@ -82,7 +82,7 @@
 
 -----
 
-# Server Metrics 2026-02-28 07:23:05 UTC
+# Server Metrics 2026-02-28 07:28:12 UTC
 - Updated every 5 minutes. 
 - Metrics with a value of 0 are not displayed.
 
@@ -91,16 +91,16 @@
 ```
 telemt 3.1.2
 
-telemt_uptime_seconds 28590.9 (7h 56m)
-telemt_connections_total 3283
+telemt_uptime_seconds 28898.2 (8h 1m)
+telemt_connections_total 3426
 telemt_connections_bad_total 98
 telemt_handshake_timeouts_total 4
-telemt_user_connections_total{user="hello"} 3137
-telemt_user_connections_current{user="hello"} 7
-telemt_user_octets_from_client{user="hello"} 3983492 (3.80 MB)
-telemt_user_octets_to_client{user="hello"} 68456620 (65.29 MB)
-telemt_user_msgs_from_client{user="hello"} 12905
-telemt_user_msgs_to_client{user="hello"} 35034
+telemt_user_connections_total{user="hello"} 3280
+telemt_user_connections_current{user="hello"} 6
+telemt_user_octets_from_client{user="hello"} 4085854 (3.90 MB)
+telemt_user_octets_to_client{user="hello"} 69089256 (65.89 MB)
+telemt_user_msgs_from_client{user="hello"} 13300
+telemt_user_msgs_to_client{user="hello"} 35839
 ```
 
 ## psb.hosting
@@ -108,16 +108,15 @@ telemt_user_msgs_to_client{user="hello"} 35034
 ```
 telemt 3.1.2
 
-telemt_uptime_seconds 28417.5 (7h 53m)
-telemt_connections_total 133
+telemt_uptime_seconds 28724.6 (7h 58m)
+telemt_connections_total 223
 telemt_connections_bad_total 50
-telemt_handshake_timeouts_total 4
-telemt_user_connections_total{user="hello"} 60
-telemt_user_connections_current{user="hello"} 1
-telemt_user_octets_from_client{user="hello"} 57336 (55.99 KB)
-telemt_user_octets_to_client{user="hello"} 134914 (131.75 KB)
-telemt_user_msgs_from_client{user="hello"} 202
-telemt_user_msgs_to_client{user="hello"} 154
+telemt_handshake_timeouts_total 5
+telemt_user_connections_total{user="hello"} 149
+telemt_user_octets_from_client{user="hello"} 131761 (128.67 KB)
+telemt_user_octets_to_client{user="hello"} 310004 (302.74 KB)
+telemt_user_msgs_from_client{user="hello"} 475
+telemt_user_msgs_to_client{user="hello"} 334
 ```
 
 ## koara.io
@@ -125,15 +124,15 @@ telemt_user_msgs_to_client{user="hello"} 154
 ```
 telemt 3.1.2
 
-telemt_uptime_seconds 28585.4 (7h 56m)
-telemt_connections_total 1240
-telemt_connections_bad_total 81
+telemt_uptime_seconds 28892.7 (8h 1m)
+telemt_connections_total 1244
+telemt_connections_bad_total 83
 telemt_handshake_timeouts_total 14
-telemt_user_connections_total{user="hello"} 649
-telemt_user_octets_from_client{user="hello"} 1482433 (1.41 MB)
-telemt_user_octets_to_client{user="hello"} 71382274 (68.08 MB)
-telemt_user_msgs_from_client{user="hello"} 4420
-telemt_user_msgs_to_client{user="hello"} 21020
+telemt_user_connections_total{user="hello"} 651
+telemt_user_octets_from_client{user="hello"} 1483907 (1.42 MB)
+telemt_user_octets_to_client{user="hello"} 71383038 (68.08 MB)
+telemt_user_msgs_from_client{user="hello"} 4424
+telemt_user_msgs_to_client{user="hello"} 21023
 ```
 
 ## landvps.ru
@@ -141,15 +140,15 @@ telemt_user_msgs_to_client{user="hello"} 21020
 ```
 telemt 3.1.2
 
-telemt_uptime_seconds 29728.3 (8h 15m)
-telemt_connections_total 2488
+telemt_uptime_seconds 30035.5 (8h 20m)
+telemt_connections_total 2895
 telemt_connections_bad_total 100
 telemt_handshake_timeouts_total 1
-telemt_user_connections_total{user="hello"} 12
-telemt_user_octets_from_client{user="hello"} 3896 (3.80 KB)
-telemt_user_octets_to_client{user="hello"} 3193 (3.12 KB)
-telemt_user_msgs_from_client{user="hello"} 17
-telemt_user_msgs_to_client{user="hello"} 14
+telemt_user_connections_total{user="hello"} 13
+telemt_user_octets_from_client{user="hello"} 4281 (4.18 KB)
+telemt_user_octets_to_client{user="hello"} 3481 (3.40 KB)
+telemt_user_msgs_from_client{user="hello"} 18
+telemt_user_msgs_to_client{user="hello"} 15
 ```
 
 ## 4vps.su
@@ -157,7 +156,7 @@ telemt_user_msgs_to_client{user="hello"} 14
 ```
 telemt 3.1.2
 
-telemt_uptime_seconds 28579.0 (7h 56m)
+telemt_uptime_seconds 28886.2 (8h 1m)
 telemt_connections_total 182
 telemt_connections_bad_total 168
 telemt_handshake_timeouts_total 5
