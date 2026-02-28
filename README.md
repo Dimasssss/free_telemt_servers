@@ -47,7 +47,7 @@
 
 -----
 
-# Server Metrics 2026-02-28 20:37:36 UTC
+# Server Metrics 2026-02-28 20:42:43 UTC
 - Updated every 5 minutes. 
 - Metrics with a value of 0 are not displayed.
 
@@ -56,19 +56,19 @@
 ```
 telemt 3.1.3
 
-telemt_uptime_seconds 18844.2 (5h 14m)
+telemt_uptime_seconds 19151.1 (5h 19m)
 telemt_telemetry_core_enabled 1
 telemt_telemetry_user_enabled 1
 telemt_telemetry_me_level{level="normal"} 1
-telemt_connections_total 7902
+telemt_connections_total 8071
 telemt_connections_bad_total 143
 telemt_handshake_timeouts_total 4
-telemt_user_connections_total{user="hello"} 7376
-telemt_user_connections_current{user="hello"} 4
-telemt_user_octets_from_client{user="hello"} 39415171 (37.59 MB)
-telemt_user_octets_to_client{user="hello"} 419221227 (399.80 MB)
-telemt_user_msgs_from_client{user="hello"} 35775
-telemt_user_msgs_to_client{user="hello"} 105709
+telemt_user_connections_total{user="hello"} 7541
+telemt_user_connections_current{user="hello"} 10
+telemt_user_octets_from_client{user="hello"} 39797723 (37.95 MB)
+telemt_user_octets_to_client{user="hello"} 430053706 (410.13 MB)
+telemt_user_msgs_from_client{user="hello"} 37021
+telemt_user_msgs_to_client{user="hello"} 108876
 ```
 
 ## psb.hosting
@@ -76,7 +76,7 @@ telemt_user_msgs_to_client{user="hello"} 105709
 ```
 telemt 3.1.3
 
-telemt_uptime_seconds 18649.5 (5h 10m)
+telemt_uptime_seconds 18956.3 (5h 15m)
 telemt_telemetry_core_enabled 1
 telemt_telemetry_user_enabled 1
 telemt_telemetry_me_level{level="normal"} 1
@@ -95,7 +95,7 @@ telemt_user_msgs_to_client{user="hello"} 16378
 ```
 telemt 3.1.3
 
-telemt_uptime_seconds 18557.7 (5h 9m)
+telemt_uptime_seconds 18864.4 (5h 14m)
 telemt_telemetry_core_enabled 1
 telemt_telemetry_user_enabled 1
 telemt_telemetry_me_level{level="normal"} 1
@@ -114,7 +114,7 @@ telemt_user_msgs_to_client{user="hello"} 125022
 ```
 telemt 3.1.3
 
-telemt_uptime_seconds 18494.3 (5h 8m)
+telemt_uptime_seconds 18801.1 (5h 13m)
 telemt_telemetry_core_enabled 1
 telemt_telemetry_user_enabled 1
 telemt_telemetry_me_level{level="normal"} 1
