@@ -6,7 +6,7 @@ show ="*"
 
 [censorship]
 tls_domain = "microsoft.com"
-tls_domains = ["microsoft.com", "drive.google.com", "max.ru", "hd.kinopoisk.ru", "my.mail.ru", "avito.ru"]
+tls_domains = ["microsoft.com", "drive.google.com"]
 tls_emulation = true
 
 [access.users]
