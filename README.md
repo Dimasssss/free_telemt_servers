@@ -82,7 +82,7 @@
 
 -----
 
-# Server Metrics 2026-02-28 05:20:01 UTC
+# Server Metrics 2026-02-28 05:25:09 UTC
 - Updated every 5 minutes. 
 - Metrics with a value of 0 are not displayed.
 
@@ -91,15 +91,15 @@
 ```
 telemt 3.1.2
 
-telemt_uptime_seconds 21207.2 (5h 53m)
+telemt_uptime_seconds 21514.6 (5h 58m)
 telemt_connections_total 2660
 telemt_connections_bad_total 58
 telemt_user_connections_total{user="hello"} 2573
-telemt_user_connections_current{user="hello"} 5
-telemt_user_octets_from_client{user="hello"} 1977658 (1.89 MB)
-telemt_user_octets_to_client{user="hello"} 10721883 (10.23 MB)
-telemt_user_msgs_from_client{user="hello"} 7641
-telemt_user_msgs_to_client{user="hello"} 18738
+telemt_user_connections_current{user="hello"} 2
+telemt_user_octets_from_client{user="hello"} 1987876 (1.90 MB)
+telemt_user_octets_to_client{user="hello"} 10815424 (10.31 MB)
+telemt_user_msgs_from_client{user="hello"} 7671
+telemt_user_msgs_to_client{user="hello"} 18857
 ```
 
 ## psb.hosting
@@ -107,7 +107,7 @@ telemt_user_msgs_to_client{user="hello"} 18738
 ```
 telemt 3.1.2
 
-telemt_uptime_seconds 21033.6 (5h 50m)
+telemt_uptime_seconds 21341.1 (5h 55m)
 telemt_connections_total 49
 telemt_connections_bad_total 36
 ```
@@ -117,7 +117,7 @@ telemt_connections_bad_total 36
 ```
 telemt 3.1.2
 
-telemt_uptime_seconds 21201.5 (5h 53m)
+telemt_uptime_seconds 21509.0 (5h 58m)
 telemt_connections_total 558
 telemt_connections_bad_total 58
 telemt_handshake_timeouts_total 10
@@ -128,7 +128,7 @@ telemt_handshake_timeouts_total 10
 ```
 telemt 3.1.2
 
-telemt_uptime_seconds 22344.5 (6h 12m)
+telemt_uptime_seconds 22651.9 (6h 17m)
 telemt_connections_total 91
 telemt_connections_bad_total 82
 telemt_handshake_timeouts_total 1
@@ -144,8 +144,8 @@ telemt_user_msgs_to_client{user="hello"} 7
 ```
 telemt 3.1.2
 
-telemt_uptime_seconds 21195.2 (5h 53m)
-telemt_connections_total 155
-telemt_connections_bad_total 149
+telemt_uptime_seconds 21502.7 (5h 58m)
+telemt_connections_total 156
+telemt_connections_bad_total 150
 telemt_handshake_timeouts_total 5
 ```
