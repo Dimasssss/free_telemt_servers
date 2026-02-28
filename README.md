@@ -47,7 +47,7 @@
 
 -----
 
-# Server Metrics 2026-02-28 23:42:27 UTC
+# Server Metrics 2026-02-28 23:47:35 UTC
 - Updated every 5 minutes. 
 - Metrics with a value of 0 are not displayed.
 
@@ -56,19 +56,19 @@
 ```
 telemt 3.1.3
 
-telemt_uptime_seconds 29935.8 (8h 18m)
+telemt_uptime_seconds 30243.3 (8h 24m)
 telemt_telemetry_core_enabled 1
 telemt_telemetry_user_enabled 1
 telemt_telemetry_me_level{level="normal"} 1
-telemt_connections_total 11660
+telemt_connections_total 11745
 telemt_connections_bad_total 179
 telemt_handshake_timeouts_total 4
-telemt_user_connections_total{user="hello"} 11078
-telemt_user_connections_current{user="hello"} 2
-telemt_user_octets_from_client{user="hello"} 44040529 (42.00 MB)
-telemt_user_octets_to_client{user="hello"} 629813129 (600.64 MB)
-telemt_user_msgs_from_client{user="hello"} 50507
-telemt_user_msgs_to_client{user="hello"} 156337
+telemt_user_connections_total{user="hello"} 11162
+telemt_user_connections_current{user="hello"} 3
+telemt_user_octets_from_client{user="hello"} 44082077 (42.04 MB)
+telemt_user_octets_to_client{user="hello"} 630021211 (600.84 MB)
+telemt_user_msgs_from_client{user="hello"} 50688
+telemt_user_msgs_to_client{user="hello"} 156685
 ```
 
 ## psb.hosting
@@ -76,7 +76,7 @@ telemt_user_msgs_to_client{user="hello"} 156337
 ```
 telemt 3.1.3
 
-telemt_uptime_seconds 29740.8 (8h 15m)
+telemt_uptime_seconds 30048.6 (8h 20m)
 telemt_telemetry_core_enabled 1
 telemt_telemetry_user_enabled 1
 telemt_telemetry_me_level{level="normal"} 1
@@ -95,7 +95,7 @@ telemt_user_msgs_to_client{user="hello"} 20313
 ```
 telemt 3.1.3
 
-telemt_uptime_seconds 29649.0 (8h 14m)
+telemt_uptime_seconds 29956.5 (8h 19m)
 telemt_telemetry_core_enabled 1
 telemt_telemetry_user_enabled 1
 telemt_telemetry_me_level{level="normal"} 1
@@ -114,7 +114,7 @@ telemt_user_msgs_to_client{user="hello"} 128857
 ```
 telemt 3.1.3
 
-telemt_uptime_seconds 29585.6 (8h 13m)
+telemt_uptime_seconds 29893.3 (8h 18m)
 telemt_telemetry_core_enabled 1
 telemt_telemetry_user_enabled 1
 telemt_telemetry_me_level{level="normal"} 1
