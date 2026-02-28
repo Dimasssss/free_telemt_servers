@@ -5,8 +5,7 @@ use_middle_proxy = false
 show ="*"
 
 [censorship]
-tls_domain = "microsoft.com"
-tls_domains = ["microsoft.com", "drive.google.com"]
+tls_domain = "drive.google.com"
 tls_emulation = true
 
 [access.users]
