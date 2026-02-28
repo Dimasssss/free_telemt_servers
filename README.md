@@ -47,7 +47,7 @@
 
 -----
 
-# Server Metrics 2026-02-28 22:35:48 UTC
+# Server Metrics 2026-02-28 22:40:55 UTC
 - Updated every 5 minutes. 
 - Metrics with a value of 0 are not displayed.
 
@@ -56,19 +56,19 @@
 ```
 telemt 3.1.3
 
-telemt_uptime_seconds 25936.3 (7h 12m)
+telemt_uptime_seconds 26244.0 (7h 17m)
 telemt_telemetry_core_enabled 1
 telemt_telemetry_user_enabled 1
 telemt_telemetry_me_level{level="normal"} 1
-telemt_connections_total 10560
-telemt_connections_bad_total 150
+telemt_connections_total 10641
+telemt_connections_bad_total 161
 telemt_handshake_timeouts_total 4
-telemt_user_connections_total{user="hello"} 10012
+telemt_user_connections_total{user="hello"} 10082
 telemt_user_connections_current{user="hello"} 3
-telemt_user_octets_from_client{user="hello"} 43568350 (41.55 MB)
-telemt_user_octets_to_client{user="hello"} 622012535 (593.20 MB)
-telemt_user_msgs_from_client{user="hello"} 48346
-telemt_user_msgs_to_client{user="hello"} 151762
+telemt_user_octets_from_client{user="hello"} 43595492 (41.58 MB)
+telemt_user_octets_to_client{user="hello"} 622102628 (593.28 MB)
+telemt_user_msgs_from_client{user="hello"} 48475
+telemt_user_msgs_to_client{user="hello"} 151977
 ```
 
 ## psb.hosting
@@ -76,7 +76,7 @@ telemt_user_msgs_to_client{user="hello"} 151762
 ```
 telemt 3.1.3
 
-telemt_uptime_seconds 25741.5 (7h 9m)
+telemt_uptime_seconds 26049.1 (7h 14m)
 telemt_telemetry_core_enabled 1
 telemt_telemetry_user_enabled 1
 telemt_telemetry_me_level{level="normal"} 1
@@ -95,7 +95,7 @@ telemt_user_msgs_to_client{user="hello"} 20311
 ```
 telemt 3.1.3
 
-telemt_uptime_seconds 25649.5 (7h 7m)
+telemt_uptime_seconds 25957.1 (7h 12m)
 telemt_telemetry_core_enabled 1
 telemt_telemetry_user_enabled 1
 telemt_telemetry_me_level{level="normal"} 1
@@ -114,7 +114,7 @@ telemt_user_msgs_to_client{user="hello"} 128850
 ```
 telemt 3.1.3
 
-telemt_uptime_seconds 25586.2 (7h 6m)
+telemt_uptime_seconds 25893.7 (7h 11m)
 telemt_telemetry_core_enabled 1
 telemt_telemetry_user_enabled 1
 telemt_telemetry_me_level{level="normal"} 1
