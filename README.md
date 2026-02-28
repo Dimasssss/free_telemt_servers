@@ -82,7 +82,7 @@
 
 -----
 
-# Server Metrics 2026-02-28 04:18:31 UTC
+# Server Metrics 2026-02-28 04:23:38 UTC
 - Updated every 5 minutes. 
 - Metrics with a value of 0 are not displayed.
 
@@ -91,15 +91,15 @@
 ```
 telemt 3.1.2
 
-telemt_uptime_seconds 17516.6 (4h 51m)
-telemt_connections_total 2272
+telemt_uptime_seconds 17824.2 (4h 57m)
+telemt_connections_total 2312
 telemt_connections_bad_total 51
-telemt_user_connections_total{user="hello"} 2200
-telemt_user_connections_current{user="hello"} 2
-telemt_user_octets_from_client{user="hello"} 1576148 (1.50 MB)
-telemt_user_octets_to_client{user="hello"} 7533594 (7.18 MB)
-telemt_user_msgs_from_client{user="hello"} 6284
-telemt_user_msgs_to_client{user="hello"} 14319
+telemt_user_connections_total{user="hello"} 2240
+telemt_user_connections_current{user="hello"} 4
+telemt_user_octets_from_client{user="hello"} 1646948 (1.57 MB)
+telemt_user_octets_to_client{user="hello"} 8007329 (7.64 MB)
+telemt_user_msgs_from_client{user="hello"} 6494
+telemt_user_msgs_to_client{user="hello"} 14734
 ```
 
 ## psb.hosting
@@ -107,7 +107,7 @@ telemt_user_msgs_to_client{user="hello"} 14319
 ```
 telemt 3.1.2
 
-telemt_uptime_seconds 17343.0 (4h 49m)
+telemt_uptime_seconds 17650.6 (4h 54m)
 telemt_connections_total 41
 telemt_connections_bad_total 31
 ```
@@ -117,7 +117,7 @@ telemt_connections_bad_total 31
 ```
 telemt 3.1.2
 
-telemt_uptime_seconds 17511.0 (4h 51m)
+telemt_uptime_seconds 17818.6 (4h 56m)
 telemt_connections_total 542
 telemt_connections_bad_total 44
 telemt_handshake_timeouts_total 9
@@ -128,7 +128,7 @@ telemt_handshake_timeouts_total 9
 ```
 telemt 3.1.2
 
-telemt_uptime_seconds 18653.9 (5h 10m)
+telemt_uptime_seconds 18961.5 (5h 16m)
 telemt_connections_total 83
 telemt_connections_bad_total 74
 telemt_handshake_timeouts_total 1
@@ -144,7 +144,7 @@ telemt_user_msgs_to_client{user="hello"} 7
 ```
 telemt 3.1.2
 
-telemt_uptime_seconds 17504.6 (4h 51m)
+telemt_uptime_seconds 17812.1 (4h 56m)
 telemt_connections_total 114
 telemt_connections_bad_total 109
 telemt_handshake_timeouts_total 4
