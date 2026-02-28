@@ -82,7 +82,7 @@
 
 -----
 
-# Server Metrics 2026-02-28 02:30:39 UTC
+# Server Metrics 2026-02-28 02:35:47 UTC
 - Updated every 5 minutes. 
 - Metrics with a value of 0 are not displayed.
 
@@ -91,15 +91,15 @@
 ```
 telemt 3.1.2
 
-telemt_uptime_seconds 11044.7 (3h 4m)
-telemt_connections_total 1907
-telemt_connections_bad_total 41
-telemt_user_connections_total{user="hello"} 1846
+telemt_uptime_seconds 11352.9 (3h 9m)
+telemt_connections_total 1923
+telemt_connections_bad_total 42
+telemt_user_connections_total{user="hello"} 1861
 telemt_user_connections_current{user="hello"} 3
-telemt_user_octets_from_client{user="hello"} 1130510 (1.08 MB)
-telemt_user_octets_to_client{user="hello"} 4411401 (4.21 MB)
-telemt_user_msgs_from_client{user="hello"} 4757
-telemt_user_msgs_to_client{user="hello"} 9650
+telemt_user_octets_from_client{user="hello"} 1148158 (1.09 MB)
+telemt_user_octets_to_client{user="hello"} 4483901 (4.28 MB)
+telemt_user_msgs_from_client{user="hello"} 4815
+telemt_user_msgs_to_client{user="hello"} 9797
 ```
 
 ## psb.hosting
@@ -107,7 +107,7 @@ telemt_user_msgs_to_client{user="hello"} 9650
 ```
 telemt 3.1.2
 
-telemt_uptime_seconds 10871.0 (3h 1m)
+telemt_uptime_seconds 11179.2 (3h 6m)
 telemt_connections_total 23
 telemt_connections_bad_total 18
 ```
@@ -117,7 +117,7 @@ telemt_connections_bad_total 18
 ```
 telemt 3.1.2
 
-telemt_uptime_seconds 11039.0 (3h 3m)
+telemt_uptime_seconds 11347.2 (3h 9m)
 telemt_connections_total 22
 telemt_connections_bad_total 13
 telemt_handshake_timeouts_total 1
@@ -128,7 +128,7 @@ telemt_handshake_timeouts_total 1
 ```
 telemt 3.1.2
 
-telemt_uptime_seconds 12182.2 (3h 23m)
+telemt_uptime_seconds 12490.3 (3h 28m)
 telemt_connections_total 73
 telemt_connections_bad_total 65
 telemt_user_connections_total{user="hello"} 7
@@ -143,7 +143,7 @@ telemt_user_msgs_to_client{user="hello"} 7
 ```
 telemt 3.1.2
 
-telemt_uptime_seconds 11032.7 (3h 3m)
+telemt_uptime_seconds 11340.8 (3h 9m)
 telemt_connections_total 97
 telemt_connections_bad_total 93
 telemt_handshake_timeouts_total 4
