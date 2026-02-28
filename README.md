@@ -47,7 +47,7 @@
 
 -----
 
-# Server Metrics 2026-02-28 23:27:04 UTC
+# Server Metrics 2026-02-28 23:32:12 UTC
 - Updated every 5 minutes. 
 - Metrics with a value of 0 are not displayed.
 
@@ -56,19 +56,19 @@
 ```
 telemt 3.1.3
 
-telemt_uptime_seconds 29012.9 (8h 3m)
+telemt_uptime_seconds 29320.5 (8h 8m)
 telemt_telemetry_core_enabled 1
 telemt_telemetry_user_enabled 1
 telemt_telemetry_me_level{level="normal"} 1
-telemt_connections_total 11393
+telemt_connections_total 11482
 telemt_connections_bad_total 172
 telemt_handshake_timeouts_total 4
-telemt_user_connections_total{user="hello"} 10818
-telemt_user_connections_current{user="hello"} 2
-telemt_user_octets_from_client{user="hello"} 43930521 (41.90 MB)
-telemt_user_octets_to_client{user="hello"} 629326552 (600.17 MB)
-telemt_user_msgs_from_client{user="hello"} 49986
-telemt_user_msgs_to_client{user="hello"} 155412
+telemt_user_connections_total{user="hello"} 10907
+telemt_user_connections_current{user="hello"} 5
+telemt_user_octets_from_client{user="hello"} 43976139 (41.94 MB)
+telemt_user_octets_to_client{user="hello"} 629622495 (600.45 MB)
+telemt_user_msgs_from_client{user="hello"} 50189
+telemt_user_msgs_to_client{user="hello"} 155771
 ```
 
 ## psb.hosting
@@ -76,7 +76,7 @@ telemt_user_msgs_to_client{user="hello"} 155412
 ```
 telemt 3.1.3
 
-telemt_uptime_seconds 28818.2 (8h 0m)
+telemt_uptime_seconds 29125.6 (8h 5m)
 telemt_telemetry_core_enabled 1
 telemt_telemetry_user_enabled 1
 telemt_telemetry_me_level{level="normal"} 1
@@ -95,7 +95,7 @@ telemt_user_msgs_to_client{user="hello"} 20313
 ```
 telemt 3.1.3
 
-telemt_uptime_seconds 28726.1 (7h 58m)
+telemt_uptime_seconds 29033.8 (8h 3m)
 telemt_telemetry_core_enabled 1
 telemt_telemetry_user_enabled 1
 telemt_telemetry_me_level{level="normal"} 1
@@ -114,7 +114,7 @@ telemt_user_msgs_to_client{user="hello"} 128857
 ```
 telemt 3.1.3
 
-telemt_uptime_seconds 28662.8 (7h 57m)
+telemt_uptime_seconds 28970.4 (8h 2m)
 telemt_telemetry_core_enabled 1
 telemt_telemetry_user_enabled 1
 telemt_telemetry_me_level{level="normal"} 1
