@@ -47,7 +47,7 @@
 
 -----
 
-# Server Metrics 2026-02-28 23:32:12 UTC
+# Server Metrics 2026-02-28 23:37:20 UTC
 - Updated every 5 minutes. 
 - Metrics with a value of 0 are not displayed.
 
@@ -56,19 +56,19 @@
 ```
 telemt 3.1.3
 
-telemt_uptime_seconds 29320.5 (8h 8m)
+telemt_uptime_seconds 29628.3 (8h 13m)
 telemt_telemetry_core_enabled 1
 telemt_telemetry_user_enabled 1
 telemt_telemetry_me_level{level="normal"} 1
-telemt_connections_total 11482
-telemt_connections_bad_total 172
+telemt_connections_total 11583
+telemt_connections_bad_total 179
 telemt_handshake_timeouts_total 4
-telemt_user_connections_total{user="hello"} 10907
+telemt_user_connections_total{user="hello"} 11001
 telemt_user_connections_current{user="hello"} 5
-telemt_user_octets_from_client{user="hello"} 43976139 (41.94 MB)
-telemt_user_octets_to_client{user="hello"} 629622495 (600.45 MB)
-telemt_user_msgs_from_client{user="hello"} 50189
-telemt_user_msgs_to_client{user="hello"} 155771
+telemt_user_octets_from_client{user="hello"} 44014125 (41.98 MB)
+telemt_user_octets_to_client{user="hello"} 629731312 (600.56 MB)
+telemt_user_msgs_from_client{user="hello"} 50373
+telemt_user_msgs_to_client{user="hello"} 156097
 ```
 
 ## psb.hosting
@@ -76,7 +76,7 @@ telemt_user_msgs_to_client{user="hello"} 155771
 ```
 telemt 3.1.3
 
-telemt_uptime_seconds 29125.6 (8h 5m)
+telemt_uptime_seconds 29433.4 (8h 10m)
 telemt_telemetry_core_enabled 1
 telemt_telemetry_user_enabled 1
 telemt_telemetry_me_level{level="normal"} 1
@@ -95,7 +95,7 @@ telemt_user_msgs_to_client{user="hello"} 20313
 ```
 telemt 3.1.3
 
-telemt_uptime_seconds 29033.8 (8h 3m)
+telemt_uptime_seconds 29341.6 (8h 9m)
 telemt_telemetry_core_enabled 1
 telemt_telemetry_user_enabled 1
 telemt_telemetry_me_level{level="normal"} 1
@@ -114,7 +114,7 @@ telemt_user_msgs_to_client{user="hello"} 128857
 ```
 telemt 3.1.3
 
-telemt_uptime_seconds 28970.4 (8h 2m)
+telemt_uptime_seconds 29278.1 (8h 7m)
 telemt_telemetry_core_enabled 1
 telemt_telemetry_user_enabled 1
 telemt_telemetry_me_level{level="normal"} 1
