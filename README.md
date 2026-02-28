@@ -82,7 +82,7 @@
 
 -----
 
-# Server Metrics 2026-02-28 00:42:47 UTC
+# Server Metrics 2026-02-28 00:47:54 UTC
 - Updated every 5 minutes. 
 - Metrics with a value of 0 are not displayed.
 
@@ -91,15 +91,15 @@
 ```
 telemt 3.1.2
 
-telemt_uptime_seconds 4559.7 (1h 15m)
-telemt_connections_total 839
+telemt_uptime_seconds 4880.1 (1h 21m)
+telemt_connections_total 930
 telemt_connections_bad_total 19
-telemt_user_connections_total{user="hello"} 812
+telemt_user_connections_total{user="hello"} 902
 telemt_user_connections_current{user="hello"} 3
-telemt_user_octets_from_client{user="hello"} 487055 (475.64 KB)
-telemt_user_octets_to_client{user="hello"} 1855556 (1.77 MB)
-telemt_user_msgs_from_client{user="hello"} 2055
-telemt_user_msgs_to_client{user="hello"} 4201
+telemt_user_octets_from_client{user="hello"} 532056 (519.59 KB)
+telemt_user_octets_to_client{user="hello"} 1939674 (1.85 MB)
+telemt_user_msgs_from_client{user="hello"} 2256
+telemt_user_msgs_to_client{user="hello"} 4558
 ```
 
 ## psb.hosting
@@ -107,9 +107,9 @@ telemt_user_msgs_to_client{user="hello"} 4201
 ```
 telemt 3.1.2
 
-telemt_uptime_seconds 4386.1 (1h 13m)
-telemt_connections_total 8
-telemt_connections_bad_total 8
+telemt_uptime_seconds 4706.4 (1h 18m)
+telemt_connections_total 14
+telemt_connections_bad_total 12
 ```
 
 ## koara.io
@@ -117,7 +117,7 @@ telemt_connections_bad_total 8
 ```
 telemt 3.1.2
 
-telemt_uptime_seconds 4554.1 (1h 15m)
+telemt_uptime_seconds 4874.5 (1h 21m)
 telemt_connections_total 14
 telemt_connections_bad_total 6
 telemt_handshake_timeouts_total 1
@@ -128,7 +128,7 @@ telemt_handshake_timeouts_total 1
 ```
 telemt 3.1.2
 
-telemt_uptime_seconds 5711.2 (1h 35m)
+telemt_uptime_seconds 6017.6 (1h 40m)
 telemt_connections_total 62
 telemt_connections_bad_total 55
 telemt_user_connections_total{user="hello"} 7
@@ -143,7 +143,7 @@ telemt_user_msgs_to_client{user="hello"} 7
 ```
 telemt 3.1.2
 
-telemt_uptime_seconds 4547.9 (1h 15m)
+telemt_uptime_seconds 4868.2 (1h 21m)
 telemt_connections_total 82
 telemt_connections_bad_total 79
 telemt_handshake_timeouts_total 4
