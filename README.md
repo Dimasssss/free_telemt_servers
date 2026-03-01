@@ -47,7 +47,7 @@
 
 -----
 
-# Server Metrics 2026-03-01 12:43:22 UTC
+# Server Metrics 2026-03-01 12:48:30 UTC
 - Updated every 5 minutes. 
 - Metrics with a value of 0 are not displayed.
 
@@ -56,19 +56,19 @@
 ```
 telemt 3.1.3
 
-telemt_uptime_seconds 5807.8 (1h 36m)
+telemt_uptime_seconds 6115.9 (1h 41m)
 telemt_telemetry_core_enabled 1
 telemt_telemetry_user_enabled 1
 telemt_telemetry_me_level{level="normal"} 1
-telemt_connections_total 4151
+telemt_connections_total 4375
 telemt_connections_bad_total 19
 telemt_handshake_timeouts_total 3
-telemt_user_connections_total{user="hello"} 4058
+telemt_user_connections_total{user="hello"} 4281
 telemt_user_connections_current{user="hello"} 33
-telemt_user_octets_from_client{user="hello"} 31139656 (29.70 MB)
-telemt_user_octets_to_client{user="hello"} 559277464 (533.37 MB)
-telemt_user_msgs_from_client{user="hello"} 32720
-telemt_user_msgs_to_client{user="hello"} 105904
+telemt_user_octets_from_client{user="hello"} 43379912 (41.37 MB)
+telemt_user_octets_to_client{user="hello"} 641478059 (611.76 MB)
+telemt_user_msgs_from_client{user="hello"} 39564
+telemt_user_msgs_to_client{user="hello"} 118888
 telemt_user_unique_ips_current{user="hello"} 1
 ```
 
@@ -77,18 +77,18 @@ telemt_user_unique_ips_current{user="hello"} 1
 ```
 telemt 3.1.3
 
-telemt_uptime_seconds 5816.3 (1h 36m)
+telemt_uptime_seconds 6124.1 (1h 42m)
 telemt_telemetry_core_enabled 1
 telemt_telemetry_user_enabled 1
 telemt_telemetry_me_level{level="normal"} 1
-telemt_connections_total 330
+telemt_connections_total 336
 telemt_connections_bad_total 56
 telemt_handshake_timeouts_total 2
-telemt_user_connections_total{user="hello"} 268
-telemt_user_octets_from_client{user="hello"} 6628964 (6.32 MB)
-telemt_user_octets_to_client{user="hello"} 41545296 (39.62 MB)
-telemt_user_msgs_from_client{user="hello"} 4875
-telemt_user_msgs_to_client{user="hello"} 10338
+telemt_user_connections_total{user="hello"} 274
+telemt_user_octets_from_client{user="hello"} 6641272 (6.33 MB)
+telemt_user_octets_to_client{user="hello"} 42678092 (40.70 MB)
+telemt_user_msgs_from_client{user="hello"} 4900
+telemt_user_msgs_to_client{user="hello"} 10656
 ```
 
 ## koara.io
@@ -96,17 +96,17 @@ telemt_user_msgs_to_client{user="hello"} 10338
 ```
 telemt 3.1.3
 
-telemt_uptime_seconds 5850.7 (1h 37m)
+telemt_uptime_seconds 6158.3 (1h 42m)
 telemt_telemetry_core_enabled 1
 telemt_telemetry_user_enabled 1
 telemt_telemetry_me_level{level="normal"} 1
-telemt_connections_total 95
+telemt_connections_total 96
 telemt_connections_bad_total 27
-telemt_user_connections_total{user="hello"} 59
-telemt_user_octets_from_client{user="hello"} 109237 (106.68 KB)
-telemt_user_octets_to_client{user="hello"} 2751844 (2.62 MB)
-telemt_user_msgs_from_client{user="hello"} 237
-telemt_user_msgs_to_client{user="hello"} 791
+telemt_user_connections_total{user="hello"} 60
+telemt_user_octets_from_client{user="hello"} 109552 (106.98 KB)
+telemt_user_octets_to_client{user="hello"} 2752126 (2.62 MB)
+telemt_user_msgs_from_client{user="hello"} 238
+telemt_user_msgs_to_client{user="hello"} 792
 ```
 
 ## landvps.ru
@@ -114,16 +114,16 @@ telemt_user_msgs_to_client{user="hello"} 791
 ```
 telemt 3.1.3
 
-telemt_uptime_seconds 5627.4 (1h 33m)
+telemt_uptime_seconds 5935.2 (1h 38m)
 telemt_telemetry_core_enabled 1
 telemt_telemetry_user_enabled 1
 telemt_telemetry_me_level{level="normal"} 1
-telemt_connections_total 568
-telemt_connections_bad_total 9
+telemt_connections_total 570
+telemt_connections_bad_total 10
 telemt_handshake_timeouts_total 1
-telemt_user_connections_total{user="hello"} 58
-telemt_user_octets_from_client{user="hello"} 839233 (819.56 KB)
-telemt_user_octets_to_client{user="hello"} 11877819 (11.33 MB)
-telemt_user_msgs_from_client{user="hello"} 1897
-telemt_user_msgs_to_client{user="hello"} 4943
+telemt_user_connections_total{user="hello"} 59
+telemt_user_octets_from_client{user="hello"} 840250 (820.56 KB)
+telemt_user_octets_to_client{user="hello"} 11878274 (11.33 MB)
+telemt_user_msgs_from_client{user="hello"} 1900
+telemt_user_msgs_to_client{user="hello"} 4946
 ```
