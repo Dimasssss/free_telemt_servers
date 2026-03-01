@@ -47,7 +47,7 @@
 
 -----
 
-# Server Metrics 2026-03-01 02:16:20 UTC
+# Server Metrics 2026-03-01 02:21:27 UTC
 - Updated every 5 minutes. 
 - Metrics with a value of 0 are not displayed.
 
@@ -56,19 +56,19 @@
 ```
 telemt 3.1.3
 
-telemt_uptime_seconds 39167.1 (10h 52m)
+telemt_uptime_seconds 39474.6 (10h 57m)
 telemt_telemetry_core_enabled 1
 telemt_telemetry_user_enabled 1
 telemt_telemetry_me_level{level="normal"} 1
-telemt_connections_total 14319
+telemt_connections_total 14397
 telemt_connections_bad_total 184
 telemt_handshake_timeouts_total 11
-telemt_user_connections_total{user="hello"} 13706
+telemt_user_connections_total{user="hello"} 13784
 telemt_user_connections_current{user="hello"} 2
-telemt_user_octets_from_client{user="hello"} 45105837 (43.02 MB)
-telemt_user_octets_to_client{user="hello"} 634487151 (605.09 MB)
-telemt_user_msgs_from_client{user="hello"} 55550
-telemt_user_msgs_to_client{user="hello"} 165403
+telemt_user_octets_from_client{user="hello"} 45131997 (43.04 MB)
+telemt_user_octets_to_client{user="hello"} 634571925 (605.17 MB)
+telemt_user_msgs_from_client{user="hello"} 55683
+telemt_user_msgs_to_client{user="hello"} 165618
 ```
 
 ## psb.hosting
@@ -76,7 +76,7 @@ telemt_user_msgs_to_client{user="hello"} 165403
 ```
 telemt 3.1.3
 
-telemt_uptime_seconds 38972.2 (10h 49m)
+telemt_uptime_seconds 39279.8 (10h 54m)
 telemt_telemetry_core_enabled 1
 telemt_telemetry_user_enabled 1
 telemt_telemetry_me_level{level="normal"} 1
@@ -95,7 +95,7 @@ telemt_user_msgs_to_client{user="hello"} 20320
 ```
 telemt 3.1.3
 
-telemt_uptime_seconds 38880.3 (10h 48m)
+telemt_uptime_seconds 39187.9 (10h 53m)
 telemt_telemetry_core_enabled 1
 telemt_telemetry_user_enabled 1
 telemt_telemetry_me_level{level="normal"} 1
@@ -114,7 +114,7 @@ telemt_user_msgs_to_client{user="hello"} 128857
 ```
 telemt 3.1.3
 
-telemt_uptime_seconds 38816.9 (10h 46m)
+telemt_uptime_seconds 39124.6 (10h 52m)
 telemt_telemetry_core_enabled 1
 telemt_telemetry_user_enabled 1
 telemt_telemetry_me_level{level="normal"} 1
