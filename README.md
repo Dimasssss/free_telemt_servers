@@ -47,7 +47,7 @@
 
 -----
 
-# Server Metrics 2026-03-01 09:33:16 UTC
+# Server Metrics 2026-03-01 09:38:24 UTC
 - Updated every 5 minutes. 
 - Metrics with a value of 0 are not displayed.
 
@@ -56,19 +56,20 @@
 ```
 telemt 3.1.3
 
-telemt_uptime_seconds 65381.0 (18h 9m)
+telemt_uptime_seconds 65691.5 (18h 14m)
 telemt_telemetry_core_enabled 1
 telemt_telemetry_user_enabled 1
 telemt_telemetry_me_level{level="normal"} 1
-telemt_connections_total 22360
-telemt_connections_bad_total 231
+telemt_connections_total 22486
+telemt_connections_bad_total 233
 telemt_handshake_timeouts_total 19
-telemt_user_connections_total{user="hello"} 21579
-telemt_user_connections_current{user="hello"} 5
-telemt_user_octets_from_client{user="hello"} 135131271 (128.87 MB)
-telemt_user_octets_to_client{user="hello"} 801336741 (764.21 MB)
-telemt_user_msgs_from_client{user="hello"} 107896
-telemt_user_msgs_to_client{user="hello"} 228727
+telemt_user_connections_total{user="hello"} 21700
+telemt_user_connections_current{user="hello"} 19
+telemt_user_octets_from_client{user="hello"} 145336893 (138.60 MB)
+telemt_user_octets_to_client{user="hello"} 814794752 (777.05 MB)
+telemt_user_msgs_from_client{user="hello"} 112224
+telemt_user_msgs_to_client{user="hello"} 231943
+telemt_user_unique_ips_current{user="hello"} 1
 ```
 
 ## psb.hosting
@@ -76,11 +77,21 @@ telemt_user_msgs_to_client{user="hello"} 228727
 ```
 telemt 3.1.3
 
-telemt_uptime_seconds 19.6 (0h 0m)
+telemt_uptime_seconds 329.9 (0h 5m)
 telemt_telemetry_core_enabled 1
 telemt_telemetry_user_enabled 1
 telemt_telemetry_me_level{level="normal"} 1
-telemt_me_reconnect_success_total 20
+telemt_connections_total 35
+telemt_connections_bad_total 2
+telemt_me_reconnect_attempts_total 65
+telemt_me_reconnect_success_total 91
+telemt_me_route_drop_no_conn_total 1
+telemt_me_writer_removed_unexpected_total 68
+telemt_me_writer_restored_same_endpoint_total 65
+telemt_me_writer_removed_unexpected_minus_restored_total 3
+telemt_user_connections_total{user="hello"} 33
+telemt_user_octets_from_client{user="hello"} 70252 (68.61 KB)
+telemt_user_octets_to_client{user="hello"} 101500 (99.12 KB)
 ```
 
 ## koara.io
@@ -88,21 +99,41 @@ telemt_me_reconnect_success_total 20
 ```
 telemt 3.1.3
 
-telemt_uptime_seconds 107.5 (0h 1m)
+telemt_uptime_seconds 417.9 (0h 6m)
 telemt_telemetry_core_enabled 1
 telemt_telemetry_user_enabled 1
 telemt_telemetry_me_level{level="normal"} 1
-telemt_connections_total 18
-telemt_me_reconnect_attempts_total 7
-telemt_me_reconnect_success_total 27
-telemt_me_route_drop_no_conn_total 2
-telemt_me_writer_removed_unexpected_total 5
-telemt_me_writer_restored_same_endpoint_total 5
-telemt_user_connections_total{user="hello"} 18
-telemt_user_octets_from_client{user="hello"} 9848 (9.62 KB)
-telemt_user_octets_to_client{user="hello"} 73356 (71.64 KB)
+telemt_connections_total 32
+telemt_me_keepalive_timeout_total 1
+telemt_me_reconnect_attempts_total 86
+telemt_me_reconnect_success_total 114
+telemt_me_route_drop_no_conn_total 3
+telemt_me_writer_removed_unexpected_total 91
+telemt_me_writer_restored_same_endpoint_total 84
+telemt_me_writer_removed_unexpected_minus_restored_total 7
+telemt_user_connections_total{user="hello"} 32
+telemt_user_octets_from_client{user="hello"} 16100 (15.72 KB)
+telemt_user_octets_to_client{user="hello"} 105616 (103.14 KB)
 ```
 
 ## landvps.ru
 
-Не удалось получить метрики для этого сервера.
+```
+telemt 3.1.3
+
+telemt_uptime_seconds 299.6 (0h 4m)
+telemt_telemetry_core_enabled 1
+telemt_telemetry_user_enabled 1
+telemt_telemetry_me_level{level="normal"} 1
+telemt_connections_total 25
+telemt_connections_bad_total 2
+telemt_me_reconnect_attempts_total 68
+telemt_me_reconnect_success_total 95
+telemt_me_route_drop_no_conn_total 1
+telemt_me_writer_removed_unexpected_total 72
+telemt_me_writer_restored_same_endpoint_total 66
+telemt_me_writer_removed_unexpected_minus_restored_total 6
+telemt_user_connections_total{user="hello"} 23
+telemt_user_octets_from_client{user="hello"} 19728 (19.27 KB)
+telemt_user_octets_to_client{user="hello"} 39908 (38.97 KB)
+```
