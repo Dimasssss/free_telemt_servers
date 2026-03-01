@@ -47,7 +47,7 @@
 
 -----
 
-# Server Metrics 2026-03-01 04:29:40 UTC
+# Server Metrics 2026-03-01 04:34:47 UTC
 - Updated every 5 minutes. 
 - Metrics with a value of 0 are not displayed.
 
@@ -56,19 +56,19 @@
 ```
 telemt 3.1.3
 
-telemt_uptime_seconds 47166.9 (13h 6m)
+telemt_uptime_seconds 47474.3 (13h 11m)
 telemt_telemetry_core_enabled 1
 telemt_telemetry_user_enabled 1
 telemt_telemetry_me_level{level="normal"} 1
-telemt_connections_total 16351
+telemt_connections_total 16418
 telemt_connections_bad_total 201
 telemt_handshake_timeouts_total 11
-telemt_user_connections_total{user="hello"} 15713
-telemt_user_connections_current{user="hello"} 2
-telemt_user_octets_from_client{user="hello"} 45970918 (43.84 MB)
-telemt_user_octets_to_client{user="hello"} 639129589 (609.52 MB)
-telemt_user_msgs_from_client{user="hello"} 59527
-telemt_user_msgs_to_client{user="hello"} 173366
+telemt_user_connections_total{user="hello"} 15780
+telemt_user_connections_current{user="hello"} 5
+telemt_user_octets_from_client{user="hello"} 46007623 (43.88 MB)
+telemt_user_octets_to_client{user="hello"} 639831395 (610.19 MB)
+telemt_user_msgs_from_client{user="hello"} 59682
+telemt_user_msgs_to_client{user="hello"} 173762
 ```
 
 ## psb.hosting
@@ -76,7 +76,7 @@ telemt_user_msgs_to_client{user="hello"} 173366
 ```
 telemt 3.1.3
 
-telemt_uptime_seconds 46972.3 (13h 2m)
+telemt_uptime_seconds 47279.6 (13h 7m)
 telemt_telemetry_core_enabled 1
 telemt_telemetry_user_enabled 1
 telemt_telemetry_me_level{level="normal"} 1
@@ -95,7 +95,7 @@ telemt_user_msgs_to_client{user="hello"} 20320
 ```
 telemt 3.1.3
 
-telemt_uptime_seconds 46880.3 (13h 1m)
+telemt_uptime_seconds 47187.7 (13h 6m)
 telemt_telemetry_core_enabled 1
 telemt_telemetry_user_enabled 1
 telemt_telemetry_me_level{level="normal"} 1
@@ -114,7 +114,7 @@ telemt_user_msgs_to_client{user="hello"} 128857
 ```
 telemt 3.1.3
 
-telemt_uptime_seconds 46816.9 (13h 0m)
+telemt_uptime_seconds 47124.3 (13h 5m)
 telemt_telemetry_core_enabled 1
 telemt_telemetry_user_enabled 1
 telemt_telemetry_me_level{level="normal"} 1
