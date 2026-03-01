@@ -47,7 +47,7 @@
 
 -----
 
-# Server Metrics 2026-03-01 03:12:45 UTC
+# Server Metrics 2026-03-01 03:17:53 UTC
 - Updated every 5 minutes. 
 - Metrics with a value of 0 are not displayed.
 
@@ -56,19 +56,19 @@
 ```
 telemt 3.1.3
 
-telemt_uptime_seconds 42552.1 (11h 49m)
+telemt_uptime_seconds 42859.9 (11h 54m)
 telemt_telemetry_core_enabled 1
 telemt_telemetry_user_enabled 1
 telemt_telemetry_me_level{level="normal"} 1
-telemt_connections_total 15241
+telemt_connections_total 15318
 telemt_connections_bad_total 197
 telemt_handshake_timeouts_total 11
-telemt_user_connections_total{user="hello"} 14612
-telemt_user_connections_current{user="hello"} 4
-telemt_user_octets_from_client{user="hello"} 45464731 (43.36 MB)
-telemt_user_octets_to_client{user="hello"} 636421750 (606.94 MB)
-telemt_user_msgs_from_client{user="hello"} 57272
-telemt_user_msgs_to_client{user="hello"} 168652
+telemt_user_connections_total{user="hello"} 14689
+telemt_user_connections_current{user="hello"} 2
+telemt_user_octets_from_client{user="hello"} 45491888 (43.38 MB)
+telemt_user_octets_to_client{user="hello"} 636520247 (607.03 MB)
+telemt_user_msgs_from_client{user="hello"} 57406
+telemt_user_msgs_to_client{user="hello"} 168884
 ```
 
 ## psb.hosting
@@ -76,7 +76,7 @@ telemt_user_msgs_to_client{user="hello"} 168652
 ```
 telemt 3.1.3
 
-telemt_uptime_seconds 42357.1 (11h 45m)
+telemt_uptime_seconds 42665.0 (11h 51m)
 telemt_telemetry_core_enabled 1
 telemt_telemetry_user_enabled 1
 telemt_telemetry_me_level{level="normal"} 1
@@ -95,7 +95,7 @@ telemt_user_msgs_to_client{user="hello"} 20320
 ```
 telemt 3.1.3
 
-telemt_uptime_seconds 42265.2 (11h 44m)
+telemt_uptime_seconds 42573.1 (11h 49m)
 telemt_telemetry_core_enabled 1
 telemt_telemetry_user_enabled 1
 telemt_telemetry_me_level{level="normal"} 1
@@ -114,7 +114,7 @@ telemt_user_msgs_to_client{user="hello"} 128857
 ```
 telemt 3.1.3
 
-telemt_uptime_seconds 42202.0 (11h 43m)
+telemt_uptime_seconds 42509.7 (11h 48m)
 telemt_telemetry_core_enabled 1
 telemt_telemetry_user_enabled 1
 telemt_telemetry_me_level{level="normal"} 1
