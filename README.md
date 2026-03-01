@@ -47,7 +47,7 @@
 
 -----
 
-# Server Metrics 2026-03-01 12:22:52 UTC
+# Server Metrics 2026-03-01 12:27:59 UTC
 - Updated every 5 minutes. 
 - Metrics with a value of 0 are not displayed.
 
@@ -56,19 +56,20 @@
 ```
 telemt 3.1.3
 
-telemt_uptime_seconds 4577.2 (1h 16m)
+telemt_uptime_seconds 4884.8 (1h 21m)
 telemt_telemetry_core_enabled 1
 telemt_telemetry_user_enabled 1
 telemt_telemetry_me_level{level="normal"} 1
-telemt_connections_total 3243
-telemt_connections_bad_total 11
-telemt_handshake_timeouts_total 2
-telemt_user_connections_total{user="hello"} 3163
-telemt_user_connections_current{user="hello"} 16
-telemt_user_octets_from_client{user="hello"} 21542836 (20.54 MB)
-telemt_user_octets_to_client{user="hello"} 387837691 (369.87 MB)
-telemt_user_msgs_from_client{user="hello"} 22043
-telemt_user_msgs_to_client{user="hello"} 74221
+telemt_connections_total 3488
+telemt_connections_bad_total 12
+telemt_handshake_timeouts_total 3
+telemt_user_connections_total{user="hello"} 3407
+telemt_user_connections_current{user="hello"} 40
+telemt_user_octets_from_client{user="hello"} 28484169 (27.16 MB)
+telemt_user_octets_to_client{user="hello"} 469058275 (447.33 MB)
+telemt_user_msgs_from_client{user="hello"} 26272
+telemt_user_msgs_to_client{user="hello"} 87954
+telemt_user_unique_ips_current{user="hello"} 2
 ```
 
 ## psb.hosting
@@ -76,18 +77,18 @@ telemt_user_msgs_to_client{user="hello"} 74221
 ```
 telemt 3.1.3
 
-telemt_uptime_seconds 4585.7 (1h 16m)
+telemt_uptime_seconds 4893.5 (1h 21m)
 telemt_telemetry_core_enabled 1
 telemt_telemetry_user_enabled 1
 telemt_telemetry_me_level{level="normal"} 1
-telemt_connections_total 301
+telemt_connections_total 311
 telemt_connections_bad_total 51
 telemt_handshake_timeouts_total 2
-telemt_user_connections_total{user="hello"} 245
-telemt_user_octets_from_client{user="hello"} 6595136 (6.29 MB)
-telemt_user_octets_to_client{user="hello"} 40216215 (38.35 MB)
-telemt_user_msgs_from_client{user="hello"} 4799
-telemt_user_msgs_to_client{user="hello"} 9820
+telemt_user_connections_total{user="hello"} 255
+telemt_user_octets_from_client{user="hello"} 6618638 (6.31 MB)
+telemt_user_octets_to_client{user="hello"} 41481313 (39.56 MB)
+telemt_user_msgs_from_client{user="hello"} 4839
+telemt_user_msgs_to_client{user="hello"} 10274
 ```
 
 ## koara.io
@@ -95,12 +96,12 @@ telemt_user_msgs_to_client{user="hello"} 9820
 ```
 telemt 3.1.3
 
-telemt_uptime_seconds 4620.9 (1h 17m)
+telemt_uptime_seconds 4928.2 (1h 22m)
 telemt_telemetry_core_enabled 1
 telemt_telemetry_user_enabled 1
 telemt_telemetry_me_level{level="normal"} 1
-telemt_connections_total 89
-telemt_connections_bad_total 25
+telemt_connections_total 91
+telemt_connections_bad_total 27
 telemt_user_connections_total{user="hello"} 55
 telemt_user_octets_from_client{user="hello"} 106917 (104.41 KB)
 telemt_user_octets_to_client{user="hello"} 2750637 (2.62 MB)
@@ -113,7 +114,7 @@ telemt_user_msgs_to_client{user="hello"} 786
 ```
 telemt 3.1.3
 
-telemt_uptime_seconds 4396.7 (1h 13m)
+telemt_uptime_seconds 4704.6 (1h 18m)
 telemt_telemetry_core_enabled 1
 telemt_telemetry_user_enabled 1
 telemt_telemetry_me_level{level="normal"} 1
