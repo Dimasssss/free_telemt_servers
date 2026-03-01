@@ -47,7 +47,7 @@
 
 -----
 
-# Server Metrics 2026-03-01 01:35:15 UTC
+# Server Metrics 2026-03-01 01:40:23 UTC
 - Updated every 5 minutes. 
 - Metrics with a value of 0 are not displayed.
 
@@ -56,19 +56,19 @@
 ```
 telemt 3.1.3
 
-telemt_uptime_seconds 36704.2 (10h 11m)
+telemt_uptime_seconds 37011.9 (10h 16m)
 telemt_telemetry_core_enabled 1
 telemt_telemetry_user_enabled 1
 telemt_telemetry_me_level{level="normal"} 1
-telemt_connections_total 13620
+telemt_connections_total 13742
 telemt_connections_bad_total 181
 telemt_handshake_timeouts_total 11
-telemt_user_connections_total{user="hello"} 13013
-telemt_user_connections_current{user="hello"} 2
-telemt_user_octets_from_client{user="hello"} 44825079 (42.75 MB)
-telemt_user_octets_to_client{user="hello"} 633303597 (603.97 MB)
-telemt_user_msgs_from_client{user="hello"} 54215
-telemt_user_msgs_to_client{user="hello"} 163099
+telemt_user_connections_total{user="hello"} 13135
+telemt_user_connections_current{user="hello"} 5
+telemt_user_octets_from_client{user="hello"} 44871853 (42.79 MB)
+telemt_user_octets_to_client{user="hello"} 633462869 (604.12 MB)
+telemt_user_msgs_from_client{user="hello"} 54437
+telemt_user_msgs_to_client{user="hello"} 163467
 ```
 
 ## psb.hosting
@@ -76,7 +76,7 @@ telemt_user_msgs_to_client{user="hello"} 163099
 ```
 telemt 3.1.3
 
-telemt_uptime_seconds 36509.4 (10h 8m)
+telemt_uptime_seconds 36816.9 (10h 13m)
 telemt_telemetry_core_enabled 1
 telemt_telemetry_user_enabled 1
 telemt_telemetry_me_level{level="normal"} 1
@@ -95,7 +95,7 @@ telemt_user_msgs_to_client{user="hello"} 20313
 ```
 telemt 3.1.3
 
-telemt_uptime_seconds 36417.5 (10h 6m)
+telemt_uptime_seconds 36725.1 (10h 12m)
 telemt_telemetry_core_enabled 1
 telemt_telemetry_user_enabled 1
 telemt_telemetry_me_level{level="normal"} 1
@@ -114,7 +114,7 @@ telemt_user_msgs_to_client{user="hello"} 128857
 ```
 telemt 3.1.3
 
-telemt_uptime_seconds 36354.1 (10h 5m)
+telemt_uptime_seconds 36661.6 (10h 11m)
 telemt_telemetry_core_enabled 1
 telemt_telemetry_user_enabled 1
 telemt_telemetry_me_level{level="normal"} 1
