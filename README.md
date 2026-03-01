@@ -51,7 +51,7 @@
 
 -----
 
-# Server Metrics 2026-03-01 23:30:14 UTC
+# Server Metrics 2026-03-01 23:35:35 UTC
 - Updated every 5 minutes. 
 - Metrics with a value of 0 are not displayed.
 
@@ -60,19 +60,20 @@
 ```
 telemt 3.1.3
 
-telemt_uptime_seconds 44620.4 (12h 23m)
+telemt_uptime_seconds 44927.9 (12h 28m)
 telemt_telemetry_core_enabled 1
 telemt_telemetry_user_enabled 1
 telemt_telemetry_me_level{level="normal"} 1
-telemt_connections_total 26441
+telemt_connections_total 26533
 telemt_connections_bad_total 386
 telemt_handshake_timeouts_total 47
-telemt_user_connections_total{user="hello"} 25610
-telemt_user_connections_current{user="hello"} 2
-telemt_user_octets_from_client{user="hello"} 389094381 (371.07 MB)
-telemt_user_octets_to_client{user="hello"} 3648959946 (3.40 GB)
-telemt_user_msgs_from_client{user="hello"} 240449
-telemt_user_msgs_to_client{user="hello"} 671234
+telemt_user_connections_total{user="hello"} 25699
+telemt_user_connections_current{user="hello"} 10
+telemt_user_octets_from_client{user="hello"} 389160043 (371.13 MB)
+telemt_user_octets_to_client{user="hello"} 3649334994 (3.40 GB)
+telemt_user_msgs_from_client{user="hello"} 240665
+telemt_user_msgs_to_client{user="hello"} 671570
+telemt_user_unique_ips_current{user="hello"} 2
 ```
 
 ## psb.hosting
@@ -80,7 +81,7 @@ telemt_user_msgs_to_client{user="hello"} 671234
 ```
 telemt 3.1.3
 
-telemt_uptime_seconds 44628.8 (12h 23m)
+telemt_uptime_seconds 44936.6 (12h 28m)
 telemt_telemetry_core_enabled 1
 telemt_telemetry_user_enabled 1
 telemt_telemetry_me_level{level="normal"} 1
@@ -99,7 +100,7 @@ telemt_user_msgs_to_client{user="hello"} 93998
 ```
 telemt 3.1.3
 
-telemt_uptime_seconds 44662.9 (12h 24m)
+telemt_uptime_seconds 44970.4 (12h 29m)
 telemt_telemetry_core_enabled 1
 telemt_telemetry_user_enabled 1
 telemt_telemetry_me_level{level="normal"} 1
@@ -118,7 +119,7 @@ telemt_user_msgs_to_client{user="hello"} 130536
 ```
 telemt 3.1.3
 
-telemt_uptime_seconds 44440.1 (12h 20m)
+telemt_uptime_seconds 44761.7 (12h 26m)
 telemt_telemetry_core_enabled 1
 telemt_telemetry_user_enabled 1
 telemt_telemetry_me_level{level="normal"} 1
