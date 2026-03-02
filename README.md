@@ -51,7 +51,7 @@
 
 -----
 
-# Server Metrics 2026-03-02 14:19:36 UTC
+# Server Metrics 2026-03-02 14:24:44 UTC
 - Updated every 5 minutes. 
 - Metrics with a value of 0 are not displayed.
 
@@ -60,20 +60,20 @@
 ```
 telemt 3.1.3
 
-telemt_uptime_seconds 97982.3 (27h 13m)
+telemt_uptime_seconds 98290.2 (27h 18m)
 telemt_telemetry_core_enabled 1
 telemt_telemetry_user_enabled 1
 telemt_telemetry_me_level{level="normal"} 1
-telemt_connections_total 54743
+telemt_connections_total 54902
 telemt_connections_bad_total 991
-telemt_handshake_timeouts_total 154
-telemt_user_connections_total{user="hello"} 52493
-telemt_user_connections_current{user="hello"} 28
-telemt_user_octets_from_client{user="hello"} 674762767 (643.50 MB)
-telemt_user_octets_to_client{user="hello"} 8155270380 (7.60 GB)
-telemt_user_msgs_from_client{user="hello"} 535994
-telemt_user_msgs_to_client{user="hello"} 1523283
-telemt_user_unique_ips_current{user="hello"} 4
+telemt_handshake_timeouts_total 156
+telemt_user_connections_total{user="hello"} 52642
+telemt_user_connections_current{user="hello"} 41
+telemt_user_octets_from_client{user="hello"} 675356254 (644.07 MB)
+telemt_user_octets_to_client{user="hello"} 8186712142 (7.62 GB)
+telemt_user_msgs_from_client{user="hello"} 537603
+telemt_user_msgs_to_client{user="hello"} 1529075
+telemt_user_unique_ips_current{user="hello"} 1
 ```
 
 ## psb.hosting
@@ -81,19 +81,19 @@ telemt_user_unique_ips_current{user="hello"} 4
 ```
 telemt 3.1.3
 
-telemt_uptime_seconds 97990.8 (27h 13m)
+telemt_uptime_seconds 98298.8 (27h 18m)
 telemt_telemetry_core_enabled 1
 telemt_telemetry_user_enabled 1
 telemt_telemetry_me_level{level="normal"} 1
-telemt_connections_total 7495
+telemt_connections_total 7534
 telemt_connections_bad_total 397
 telemt_handshake_timeouts_total 119
-telemt_user_connections_total{user="hello"} 6675
-telemt_user_connections_current{user="hello"} 26
-telemt_user_octets_from_client{user="hello"} 193375527 (184.42 MB)
-telemt_user_octets_to_client{user="hello"} 1862763631 (1.73 GB)
-telemt_user_msgs_from_client{user="hello"} 135267
-telemt_user_msgs_to_client{user="hello"} 665234
+telemt_user_connections_total{user="hello"} 6706
+telemt_user_connections_current{user="hello"} 22
+telemt_user_octets_from_client{user="hello"} 193577470 (184.61 MB)
+telemt_user_octets_to_client{user="hello"} 1865868790 (1.74 GB)
+telemt_user_msgs_from_client{user="hello"} 135932
+telemt_user_msgs_to_client{user="hello"} 667620
 telemt_user_unique_ips_current{user="hello"} 1
 ```
 
@@ -102,19 +102,20 @@ telemt_user_unique_ips_current{user="hello"} 1
 ```
 telemt 3.1.3
 
-telemt_uptime_seconds 98025.1 (27h 13m)
+telemt_uptime_seconds 98333.0 (27h 18m)
 telemt_telemetry_core_enabled 1
 telemt_telemetry_user_enabled 1
 telemt_telemetry_me_level{level="normal"} 1
-telemt_connections_total 2359
+telemt_connections_total 2383
 telemt_connections_bad_total 382
 telemt_handshake_timeouts_total 28
-telemt_user_connections_total{user="hello"} 1854
+telemt_user_connections_total{user="hello"} 1877
 telemt_user_connections_current{user="hello"} 3
-telemt_user_octets_from_client{user="hello"} 97292552 (92.79 MB)
-telemt_user_octets_to_client{user="hello"} 1694492338 (1.58 GB)
-telemt_user_msgs_from_client{user="hello"} 61836
-telemt_user_msgs_to_client{user="hello"} 306730
+telemt_user_octets_from_client{user="hello"} 97412351 (92.90 MB)
+telemt_user_octets_to_client{user="hello"} 1695037396 (1.58 GB)
+telemt_user_msgs_from_client{user="hello"} 62177
+telemt_user_msgs_to_client{user="hello"} 307352
+telemt_user_unique_ips_current{user="hello"} 1
 ```
 
 ## landvps.ru
@@ -122,18 +123,17 @@ telemt_user_msgs_to_client{user="hello"} 306730
 ```
 telemt 3.1.3
 
-telemt_uptime_seconds 97801.9 (27h 10m)
+telemt_uptime_seconds 98109.9 (27h 15m)
 telemt_telemetry_core_enabled 1
 telemt_telemetry_user_enabled 1
 telemt_telemetry_me_level{level="normal"} 1
-telemt_connections_total 16135
+telemt_connections_total 16289
 telemt_connections_bad_total 441
-telemt_handshake_timeouts_total 184
-telemt_user_connections_total{user="hello"} 13395
-telemt_user_connections_current{user="hello"} 26
-telemt_user_octets_from_client{user="hello"} 221945121 (211.66 MB)
-telemt_user_octets_to_client{user="hello"} 1700925912 (1.58 GB)
-telemt_user_msgs_from_client{user="hello"} 152506
-telemt_user_msgs_to_client{user="hello"} 509236
-telemt_user_unique_ips_current{user="hello"} 1
+telemt_handshake_timeouts_total 186
+telemt_user_connections_total{user="hello"} 13545
+telemt_user_connections_current{user="hello"} 28
+telemt_user_octets_from_client{user="hello"} 222858088 (212.53 MB)
+telemt_user_octets_to_client{user="hello"} 1706816475 (1.59 GB)
+telemt_user_msgs_from_client{user="hello"} 154203
+telemt_user_msgs_to_client{user="hello"} 513774
 ```
