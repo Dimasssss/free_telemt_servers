@@ -51,7 +51,7 @@
 
 -----
 
-# Server Metrics 2026-03-01 23:56:06 UTC
+# Server Metrics 2026-03-02 00:01:13 UTC
 - Updated every 5 minutes. 
 - Metrics with a value of 0 are not displayed.
 
@@ -60,20 +60,19 @@
 ```
 telemt 3.1.3
 
-telemt_uptime_seconds 46171.4 (12h 49m)
+telemt_uptime_seconds 46478.9 (12h 54m)
 telemt_telemetry_core_enabled 1
 telemt_telemetry_user_enabled 1
 telemt_telemetry_me_level{level="normal"} 1
-telemt_connections_total 26909
+telemt_connections_total 27017
 telemt_connections_bad_total 387
-telemt_handshake_timeouts_total 48
-telemt_user_connections_total{user="hello"} 26066
-telemt_user_connections_current{user="hello"} 9
-telemt_user_octets_from_client{user="hello"} 389885116 (371.82 MB)
-telemt_user_octets_to_client{user="hello"} 3660961936 (3.41 GB)
-telemt_user_msgs_from_client{user="hello"} 243074
-telemt_user_msgs_to_client{user="hello"} 675096
-telemt_user_unique_ips_current{user="hello"} 1
+telemt_handshake_timeouts_total 56
+telemt_user_connections_total{user="hello"} 26162
+telemt_user_connections_current{user="hello"} 5
+telemt_user_octets_from_client{user="hello"} 390082809 (372.01 MB)
+telemt_user_octets_to_client{user="hello"} 3662430121 (3.41 GB)
+telemt_user_msgs_from_client{user="hello"} 243657
+telemt_user_msgs_to_client{user="hello"} 675817
 ```
 
 ## psb.hosting
@@ -81,7 +80,7 @@ telemt_user_unique_ips_current{user="hello"} 1
 ```
 telemt 3.1.3
 
-telemt_uptime_seconds 46179.9 (12h 49m)
+telemt_uptime_seconds 46487.4 (12h 54m)
 telemt_telemetry_core_enabled 1
 telemt_telemetry_user_enabled 1
 telemt_telemetry_me_level{level="normal"} 1
@@ -100,7 +99,7 @@ telemt_user_msgs_to_client{user="hello"} 94004
 ```
 telemt 3.1.3
 
-telemt_uptime_seconds 46213.9 (12h 50m)
+telemt_uptime_seconds 46521.6 (12h 55m)
 telemt_telemetry_core_enabled 1
 telemt_telemetry_user_enabled 1
 telemt_telemetry_me_level{level="normal"} 1
@@ -119,7 +118,7 @@ telemt_user_msgs_to_client{user="hello"} 130536
 ```
 telemt 3.1.3
 
-telemt_uptime_seconds 45991.1 (12h 46m)
+telemt_uptime_seconds 46298.6 (12h 51m)
 telemt_telemetry_core_enabled 1
 telemt_telemetry_user_enabled 1
 telemt_telemetry_me_level{level="normal"} 1
