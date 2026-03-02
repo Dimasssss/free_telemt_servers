@@ -51,37 +51,20 @@
 
 -----
 
-# Server Metrics 2026-03-02 03:00:45 UTC
+# Server Metrics 2026-03-02 03:05:52 UTC
 - Updated every 5 minutes. 
 - Metrics with a value of 0 are not displayed.
 
 ## NKtelecom
 
-```
-telemt 3.1.3
-
-telemt_uptime_seconds 57251.4 (15h 54m)
-telemt_telemetry_core_enabled 1
-telemt_telemetry_user_enabled 1
-telemt_telemetry_me_level{level="normal"} 1
-telemt_connections_total 30232
-telemt_connections_bad_total 807
-telemt_handshake_timeouts_total 60
-telemt_user_connections_total{user="hello"} 28805
-telemt_user_connections_current{user="hello"} 5
-telemt_user_octets_from_client{user="hello"} 393280187 (375.06 MB)
-telemt_user_octets_to_client{user="hello"} 3892299065 (3.62 GB)
-telemt_user_msgs_from_client{user="hello"} 252953
-telemt_user_msgs_to_client{user="hello"} 718031
-telemt_user_unique_ips_current{user="hello"} 2
-```
+Не удалось получить метрики для этого сервера.
 
 ## psb.hosting
 
 ```
 telemt 3.1.3
 
-telemt_uptime_seconds 57259.7 (15h 54m)
+telemt_uptime_seconds 57567.6 (15h 59m)
 telemt_telemetry_core_enabled 1
 telemt_telemetry_user_enabled 1
 telemt_telemetry_me_level{level="normal"} 1
@@ -100,7 +83,7 @@ telemt_user_msgs_to_client{user="hello"} 94233
 ```
 telemt 3.1.3
 
-telemt_uptime_seconds 57293.7 (15h 54m)
+telemt_uptime_seconds 57601.6 (16h 0m)
 telemt_telemetry_core_enabled 1
 telemt_telemetry_user_enabled 1
 telemt_telemetry_me_level{level="normal"} 1
@@ -119,7 +102,7 @@ telemt_user_msgs_to_client{user="hello"} 130537
 ```
 telemt 3.1.3
 
-telemt_uptime_seconds 57070.9 (15h 51m)
+telemt_uptime_seconds 57378.8 (15h 56m)
 telemt_telemetry_core_enabled 1
 telemt_telemetry_user_enabled 1
 telemt_telemetry_me_level{level="normal"} 1
