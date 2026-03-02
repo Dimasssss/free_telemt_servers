@@ -51,7 +51,7 @@
 
 -----
 
-# Server Metrics 2026-03-02 08:24:42 UTC
+# Server Metrics 2026-03-02 08:29:50 UTC
 - Updated every 5 minutes. 
 - Metrics with a value of 0 are not displayed.
 
@@ -60,20 +60,20 @@
 ```
 telemt 3.1.3
 
-telemt_uptime_seconds 76688.1 (21h 18m)
+telemt_uptime_seconds 76995.8 (21h 23m)
 telemt_telemetry_core_enabled 1
 telemt_telemetry_user_enabled 1
 telemt_telemetry_me_level{level="normal"} 1
-telemt_connections_total 38823
+telemt_connections_total 39036
 telemt_connections_bad_total 908
 telemt_handshake_timeouts_total 125
-telemt_user_connections_total{user="hello"} 37026
-telemt_user_connections_current{user="hello"} 37
-telemt_user_octets_from_client{user="hello"} 471476946 (449.64 MB)
-telemt_user_octets_to_client{user="hello"} 5677734240 (5.29 GB)
-telemt_user_msgs_from_client{user="hello"} 345748
-telemt_user_msgs_to_client{user="hello"} 1037640
-telemt_user_unique_ips_current{user="hello"} 2
+telemt_user_connections_total{user="hello"} 37234
+telemt_user_connections_current{user="hello"} 40
+telemt_user_octets_from_client{user="hello"} 472895239 (450.99 MB)
+telemt_user_octets_to_client{user="hello"} 5795723077 (5.40 GB)
+telemt_user_msgs_from_client{user="hello"} 349055
+telemt_user_msgs_to_client{user="hello"} 1055961
+telemt_user_unique_ips_current{user="hello"} 3
 ```
 
 ## psb.hosting
@@ -81,19 +81,19 @@ telemt_user_unique_ips_current{user="hello"} 2
 ```
 telemt 3.1.3
 
-telemt_uptime_seconds 76696.5 (21h 18m)
+telemt_uptime_seconds 77004.3 (21h 23m)
 telemt_telemetry_core_enabled 1
 telemt_telemetry_user_enabled 1
 telemt_telemetry_me_level{level="normal"} 1
-telemt_connections_total 2806
-telemt_connections_bad_total 307
+telemt_connections_total 2835
+telemt_connections_bad_total 309
 telemt_handshake_timeouts_total 22
-telemt_user_connections_total{user="hello"} 2353
-telemt_user_connections_current{user="hello"} 10
-telemt_user_octets_from_client{user="hello"} 146756010 (139.96 MB)
-telemt_user_octets_to_client{user="hello"} 369772181 (352.64 MB)
-telemt_user_msgs_from_client{user="hello"} 70958
-telemt_user_msgs_to_client{user="hello"} 129019
+telemt_user_connections_total{user="hello"} 2377
+telemt_user_connections_current{user="hello"} 1
+telemt_user_octets_from_client{user="hello"} 146948340 (140.14 MB)
+telemt_user_octets_to_client{user="hello"} 372796168 (355.53 MB)
+telemt_user_msgs_from_client{user="hello"} 71446
+telemt_user_msgs_to_client{user="hello"} 130354
 ```
 
 ## koara.io
@@ -101,11 +101,11 @@ telemt_user_msgs_to_client{user="hello"} 129019
 ```
 telemt 3.1.3
 
-telemt_uptime_seconds 76730.9 (21h 18m)
+telemt_uptime_seconds 77038.6 (21h 23m)
 telemt_telemetry_core_enabled 1
 telemt_telemetry_user_enabled 1
 telemt_telemetry_me_level{level="normal"} 1
-telemt_connections_total 1322
+telemt_connections_total 1323
 telemt_connections_bad_total 337
 telemt_handshake_timeouts_total 21
 telemt_user_connections_total{user="hello"} 917
@@ -120,18 +120,18 @@ telemt_user_msgs_to_client{user="hello"} 133686
 ```
 telemt 3.1.3
 
-telemt_uptime_seconds 76507.5 (21h 15m)
+telemt_uptime_seconds 76815.4 (21h 20m)
 telemt_telemetry_core_enabled 1
 telemt_telemetry_user_enabled 1
 telemt_telemetry_me_level{level="normal"} 1
-telemt_connections_total 7529
-telemt_connections_bad_total 240
+telemt_connections_total 7572
+telemt_connections_bad_total 246
 telemt_handshake_timeouts_total 124
-telemt_user_connections_total{user="hello"} 5685
-telemt_user_connections_current{user="hello"} 31
-telemt_user_octets_from_client{user="hello"} 188032213 (179.32 MB)
-telemt_user_octets_to_client{user="hello"} 548995302 (523.56 MB)
-telemt_user_msgs_from_client{user="hello"} 92904
-telemt_user_msgs_to_client{user="hello"} 173055
+telemt_user_connections_total{user="hello"} 5702
+telemt_user_connections_current{user="hello"} 3
+telemt_user_octets_from_client{user="hello"} 188082083 (179.37 MB)
+telemt_user_octets_to_client{user="hello"} 549879460 (524.41 MB)
+telemt_user_msgs_from_client{user="hello"} 93023
+telemt_user_msgs_to_client{user="hello"} 173444
 telemt_user_unique_ips_current{user="hello"} 1
 ```
