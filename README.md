@@ -62,7 +62,7 @@
 
 -----
 
-# Server Metrics 2026-03-03 01:24:41 UTC
+# Server Metrics 2026-03-03 01:29:50 UTC
 - Updated every 5 minutes. 
 - Metrics with a value of 0 are not displayed.
 
@@ -71,19 +71,19 @@
 ```
 telemt 3.1.4
 
-telemt_uptime_seconds 22461.7 (6h 14m)
+telemt_uptime_seconds 22769.3 (6h 19m)
 telemt_telemetry_core_enabled 1
 telemt_telemetry_user_enabled 1
 telemt_telemetry_me_level{level="normal"} 1
-telemt_connections_total 4647
+telemt_connections_total 4661
 telemt_connections_bad_total 149
 telemt_handshake_timeouts_total 6
-telemt_user_connections_total{user="hello"} 4453
-telemt_user_connections_current{user="hello"} 2
-telemt_user_octets_from_client{user="hello"} 163018963 (155.47 MB)
-telemt_user_octets_to_client{user="hello"} 1695983550 (1.58 GB)
-telemt_user_msgs_from_client{user="hello"} 119796
-telemt_user_msgs_to_client{user="hello"} 286819
+telemt_user_connections_total{user="hello"} 4467
+telemt_user_connections_current{user="hello"} 1
+telemt_user_octets_from_client{user="hello"} 163024440 (155.47 MB)
+telemt_user_octets_to_client{user="hello"} 1696016667 (1.58 GB)
+telemt_user_msgs_from_client{user="hello"} 119811
+telemt_user_msgs_to_client{user="hello"} 286862
 ```
 
 ## psb.hosting
@@ -91,19 +91,19 @@ telemt_user_msgs_to_client{user="hello"} 286819
 ```
 telemt 3.1.4
 
-telemt_uptime_seconds 22511.9 (6h 15m)
+telemt_uptime_seconds 22819.6 (6h 20m)
 telemt_telemetry_core_enabled 1
 telemt_telemetry_user_enabled 1
 telemt_telemetry_me_level{level="normal"} 1
-telemt_connections_total 1696
+telemt_connections_total 1712
 telemt_connections_bad_total 76
 telemt_handshake_timeouts_total 3
-telemt_user_connections_total{user="hello"} 1592
+telemt_user_connections_total{user="hello"} 1608
 telemt_user_connections_current{user="hello"} 7
-telemt_user_octets_from_client{user="hello"} 18271960 (17.43 MB)
-telemt_user_octets_to_client{user="hello"} 1077484798 (1.00 GB)
-telemt_user_msgs_from_client{user="hello"} 55601
-telemt_user_msgs_to_client{user="hello"} 367702
+telemt_user_octets_from_client{user="hello"} 18361992 (17.51 MB)
+telemt_user_octets_to_client{user="hello"} 1080992153 (1.01 GB)
+telemt_user_msgs_from_client{user="hello"} 55896
+telemt_user_msgs_to_client{user="hello"} 369344
 telemt_user_unique_ips_current{user="hello"} 1
 ```
 
@@ -112,7 +112,7 @@ telemt_user_unique_ips_current{user="hello"} 1
 ```
 telemt 3.1.4
 
-telemt_uptime_seconds 22441.3 (6h 14m)
+telemt_uptime_seconds 22749.0 (6h 19m)
 telemt_telemetry_core_enabled 1
 telemt_telemetry_user_enabled 1
 telemt_telemetry_me_level{level="normal"} 1
@@ -121,10 +121,10 @@ telemt_connections_bad_total 31
 telemt_handshake_timeouts_total 1
 telemt_user_connections_total{user="hello"} 281
 telemt_user_connections_current{user="hello"} 1
-telemt_user_octets_from_client{user="hello"} 1936206 (1.85 MB)
-telemt_user_octets_to_client{user="hello"} 142264758 (135.67 MB)
-telemt_user_msgs_from_client{user="hello"} 5534
-telemt_user_msgs_to_client{user="hello"} 33316
+telemt_user_octets_from_client{user="hello"} 1939717 (1.85 MB)
+telemt_user_octets_to_client{user="hello"} 142387848 (135.79 MB)
+telemt_user_msgs_from_client{user="hello"} 5550
+telemt_user_msgs_to_client{user="hello"} 33362
 ```
 
 ## landvps.ru
@@ -132,7 +132,7 @@ telemt_user_msgs_to_client{user="hello"} 33316
 ```
 telemt 3.1.4
 
-telemt_uptime_seconds 22444.9 (6h 14m)
+telemt_uptime_seconds 22752.5 (6h 19m)
 telemt_telemetry_core_enabled 1
 telemt_telemetry_user_enabled 1
 telemt_telemetry_me_level{level="normal"} 1
@@ -151,12 +151,12 @@ telemt_user_msgs_to_client{user="hello"} 74876
 ```
 telemt 3.1.4
 
-telemt_uptime_seconds 15106.5 (4h 11m)
+telemt_uptime_seconds 15414.2 (4h 16m)
 telemt_telemetry_core_enabled 1
 telemt_telemetry_user_enabled 1
 telemt_telemetry_me_level{level="normal"} 1
-telemt_connections_total 2735
-telemt_connections_bad_total 2707
+telemt_connections_total 2790
+telemt_connections_bad_total 2762
 telemt_handshake_timeouts_total 1
 telemt_user_connections_total{user="hello"} 28
 telemt_user_octets_from_client{user="hello"} 154338513 (147.19 MB)
