@@ -62,7 +62,7 @@
 
 -----
 
-# Server Metrics 2026-03-03 01:09:18 UTC
+# Server Metrics 2026-03-03 01:14:26 UTC
 - Updated every 5 minutes. 
 - Metrics with a value of 0 are not displayed.
 
@@ -71,19 +71,19 @@
 ```
 telemt 3.1.4
 
-telemt_uptime_seconds 21538.5 (5h 58m)
+telemt_uptime_seconds 21846.4 (6h 4m)
 telemt_telemetry_core_enabled 1
 telemt_telemetry_user_enabled 1
 telemt_telemetry_me_level{level="normal"} 1
-telemt_connections_total 4589
-telemt_connections_bad_total 148
+telemt_connections_total 4611
+telemt_connections_bad_total 149
 telemt_handshake_timeouts_total 6
-telemt_user_connections_total{user="hello"} 4396
+telemt_user_connections_total{user="hello"} 4417
 telemt_user_connections_current{user="hello"} 1
-telemt_user_octets_from_client{user="hello"} 162938566 (155.39 MB)
-telemt_user_octets_to_client{user="hello"} 1693603596 (1.58 GB)
-telemt_user_msgs_from_client{user="hello"} 119623
-telemt_user_msgs_to_client{user="hello"} 286291
+telemt_user_octets_from_client{user="hello"} 162948742 (155.40 MB)
+telemt_user_octets_to_client{user="hello"} 1693646730 (1.58 GB)
+telemt_user_msgs_from_client{user="hello"} 119651
+telemt_user_msgs_to_client{user="hello"} 286358
 telemt_user_unique_ips_current{user="hello"} 1
 ```
 
@@ -92,19 +92,20 @@ telemt_user_unique_ips_current{user="hello"} 1
 ```
 telemt 3.1.4
 
-telemt_uptime_seconds 21588.4 (5h 59m)
+telemt_uptime_seconds 21896.5 (6h 4m)
 telemt_telemetry_core_enabled 1
 telemt_telemetry_user_enabled 1
 telemt_telemetry_me_level{level="normal"} 1
-telemt_connections_total 1693
+telemt_connections_total 1695
 telemt_connections_bad_total 76
 telemt_handshake_timeouts_total 3
-telemt_user_connections_total{user="hello"} 1589
+telemt_user_connections_total{user="hello"} 1591
 telemt_user_connections_current{user="hello"} 7
-telemt_user_octets_from_client{user="hello"} 18175410 (17.33 MB)
-telemt_user_octets_to_client{user="hello"} 1077118697 (1.00 GB)
-telemt_user_msgs_from_client{user="hello"} 55214
-telemt_user_msgs_to_client{user="hello"} 367222
+telemt_user_octets_from_client{user="hello"} 18207175 (17.36 MB)
+telemt_user_octets_to_client{user="hello"} 1077199082 (1.00 GB)
+telemt_user_msgs_from_client{user="hello"} 55343
+telemt_user_msgs_to_client{user="hello"} 367365
+telemt_user_unique_ips_current{user="hello"} 2
 ```
 
 ## koara.io
@@ -112,7 +113,7 @@ telemt_user_msgs_to_client{user="hello"} 367222
 ```
 telemt 3.1.4
 
-telemt_uptime_seconds 21517.8 (5h 58m)
+telemt_uptime_seconds 21826.1 (6h 3m)
 telemt_telemetry_core_enabled 1
 telemt_telemetry_user_enabled 1
 telemt_telemetry_me_level{level="normal"} 1
@@ -121,10 +122,10 @@ telemt_connections_bad_total 31
 telemt_handshake_timeouts_total 1
 telemt_user_connections_total{user="hello"} 281
 telemt_user_connections_current{user="hello"} 1
-telemt_user_octets_from_client{user="hello"} 1930477 (1.84 MB)
-telemt_user_octets_to_client{user="hello"} 142259676 (135.67 MB)
-telemt_user_msgs_from_client{user="hello"} 5507
-telemt_user_msgs_to_client{user="hello"} 33291
+telemt_user_octets_from_client{user="hello"} 1932359 (1.84 MB)
+telemt_user_octets_to_client{user="hello"} 142260659 (135.67 MB)
+telemt_user_msgs_from_client{user="hello"} 5515
+telemt_user_msgs_to_client{user="hello"} 33299
 ```
 
 ## landvps.ru
@@ -132,7 +133,7 @@ telemt_user_msgs_to_client{user="hello"} 33291
 ```
 telemt 3.1.4
 
-telemt_uptime_seconds 21521.7 (5h 58m)
+telemt_uptime_seconds 21829.6 (6h 3m)
 telemt_telemetry_core_enabled 1
 telemt_telemetry_user_enabled 1
 telemt_telemetry_me_level{level="normal"} 1
@@ -151,12 +152,12 @@ telemt_user_msgs_to_client{user="hello"} 74876
 ```
 telemt 3.1.4
 
-telemt_uptime_seconds 14183.0 (3h 56m)
+telemt_uptime_seconds 14491.3 (4h 1m)
 telemt_telemetry_core_enabled 1
 telemt_telemetry_user_enabled 1
 telemt_telemetry_me_level{level="normal"} 1
-telemt_connections_total 2571
-telemt_connections_bad_total 2543
+telemt_connections_total 2625
+telemt_connections_bad_total 2597
 telemt_handshake_timeouts_total 1
 telemt_user_connections_total{user="hello"} 28
 telemt_user_octets_from_client{user="hello"} 154338513 (147.19 MB)
