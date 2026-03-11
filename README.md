@@ -87,7 +87,7 @@ tg://proxy?server=s6.dimasssss.space&port=443&secret=eebe3007e927acd147dde12bee8
 
 -----
 
-# Server Metrics 2026-03-11 08:33:20 UTC
+# Server Metrics 2026-03-11 08:38:26 UTC
 - Updated every 5 minutes. 
 - Metrics with a value of 0 are not displayed.
 
@@ -96,30 +96,30 @@ tg://proxy?server=s6.dimasssss.space&port=443&secret=eebe3007e927acd147dde12bee8
 ```
 telemt 3.3.15
 
-telemt_uptime_seconds 65231.1 (18h 7m)
+telemt_uptime_seconds 65537.5 (18h 12m)
 telemt_telemetry_core_enabled 1
 telemt_telemetry_user_enabled 1
 telemt_telemetry_me_level{level="normal"} 1
-telemt_connections_total 184598
-telemt_connections_bad_total 3547
-telemt_handshake_timeouts_total 4124
-telemt_upstream_connect_attempt_total 168160
-telemt_upstream_connect_success_total 168109
-telemt_upstream_connect_fail_total 51
-telemt_upstream_connect_attempts_per_request{bucket="1"} 168160
-telemt_upstream_connect_duration_success_total{bucket="le_100ms"} 153519
-telemt_upstream_connect_duration_success_total{bucket="101_500ms"} 14533
+telemt_connections_total 185980
+telemt_connections_bad_total 3549
+telemt_handshake_timeouts_total 4129
+telemt_upstream_connect_attempt_total 169499
+telemt_upstream_connect_success_total 169447
+telemt_upstream_connect_fail_total 52
+telemt_upstream_connect_attempts_per_request{bucket="1"} 169499
+telemt_upstream_connect_duration_success_total{bucket="le_100ms"} 154694
+telemt_upstream_connect_duration_success_total{bucket="101_500ms"} 14696
 telemt_upstream_connect_duration_success_total{bucket="gt_1000ms"} 57
-telemt_upstream_connect_duration_fail_total{bucket="gt_1000ms"} 51
+telemt_upstream_connect_duration_fail_total{bucket="gt_1000ms"} 52
 telemt_me_floor_mode{mode="adaptive"} 1
-telemt_user_connections_total{user="hello"} 168101
-telemt_user_connections_current{user="hello"} 369
-telemt_user_octets_from_client{user="hello"} 3776218308 (3.52 GB)
-telemt_user_octets_to_client{user="hello"} 105502964165 (98.26 GB)
-telemt_user_msgs_from_client{user="hello"} 4069371
-telemt_user_msgs_to_client{user="hello"} 7625032
-telemt_user_unique_ips_current{user="hello"} 97
-telemt_user_unique_ips_recent_window{user="hello"} 39
+telemt_user_connections_total{user="hello"} 169439
+telemt_user_connections_current{user="hello"} 398
+telemt_user_octets_from_client{user="hello"} 3797049019 (3.54 GB)
+telemt_user_octets_to_client{user="hello"} 105914428249 (98.64 GB)
+telemt_user_msgs_from_client{user="hello"} 4098019
+telemt_user_msgs_to_client{user="hello"} 7673491
+telemt_user_unique_ips_current{user="hello"} 105
+telemt_user_unique_ips_recent_window{user="hello"} 49
 ```
 
 ## psb.hosting
@@ -127,30 +127,30 @@ telemt_user_unique_ips_recent_window{user="hello"} 39
 ```
 telemt 3.3.15
 
-telemt_uptime_seconds 65230.7 (18h 7m)
+telemt_uptime_seconds 65536.7 (18h 12m)
 telemt_telemetry_core_enabled 1
 telemt_telemetry_user_enabled 1
 telemt_telemetry_me_level{level="normal"} 1
-telemt_connections_total 71701
-telemt_connections_bad_total 587
-telemt_handshake_timeouts_total 3108
-telemt_upstream_connect_attempt_total 64621
-telemt_upstream_connect_success_total 64607
+telemt_connections_total 72060
+telemt_connections_bad_total 589
+telemt_handshake_timeouts_total 3109
+telemt_upstream_connect_attempt_total 64964
+telemt_upstream_connect_success_total 64950
 telemt_upstream_connect_fail_total 14
-telemt_upstream_connect_attempts_per_request{bucket="1"} 64621
-telemt_upstream_connect_duration_success_total{bucket="le_100ms"} 55518
-telemt_upstream_connect_duration_success_total{bucket="101_500ms"} 8851
+telemt_upstream_connect_attempts_per_request{bucket="1"} 64964
+telemt_upstream_connect_duration_success_total{bucket="le_100ms"} 55824
+telemt_upstream_connect_duration_success_total{bucket="101_500ms"} 8888
 telemt_upstream_connect_duration_success_total{bucket="gt_1000ms"} 238
 telemt_upstream_connect_duration_fail_total{bucket="gt_1000ms"} 14
 telemt_me_floor_mode{mode="adaptive"} 1
-telemt_user_connections_total{user="hello"} 64601
-telemt_user_connections_current{user="hello"} 107
-telemt_user_octets_from_client{user="hello"} 4887815687 (4.55 GB)
-telemt_user_octets_to_client{user="hello"} 53194789269 (49.54 GB)
-telemt_user_msgs_from_client{user="hello"} 3047332
-telemt_user_msgs_to_client{user="hello"} 13500623
-telemt_user_unique_ips_current{user="hello"} 37
-telemt_user_unique_ips_recent_window{user="hello"} 22
+telemt_user_connections_total{user="hello"} 64944
+telemt_user_connections_current{user="hello"} 75
+telemt_user_octets_from_client{user="hello"} 4889781220 (4.55 GB)
+telemt_user_octets_to_client{user="hello"} 53230367331 (49.57 GB)
+telemt_user_msgs_from_client{user="hello"} 3052387
+telemt_user_msgs_to_client{user="hello"} 13520009
+telemt_user_unique_ips_current{user="hello"} 31
+telemt_user_unique_ips_recent_window{user="hello"} 11
 ```
 
 ## koara.io
@@ -158,31 +158,31 @@ telemt_user_unique_ips_recent_window{user="hello"} 22
 ```
 telemt 3.3.15
 
-telemt_uptime_seconds 65230.3 (18h 7m)
+telemt_uptime_seconds 65536.4 (18h 12m)
 telemt_telemetry_core_enabled 1
 telemt_telemetry_user_enabled 1
 telemt_telemetry_me_level{level="normal"} 1
-telemt_connections_total 99433
+telemt_connections_total 100135
 telemt_connections_bad_total 916
-telemt_handshake_timeouts_total 5185
-telemt_upstream_connect_attempt_total 87518
-telemt_upstream_connect_success_total 87515
+telemt_handshake_timeouts_total 5187
+telemt_upstream_connect_attempt_total 88202
+telemt_upstream_connect_success_total 88199
 telemt_upstream_connect_fail_total 3
-telemt_upstream_connect_attempts_per_request{bucket="1"} 87518
-telemt_upstream_connect_duration_success_total{bucket="le_100ms"} 77723
-telemt_upstream_connect_duration_success_total{bucket="101_500ms"} 9730
+telemt_upstream_connect_attempts_per_request{bucket="1"} 88202
+telemt_upstream_connect_duration_success_total{bucket="le_100ms"} 78328
+telemt_upstream_connect_duration_success_total{bucket="101_500ms"} 9809
 telemt_upstream_connect_duration_success_total{bucket="501_1000ms"} 1
 telemt_upstream_connect_duration_success_total{bucket="gt_1000ms"} 61
 telemt_upstream_connect_duration_fail_total{bucket="gt_1000ms"} 3
 telemt_me_floor_mode{mode="adaptive"} 1
-telemt_user_connections_total{user="hello"} 87507
-telemt_user_connections_current{user="hello"} 163
-telemt_user_octets_from_client{user="hello"} 11929859325 (11.11 GB)
-telemt_user_octets_to_client{user="hello"} 75563518306 (70.37 GB)
-telemt_user_msgs_from_client{user="hello"} 5472079
-telemt_user_msgs_to_client{user="hello"} 14749480
-telemt_user_unique_ips_current{user="hello"} 52
-telemt_user_unique_ips_recent_window{user="hello"} 26
+telemt_user_connections_total{user="hello"} 88191
+telemt_user_connections_current{user="hello"} 115
+telemt_user_octets_from_client{user="hello"} 11933193925 (11.11 GB)
+telemt_user_octets_to_client{user="hello"} 75805330607 (70.60 GB)
+telemt_user_msgs_from_client{user="hello"} 5482545
+telemt_user_msgs_to_client{user="hello"} 14809879
+telemt_user_unique_ips_current{user="hello"} 50
+telemt_user_unique_ips_recent_window{user="hello"} 17
 ```
 
 ## landvps.ru
@@ -190,31 +190,31 @@ telemt_user_unique_ips_recent_window{user="hello"} 26
 ```
 telemt 3.3.15
 
-telemt_uptime_seconds 65229.5 (18h 7m)
+telemt_uptime_seconds 65535.6 (18h 12m)
 telemt_telemetry_core_enabled 1
 telemt_telemetry_user_enabled 1
 telemt_telemetry_me_level{level="normal"} 1
-telemt_connections_total 109217
+telemt_connections_total 110555
 telemt_connections_bad_total 223
-telemt_handshake_timeouts_total 929
-telemt_upstream_connect_attempt_total 103983
-telemt_upstream_connect_success_total 103747
-telemt_upstream_connect_fail_total 235
-telemt_upstream_connect_attempts_per_request{bucket="1"} 103982
-telemt_upstream_connect_duration_success_total{bucket="le_100ms"} 89503
-telemt_upstream_connect_duration_success_total{bucket="101_500ms"} 13909
-telemt_upstream_connect_duration_success_total{bucket="501_1000ms"} 53
+telemt_handshake_timeouts_total 937
+telemt_upstream_connect_attempt_total 105220
+telemt_upstream_connect_success_total 104982
+telemt_upstream_connect_fail_total 237
+telemt_upstream_connect_attempts_per_request{bucket="1"} 105219
+telemt_upstream_connect_duration_success_total{bucket="le_100ms"} 90558
+telemt_upstream_connect_duration_success_total{bucket="101_500ms"} 14088
+telemt_upstream_connect_duration_success_total{bucket="501_1000ms"} 54
 telemt_upstream_connect_duration_success_total{bucket="gt_1000ms"} 282
-telemt_upstream_connect_duration_fail_total{bucket="gt_1000ms"} 235
+telemt_upstream_connect_duration_fail_total{bucket="gt_1000ms"} 237
 telemt_me_floor_mode{mode="adaptive"} 1
-telemt_user_connections_total{user="hello"} 103739
-telemt_user_connections_current{user="hello"} 286
-telemt_user_octets_from_client{user="hello"} 4495400387 (4.19 GB)
-telemt_user_octets_to_client{user="hello"} 71870645492 (66.93 GB)
-telemt_user_msgs_from_client{user="hello"} 3092315
-telemt_user_msgs_to_client{user="hello"} 18244986
-telemt_user_unique_ips_current{user="hello"} 73
-telemt_user_unique_ips_recent_window{user="hello"} 36
+telemt_user_connections_total{user="hello"} 104974
+telemt_user_connections_current{user="hello"} 228
+telemt_user_octets_from_client{user="hello"} 4514008395 (4.20 GB)
+telemt_user_octets_to_client{user="hello"} 72586897194 (67.60 GB)
+telemt_user_msgs_from_client{user="hello"} 3114351
+telemt_user_msgs_to_client{user="hello"} 18403026
+telemt_user_unique_ips_current{user="hello"} 59
+telemt_user_unique_ips_recent_window{user="hello"} 29
 ```
 
 ## rdp-onedash.ru
@@ -222,30 +222,30 @@ telemt_user_unique_ips_recent_window{user="hello"} 36
 ```
 telemt 3.3.15
 
-telemt_uptime_seconds 65230.5 (18h 7m)
+telemt_uptime_seconds 65536.8 (18h 12m)
 telemt_telemetry_core_enabled 1
 telemt_telemetry_user_enabled 1
 telemt_telemetry_me_level{level="normal"} 1
-telemt_connections_total 178031
-telemt_connections_bad_total 14370
-telemt_handshake_timeouts_total 2971
-telemt_upstream_connect_attempt_total 141532
-telemt_upstream_connect_success_total 141282
+telemt_connections_total 179047
+telemt_connections_bad_total 14432
+telemt_handshake_timeouts_total 3068
+telemt_upstream_connect_attempt_total 142361
+telemt_upstream_connect_success_total 142111
 telemt_upstream_connect_fail_total 250
-telemt_upstream_connect_attempts_per_request{bucket="1"} 141532
-telemt_upstream_connect_duration_success_total{bucket="le_100ms"} 121089
-telemt_upstream_connect_duration_success_total{bucket="101_500ms"} 19938
+telemt_upstream_connect_attempts_per_request{bucket="1"} 142361
+telemt_upstream_connect_duration_success_total{bucket="le_100ms"} 121805
+telemt_upstream_connect_duration_success_total{bucket="101_500ms"} 20051
 telemt_upstream_connect_duration_success_total{bucket="gt_1000ms"} 255
 telemt_upstream_connect_duration_fail_total{bucket="gt_1000ms"} 250
 telemt_me_floor_mode{mode="adaptive"} 1
-telemt_user_connections_total{user="hello"} 141276
-telemt_user_connections_current{user="hello"} 254
-telemt_user_octets_from_client{user="hello"} 2854785109 (2.66 GB)
-telemt_user_octets_to_client{user="hello"} 131774627433 (122.72 GB)
-telemt_user_msgs_from_client{user="hello"} 3218519
-telemt_user_msgs_to_client{user="hello"} 16993158
+telemt_user_connections_total{user="hello"} 142105
+telemt_user_connections_current{user="hello"} 226
+telemt_user_octets_from_client{user="hello"} 2858295738 (2.66 GB)
+telemt_user_octets_to_client{user="hello"} 131858116985 (122.80 GB)
+telemt_user_msgs_from_client{user="hello"} 3226851
+telemt_user_msgs_to_client{user="hello"} 17015168
 telemt_user_unique_ips_current{user="hello"} 79
-telemt_user_unique_ips_recent_window{user="hello"} 30
+telemt_user_unique_ips_recent_window{user="hello"} 27
 ```
 
 ## hostvds.com
@@ -253,12 +253,12 @@ telemt_user_unique_ips_recent_window{user="hello"} 30
 ```
 telemt 3.3.15
 
-telemt_uptime_seconds 44199.9 (12h 16m)
+telemt_uptime_seconds 44506.1 (12h 21m)
 telemt_telemetry_core_enabled 1
 telemt_telemetry_user_enabled 1
 telemt_telemetry_me_level{level="normal"} 1
-telemt_connections_total 410
-telemt_connections_bad_total 388
+telemt_connections_total 411
+telemt_connections_bad_total 389
 telemt_handshake_timeouts_total 9
 telemt_upstream_connect_attempt_total 17
 telemt_upstream_connect_success_total 17
