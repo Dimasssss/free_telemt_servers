@@ -1,5 +1,5 @@
 [general]
-use_middle_proxy = false
+use_middle_proxy = true
 
 [general.links]
 show ="*"
@@ -15,3 +15,4 @@ hello = "be3007e927acd147dde12bee8b1a7c93"
 port = 443
 metrics_port = 9090
 metrics_whitelist = ["127.0.0.1", "::1"]
+
