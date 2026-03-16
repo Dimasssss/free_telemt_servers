@@ -12,6 +12,7 @@ tls_emulation = true
 hello = "be3007e927acd147dde12bee8b1a7c93"
 
 [server]
+max_connections = 0
 port = 443
 metrics_port = 9090
 metrics_whitelist = ["127.0.0.1", "::1"]
