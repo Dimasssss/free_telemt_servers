@@ -10,6 +10,11 @@
 ```
 UQAyIvWts4-gC0b5ouoy_JNDfBEe337c7oOBqpGXFB8fJUzB
 ```
+- TRC-20: 
+```
+TVmvcVpejDUgobn1UdzewEmmpj4XZBg9a1
+```
+
 ### **Спасибо:**
 - Ivan Morozov - 20$
 
@@ -19,12 +24,11 @@ _Можете писать свой ник в коментарии к перев
 
 ---
 
-## NKtelecom
-- Локация: Netherlands - Amsterdam
-- Тариф: AMS-CLOUD-60
-- Краткое описание тарифа: 4 vCore, 4 Gb ram, 1 Gbit/s
-- Цена в месяц: 4.99$
-- Оплачен до: 26 апреля
+## 4vps.su (2 сервера)
+- Локация: Польша, Варшава
+- Тариф: PL-cx21
+- Краткое описание тарифа: 2 vCore, 4 Gb ram, 2 Gbit/s
+- Цена в месяц: 770 RUB
 - Ссылка:
 ```bash
 tg://proxy?server=s1.dimasssss.space&port=443&secret=eebe3007e927acd147dde12bee8b1a7c9364726976652e676f6f676c652e636f6d
@@ -49,7 +53,6 @@ tg://proxy?server=s2.dimasssss.space&port=443&secret=eebe3007e927acd147dde12bee8
 - Тариф: DE-2
 - Краткое описание тарифа: 2 vCore, 4 Gb ram, 1 Gbit/s
 - Цена в месяц: 639 RUB
-- Оплачен до: 25 марта
 - Ссылка:
 ```bash
 tg://proxy?server=s3.dimasssss.space&port=443&secret=eebe3007e927acd147dde12bee8b1a7c9364726976652e676f6f676c652e636f6d
@@ -62,7 +65,6 @@ tg://proxy?server=s3.dimasssss.space&port=443&secret=eebe3007e927acd147dde12bee8
 - Тариф: FL-2
 - Краткое описание тарифа: 2 vCore, 2 Gb ram, 200 Mbps/s
 - Цена в месяц: 800 RUB
-- Оплачен до: 26 марта
 - Ссылка:
 ```bash
 tg://proxy?server=s4.dimasssss.space&port=443&secret=eebe3007e927acd147dde12bee8b1a7c9364726976652e676f6f676c652e636f6d
@@ -94,12 +96,11 @@ tg://proxy?server=s6.dimasssss.space&port=443&secret=eebe3007e927acd147dde12bee8
 
 -----
 
-## 4vps.su (2 сервера)
-- Локация: Польша, Варшава
-- Тариф: PL-cx21
-- Краткое описание тарифа: 2 vCore, 4 Gb ram, 2 Gbit/s
-- Цена в месяц: 770 RUB
-- Оплачен до: 16 апреля
+## NKtelecom
+- Локация: Netherlands - Amsterdam
+- Тариф: AMS-CLOUD-60
+- Краткое описание тарифа: 4 vCore, 4 Gb ram, 1 Gbit/s
+- Цена в месяц: 4.99$
 - Ссылка:
 ```bash
 tg://proxy?server=s7.dimasssss.space&port=443&secret=eebe3007e927acd147dde12bee8b1a7c9364726976652e676f6f676c652e636f6d
