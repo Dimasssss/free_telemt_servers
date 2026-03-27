@@ -24,7 +24,7 @@ _Можете писать свой ник в коментарии к перев
 
 ---
 
-## 4vps.su (2 сервера)
+## 4vps.su
 - Локация: Польша, Варшава
 - Тариф: PL-cx21
 - Краткое описание тарифа: 2 vCore, 4 Gb ram, 2 Gbit/s
@@ -85,8 +85,8 @@ tg://proxy?server=s5.dimasssss.space&port=443&secret=eebe3007e927acd147dde12bee8
 -----
 
 ## hostvds.com
-- Локация: Франция, Париж
-- Тариф: Highload-2
+- Локация: Финляндия
+- Тариф: High-Frequency-2
 - Краткое описание тарифа: 2 vCore, 8 Gb ram, 10 Gbit/s
 - Цена в месяц: €12.57
 - Ссылка:
@@ -96,14 +96,14 @@ tg://proxy?server=s6.dimasssss.space&port=443&secret=eebe3007e927acd147dde12bee8
 
 -----
 
-## NKtelecom
-- Локация: Netherlands - Amsterdam
-- Тариф: AMS-CLOUD-60
-- Краткое описание тарифа: 4 vCore, 4 Gb ram, 1 Gbit/s
-- Цена в месяц: 4.99$
+## 4vps.su
+- Локация: Польша, Варшава
+- Тариф: PL-cx21
+- Краткое описание тарифа: 2 vCore, 4 Gb ram, 2 Gbit/s
+- Цена в месяц: 770 RUB
 - Ссылка:
 ```bash
-tg://proxy?server=s7.dimasssss.space&port=443&secret=eebe3007e927acd147dde12bee8b1a7c9364726976652e676f6f676c652e636f6d
+tg://proxy?server=s1.dimasssss.space&port=443&secret=eebe3007e927acd147dde12bee8b1a7c9364726976652e676f6f676c652e636f6d
 ```
 
 -----
