@@ -27,7 +27,7 @@ _Можете писать свой ник в коментарии к перев
 ## 4vps.su
 - Локация: Польша, Варшава
 - Тариф: PL-cx21
-- Краткое описание тарифа: 2 vCore, 4 Gb ram, 2 Gbit/s
+- Краткое описание тарифа: 2 vCore, 4 Gb ram, До 2 Gbit/s
 - Цена в месяц: 770 RUB
 - Ссылка:
 ```bash
@@ -37,9 +37,9 @@ tg://proxy?server=s1.dimasssss.space&port=443&secret=eebe3007e927acd147dde12bee8
 -----
 
 ## psb.hosting (2 сервера)
-- Локация: Finland
+- Локация: Финляндия
 - Тариф: FI-200
-- Краткое описание тарифа: 2 vCore, 4 Gb ram, 1 Gbit/s
+- Краткое описание тарифа: 2 vCore, 4 Gb ram, До 1 Gbit/s
 - Цена в месяц: 12$
 - Ссылка:
 ```bash
@@ -51,7 +51,7 @@ tg://proxy?server=s2.dimasssss.space&port=443&secret=eebe3007e927acd147dde12bee8
 ## koara.io
 - Локация: Германия, Франкфурт-на-Майне
 - Тариф: DE-2
-- Краткое описание тарифа: 2 vCore, 4 Gb ram, 1 Gbit/s
+- Краткое описание тарифа: 2 vCore, 4 Gb ram, До 1 Gbit/s
 - Цена в месяц: 639 RUB
 - Ссылка:
 ```bash
@@ -63,7 +63,7 @@ tg://proxy?server=s3.dimasssss.space&port=443&secret=eebe3007e927acd147dde12bee8
 ## landvps.ru
 - Локация: Финляндия
 - Тариф: FL-2
-- Краткое описание тарифа: 2 vCore, 2 Gb ram, 200 Mbps/s
+- Краткое описание тарифа: 2 vCore, 2 Gb ram, До 200 Mbps/s
 - Цена в месяц: 800 RUB
 - Ссылка:
 ```bash
@@ -75,7 +75,7 @@ tg://proxy?server=s4.dimasssss.space&port=443&secret=eebe3007e927acd147dde12bee8
 ## rdp-onedash.ru (2 сервера)
 - Локация: Нидерланды
 - Тариф: Mini
-- Краткое описание тарифа: 2 vCore, 2 Gb ram, 1 Gbit/s
+- Краткое описание тарифа: 2 vCore, 2 Gb ram, До 1 Gbit/s
 - Цена в месяц: 844 RUB
 - Ссылка:
 ```bash
@@ -87,7 +87,7 @@ tg://proxy?server=s5.dimasssss.space&port=443&secret=eebe3007e927acd147dde12bee8
 ## hostvds.com
 - Локация: Финляндия
 - Тариф: High-Frequency-2
-- Краткое описание тарифа: 2 vCore, 8 Gb ram, 10 Gbit/s
+- Краткое описание тарифа: 2 vCore, 8 Gb ram, До 10 Gbit/s
 - Цена в месяц: €12.57
 - Ссылка:
 ```bash
@@ -99,11 +99,23 @@ tg://proxy?server=s6.dimasssss.space&port=443&secret=eebe3007e927acd147dde12bee8
 ## 4vps.su
 - Локация: Польша, Варшава
 - Тариф: PL-cx21
-- Краткое описание тарифа: 2 vCore, 4 Gb ram, 2 Gbit/s
+- Краткое описание тарифа: 2 vCore, 4 Gb ram, До 2 Gbit/s
 - Цена в месяц: 770 RUB
 - Ссылка:
 ```bash
 tg://proxy?server=s7.dimasssss.space&port=443&secret=eebe3007e927acd147dde12bee8b1a7c9364726976652e676f6f676c652e636f6d
+```
+
+-----
+
+## intezio.net
+- Локация: Нидерланды
+- Тариф: NL-2
+- Краткое описание тарифа: 2 vCore, 4 Gb ram, До 25 Gbit/s
+- Цена в месяц: 950 RUB
+- Ссылка:
+```bash
+tg://proxy?server=s8.dimasssss.space&port=443&secret=eebe3007e927acd147dde12bee8b1a7c9364726976652e676f6f676c652e636f6d
 ```
 
 -----
