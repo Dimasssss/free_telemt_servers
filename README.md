@@ -119,3 +119,15 @@ tg://proxy?server=s8.dimasssss.space&port=443&secret=eebe3007e927acd147dde12bee8
 ```
 
 -----
+
+## play2go.cloud
+- Локация: Нидерланды
+- Тариф: NL-2
+- Краткое описание тарифа: 2 vCore, 4 Gb ram, До 1 Gbit/s
+- Цена в месяц: 560 RUB
+- Ссылка:
+```bash
+tg://proxy?server=s9.dimasssss.space&port=443&secret=eebe3007e927acd147dde12bee8b1a7c9364726976652e676f6f676c652e636f6d
+```
+
+-----
