@@ -15,11 +15,6 @@ UQAyIvWts4-gC0b5ouoy_JNDfBEe337c7oOBqpGXFB8fJUzB
 TVmvcVpejDUgobn1UdzewEmmpj4XZBg9a1
 ```
 
-### **Спасибо:**
-- Ivan Morozov - 20$
-
-_Можете писать свой ник в коментарии к переводу_
-
 ### [Итог по хостингам](Reviews.md)
 
 ---
@@ -60,11 +55,11 @@ tg://proxy?server=s3.dimasssss.space&port=443&secret=eebe3007e927acd147dde12bee8
 
 -----
 
-## landvps.ru
-- Локация: Финляндия
-- Тариф: FL-2
-- Краткое описание тарифа: 2 vCore, 2 Gb ram, До 200 Mbps/s
-- Цена в месяц: 800 RUB
+## intezio.net
+- Локация: Нидерланды
+- Тариф: NL-2
+- Краткое описание тарифа: 2 vCore, 4 Gb ram, До 25 Gbit/s
+- Цена в месяц: 950 RUB
 - Ссылка:
 ```bash
 tg://proxy?server=s4.dimasssss.space&port=443&secret=eebe3007e927acd147dde12bee8b1a7c9364726976652e676f6f676c652e636f6d
@@ -108,14 +103,14 @@ tg://proxy?server=s7.dimasssss.space&port=443&secret=eebe3007e927acd147dde12bee8
 
 -----
 
-## intezio.net
-- Локация: Нидерланды
-- Тариф: NL-2
-- Краткое описание тарифа: 2 vCore, 4 Gb ram, До 25 Gbit/s
-- Цена в месяц: 950 RUB
+## landvps.ru
+- Локация: Финляндия
+- Тариф: FL-2
+- Краткое описание тарифа: 2 vCore, 2 Gb ram, До 200 Mbps/s
+- Цена в месяц: 800 RUB
 - Ссылка:
 ```bash
-tg://proxy?server=s8.dimasssss.space&port=443&secret=eebe3007e927acd147dde12bee8b1a7c9364726976652e676f6f676c652e636f6d
+tg://proxy?server=s4.dimasssss.space&port=443&secret=eebe3007e927acd147dde12bee8b1a7c9364726976652e676f6f676c652e636f6d
 ```
 
 -----
