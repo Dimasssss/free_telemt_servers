@@ -1,7 +1,7 @@
 ### **Принимаю донаты криптой для добавления и продления серверов:**
 - TON (Можно отправлять TON и USDT в сети TON):
 ```
-UQAyIvWts4-gC0b5ouoy_JNDfBEe337c7oOBqpGXFB8fJUzB
+UQAdc5_1royoxcOAGJd7S_b09imDGiDQmG2LVeP96wCWZJC-
 ```
 - TRC-20: 
 ```
