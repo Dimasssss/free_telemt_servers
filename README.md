@@ -22,6 +22,14 @@ tg://proxy?server=s02.dimasssss.space&port=443&secret=eebed92191281b6d7a676b052f
 tg://proxy?server=s03.dimasssss.space&port=443&secret=eebed92191281b6d7a676b052f2797cad9726164696f7265636f72642e7275
 ```
 
+```bash
+tg://proxy?server=s04.dimasssss.space&port=443&secret=eebed92191281b6d7a676b052f2797cad9617669746f2e7275
+```
+
+```bash
+tg://proxy?server=s05.dimasssss.space&port=443&secret=eebed92191281b6d7a676b052f2797cad977696c64626572726965732e7275
+```
+
 Test
 ```bash
 tg://proxy?server=test1.dimasssss.space&port=8443&secret=eebed92191281b6d7a676b052f2797cad9646e732d73686f702e7275
