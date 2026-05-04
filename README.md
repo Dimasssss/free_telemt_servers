@@ -58,9 +58,9 @@ tg://proxy?server=45.12.144.112&port=443&secret=ee799a12727392b34d06f21e5879e873
 ```  
 🛡 **Спонсор:** Бесплатные прокси / Free Proxy  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (41 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1 (51 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2:** ❌❌❌❌❌❌❌❌❌❌  
+**BY (41 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (51 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2:** ❌❌❌❌❌❌❌❌❌❌  
 🕒 **Последняя проверка:** 04.05.2026 12:47:49 (МСК)  
 
 
@@ -72,9 +72,9 @@ tg://proxy?server=s12.dimasssss.space&port=443&secret=eebe3007e927acd147dde12bee
 ```  
 🛡 **Спонсор:** 💎 Нет  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (64 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1:** ❌❌❌❌❌❌❌❌❌❌  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2 (62 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**BY (64 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1:** ❌❌❌❌❌❌❌❌❌❌  
+**RU №2 (62 ms):** ✅✅✅✅✅✅✅✅✅✅  
 🕒 **Последняя проверка:** 04.05.2026 12:48:08 (МСК)  
 
 
@@ -86,9 +86,9 @@ https://t.me/proxy?server=raw.cloud.klukva.online&port=443&secret=ee9ed9c1fc8539
 ```  
 🛡 **Спонсор:** klukvaVPN | новости  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (76 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1 (61 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2:** ❌❌❌❌❌❌❌❌❌❌  
+**BY (76 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (61 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2:** ❌❌❌❌❌❌❌❌❌❌  
 🕒 **Последняя проверка:** 04.05.2026 12:48:21 (МСК)  
 
 
@@ -100,24 +100,10 @@ tg://proxy?server=89.127.201.206&port=443&secret=ee02ad2cb059cc54486e3499efc3170
 ```  
 🛡 **Спонсор:** TG Proxy  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (75 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1:** ❌❌❌❌❌❌❌❌❌❌  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2:** ❌❌❌❌❌❌❌❌❌❌  
+**BY (75 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1:** ❌❌❌❌❌❌❌❌❌❌  
+**RU №2:** ❌❌❌❌❌❌❌❌❌❌  
 🕒 **Последняя проверка:** 04.05.2026 12:48:53 (МСК)  
-
-
----
-
-🌐 **Прокси:**
-```
-https://t.me/proxy?server=85.17.89.193&port=443&secret=ee76f6583e6b509d946c56287a9ca59dc362726f7773696e672e79616e6465782e636f6d
-```  
-🛡 **Спонсор:** Xeovo VPN  
-📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (50 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1:** ❌❌❌❌❌❌❌❌❌❌  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2 (44 ms):** ✅✅✅✅✅✅✅✅✅✅  
-🕒 **Последняя проверка:** 04.05.2026 12:50:40 (МСК)  
 
 
 ---
@@ -128,38 +114,10 @@ tg://proxy?server=swekitty.grittytarantula.sbs&port=443&secret=ee279f27349c60d84
 ```  
 🛡 **Спонсор:** ProProxies News | PROXY & VPN  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (96 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1 (198 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2 (64 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**BY (96 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (198 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2 (64 ms):** ✅✅✅✅✅✅✅✅✅✅  
 🕒 **Последняя проверка:** 04.05.2026 12:50:45 (МСК)  
-
-
----
-
-🌐 **Прокси:**
-```
-tg://proxy?server=get.beatvault.ru&port=443&secret=eef7500d69d0479eb1c90454490aa7096d64726976652e676f6f676c652e636f6d
-```  
-🛡 **Спонсор:** Прокси  
-📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (89 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1:** ❌❌❌❌❌❌❌❌❌❌  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2 (58 ms):** ✅✅✅✅✅✅✅✅✅✅  
-🕒 **Последняя проверка:** 04.05.2026 12:50:54 (МСК)  
-
-
----
-
-🌐 **Прокси:**
-```
-tg://proxy?server=free.beatvault.ru&port=443&secret=eef7500d69d0479eb1c90454490aa7096d64726976652e676f6f676c652e636f6d
-```  
-🛡 **Спонсор:** Прокси  
-📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (90 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1:** ❌❌❌❌❌❌❌❌❌❌  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2 (60 ms):** ✅✅✅✅✅✅✅✅✅✅  
-🕒 **Последняя проверка:** 04.05.2026 12:51:10 (МСК)  
 
 
 ---
@@ -170,9 +128,9 @@ tg://proxy?server=misanthrop.duckdns.org&port=443&secret=eed2d3dc7b80b3b9e824457
 ```  
 🛡 **Спонсор:** MTProto octopus  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (109 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1 (167 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2 (87 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**BY (109 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (167 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2 (87 ms):** ✅✅✅✅✅✅✅✅✅✅  
 🕒 **Последняя проверка:** 04.05.2026 12:51:12 (МСК)  
 
 
@@ -184,9 +142,9 @@ tg://proxy?server=swekitty2.grittytarantula.sbs&port=443&secret=ee3730ca5b692dc6
 ```  
 🛡 **Спонсор:** ProProxies News | PROXY & VPN  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (106 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1 (132 ms):** ✅✅✅✅✅❌✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2 (80 ms):** ✅✅✅✅✅❌✅✅✅✅  
+**BY (106 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (132 ms):** ✅✅✅✅✅❌✅✅✅✅  
+**RU №2 (80 ms):** ✅✅✅✅✅❌✅✅✅✅  
 🕒 **Последняя проверка:** 04.05.2026 12:51:14 (МСК)  
 
 
@@ -198,9 +156,9 @@ https://t.me/proxy?server=shrink.pulsar.rest&port=443&secret=eed32bfada03b362891
 ```  
 🛡 **Спонсор:** Пульсар️️⚡️Прокси  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (43 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1 (119 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2 (48 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**BY (43 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (119 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2 (48 ms):** ✅✅✅✅✅✅✅✅✅✅  
 🕒 **Последняя проверка:** 04.05.2026 12:51:20 (МСК)  
 
 
@@ -212,9 +170,9 @@ tg://proxy?server=go.bifrost.now&port=443&secret=ee5b80c2eddbf3c75219fc56b524f1f
 ```  
 🛡 **Спонсор:** Bifrost  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (72 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1 (86 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2 (46 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**BY (72 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (86 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2 (46 ms):** ✅✅✅✅✅✅✅✅✅✅  
 🕒 **Последняя проверка:** 04.05.2026 12:51:23 (МСК)  
 
 
@@ -226,9 +184,9 @@ tg://proxy?server=sub3relay.duckdns.org&port=8443&secret=ee17fdfa167f6babdb3f893
 ```  
 🛡 **Спонсор:** Luminto » Minecraft-сервер  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (90 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1 (215 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2 (66 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**BY (90 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (215 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2 (66 ms):** ✅✅✅✅✅✅✅✅✅✅  
 🕒 **Последняя проверка:** 04.05.2026 12:51:23 (МСК)  
 
 
@@ -240,9 +198,9 @@ tg://proxy?server=dedicated.love-internet.xyz&port=4515&secret=7umk8jsddowEqNfzk
 ```  
 🛡 **Спонсор:** ProxyMTProto - Прокси MTProto  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (99 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1 (219 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2:** ❌❌❌❌❌❌❌❌❌❌  
+**BY (99 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (219 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2:** ❌❌❌❌❌❌❌❌❌❌  
 🕒 **Последняя проверка:** 04.05.2026 12:51:34 (МСК)  
 
 
@@ -254,9 +212,9 @@ https://t.me/proxy?server=rawmilk.voltlab.su&port=443&secret=eecacfc4d512f6456f4
 ```  
 🛡 **Спонсор:** voltLab | Channel  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (76 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1 (273 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2 (62 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**BY (76 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (273 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2 (62 ms):** ✅✅✅✅✅✅✅✅✅✅  
 🕒 **Последняя проверка:** 04.05.2026 12:51:35 (МСК)  
 
 
@@ -268,9 +226,9 @@ https://t.me/proxy?server=rdp10592.vertiex.ru&port=443&secret=7qFeqZ7DRW5_RCXdOS
 ```  
 🛡 **Спонсор:** VPN #1 | Новости  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (94 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1 (129 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2 (69 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**BY (94 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (129 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2 (69 ms):** ✅✅✅✅✅✅✅✅✅✅  
 🕒 **Последняя проверка:** 04.05.2026 12:51:36 (МСК)  
 
 
@@ -282,9 +240,9 @@ https://t.me/proxy?server=free-nl.kimt.space&port=443&secret=ee3efced182e68e689a
 ```  
 🛡 **Спонсор:** 🫰 VPN У Kima ⚡️  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (71 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1 (183 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2 (50 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**BY (71 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (183 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2 (50 ms):** ✅✅✅✅✅✅✅✅✅✅  
 🕒 **Последняя проверка:** 04.05.2026 12:51:37 (МСК)  
 
 
@@ -296,24 +254,10 @@ https://t.me/proxy?server=tg-proxy-2.potokvpn.com&port=993&secret=080073892babef
 ```  
 🛡 **Спонсор:** Potok VPN  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (193 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1 (457 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2 (455 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**BY (193 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (457 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2 (455 ms):** ✅✅✅✅✅✅✅✅✅✅  
 🕒 **Последняя проверка:** 04.05.2026 12:51:57 (МСК)  
-
-
----
-
-🌐 **Прокси:**
-```
-tg://proxy?server=enjoy.voltlab.su&port=443&secret=7r-dnAqqeMhVLUxJhNn9md9lbmpveS52b2x0bGFiLnN1
-```  
-🛡 **Спонсор:** voltLab | Channel  
-📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (50 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1:** ❌❌❌❌❌❌❌❌❌❌  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2 (42 ms):** ✅✅✅✅✅✅✅✅✅✅  
-🕒 **Последняя проверка:** 04.05.2026 12:52:05 (МСК)  
 
 
 ---
@@ -324,9 +268,9 @@ https://t.me/proxy?server=64.188.65.171&port=443&secret=ee973ccdec411259d1eac195
 ```  
 🛡 **Спонсор:** 遠霧  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (73 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1 (218 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2 (66 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**BY (73 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (218 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2 (66 ms):** ✅✅✅✅✅✅✅✅✅✅  
 🕒 **Последняя проверка:** 04.05.2026 12:52:09 (МСК)  
 
 
@@ -338,9 +282,9 @@ tg://proxy?server=tg.garden-gnomes.lol&port=443&secret=ee46b0971d5de93f825bc66f2
 ```  
 🛡 **Спонсор:** GG - Garden Gnomes  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (69 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1 (49 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2 (49 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**BY (69 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (49 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2 (49 ms):** ✅✅✅✅✅✅✅✅✅✅  
 🕒 **Последняя проверка:** 04.05.2026 12:52:21 (МСК)  
 
 
@@ -352,9 +296,9 @@ https://t.me/proxy?server=tg-proxy-2.potokvpn.com&port=993&secret=dd080073892bab
 ```  
 🛡 **Спонсор:** Potok VPN  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (195 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1 (932 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2 (787 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**BY (195 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (932 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2 (787 ms):** ✅✅✅✅✅✅✅✅✅✅  
 🕒 **Последняя проверка:** 04.05.2026 12:52:23 (МСК)  
 
 
@@ -366,24 +310,10 @@ tg://proxy?server=free.bifrost.now&port=443&secret=ee5b80c2eddbf3c75219fc56b524f
 ```  
 🛡 **Спонсор:** Bifrost  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (111 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1 (96 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2 (99 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**BY (111 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (96 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2 (99 ms):** ✅✅✅✅✅✅✅✅✅✅  
 🕒 **Последняя проверка:** 04.05.2026 12:52:36 (МСК)  
-
-
----
-
-🌐 **Прокси:**
-```
-tg://proxy?server=alo.acharbashi.info&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d
-```  
-🛡 **Спонсор:** ProxyMTProto - Прокси MTProto  
-📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (74 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1 (178 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2:** ❌❌❌❌❌❌❌❌❌❌  
-🕒 **Последняя проверка:** 04.05.2026 12:52:39 (МСК)  
 
 
 ---
@@ -394,9 +324,9 @@ tg://proxy?server=62.113.37.3&port=443&secret=eebc4aaf28ba8d24b41ae66a63035aa025
 ```  
 🛡 **Спонсор:** Свободная тропа  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (75 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1 (65 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2 (54 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**BY (75 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (65 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2 (54 ms):** ✅✅✅✅✅✅✅✅✅✅  
 🕒 **Последняя проверка:** 04.05.2026 12:52:55 (МСК)  
 
 
@@ -408,9 +338,9 @@ https://t.me/proxy?server=foreignpayproxytg.top&port=443&secret=ee6d61782e7275e4
 ```  
 🛡 **Спонсор:** Блог ForeignPay — полезное про нейросети, подписки, игры и приложения  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (88 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1 (170 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2 (95 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**BY (88 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (170 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2 (95 ms):** ✅✅✅✅✅✅✅✅✅✅  
 🕒 **Последняя проверка:** 04.05.2026 12:52:59 (МСК)  
 
 
@@ -422,9 +352,9 @@ tg://proxy?server=5.231.223.74&port=443&secret=ee00bbae96d95969bc492b955131d1b38
 ```  
 🛡 **Спонсор:** 💎 Нет  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (84 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1 (994 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2 (145 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**BY (84 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (994 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2 (145 ms):** ✅✅✅✅✅✅✅✅✅✅  
 🕒 **Последняя проверка:** 04.05.2026 12:53:02 (МСК)  
 
 
@@ -436,9 +366,9 @@ tg://proxy?server=rdp10592.vertiex.ru&port=443&secret=7qFeqZ7DRW5_RCXdOSQmrGR5YS
 ```  
 🛡 **Спонсор:** VPN #1 | Новости  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (94 ms):** ✅✅❌✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1 (95 ms):** ✅✅❌✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2 (99 ms):** ✅✅❌✅✅✅✅✅✅✅  
+**BY (94 ms):** ✅✅❌✅✅✅✅✅✅✅  
+**RU №1 (95 ms):** ✅✅❌✅✅✅✅✅✅✅  
+**RU №2 (99 ms):** ✅✅❌✅✅✅✅✅✅✅  
 🕒 **Последняя проверка:** 04.05.2026 12:53:10 (МСК)  
 
 
@@ -450,9 +380,9 @@ tg://proxy?server=two.turboproxy.pro&port=8443&secret=eec8150abdb60a541343858be0
 ```  
 🛡 **Спонсор:** TurboraceVPN // Канал  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (112 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1 (233 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2 (101 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**BY (112 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (233 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2 (101 ms):** ✅✅✅✅✅✅✅✅✅✅  
 🕒 **Последняя проверка:** 04.05.2026 12:53:11 (МСК)  
 
 
@@ -464,9 +394,9 @@ https://t.me/proxy?server=swekitty.grittytarantula.sbs&port=443&secret=eed512e45
 ```  
 🛡 **Спонсор:** ProProxies News | PROXY & VPN  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (100 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1 (211 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2 (93 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**BY (100 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (211 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2 (93 ms):** ✅✅✅✅✅✅✅✅✅✅  
 🕒 **Последняя проверка:** 04.05.2026 12:53:12 (МСК)  
 
 
@@ -478,9 +408,9 @@ https://t.me/proxy?server=rdp10592.vertiex.ru&port=443&secret=eea15ea99ec3456e7f
 ```  
 🛡 **Спонсор:** VPN #1 | Новости  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (100 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1 (126 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2 (127 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**BY (100 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (126 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2 (127 ms):** ✅✅✅✅✅✅✅✅✅✅  
 🕒 **Последняя проверка:** 04.05.2026 12:53:13 (МСК)  
 
 
@@ -492,9 +422,9 @@ tg://proxy?server=atlas1.nocto.online&port=8443&secret=ee4b9701371d235ab8d4afd0d
 ```  
 🛡 **Спонсор:** Nocto Proxy Бесплатный прокси для Telegram  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (73 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1:** ❌❌❌❌❌❌❌❌❌❌  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2 (54 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**BY (73 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1:** ❌❌❌❌❌❌❌❌❌❌  
+**RU №2 (54 ms):** ✅✅✅✅✅✅✅✅✅✅  
 🕒 **Последняя проверка:** 04.05.2026 12:53:30 (МСК)  
 
 
@@ -506,24 +436,10 @@ https://t.me/proxy?server=tg.vpmks.com&port=443&secret=2726df52a147333d3db19d8b5
 ```  
 🛡 **Спонсор:** 🚀 VPMKS – Канал  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (68 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1 (254 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2 (228 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**BY (68 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (254 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2 (228 ms):** ✅✅✅✅✅✅✅✅✅✅  
 🕒 **Последняя проверка:** 04.05.2026 12:53:46 (МСК)  
-
-
----
-
-🌐 **Прокси:**
-```
-tg://proxy?server=peyk.acharbashi.info&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d
-```  
-🛡 **Спонсор:** ProxyMTProto - Прокси MTProto  
-📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (80 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1 (71 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2:** ❌❌❌❌❌❌❌❌❌❌  
-🕒 **Последняя проверка:** 04.05.2026 12:53:55 (МСК)  
 
 
 ---
@@ -534,9 +450,9 @@ tg://proxy?server=proxytop.space&port=443&secret=7d793037a0760186574b0282f2f435e
 ```  
 🛡 **Спонсор:** Telegram Proxy  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY:** ✅✅❌✅✅✅✅❌✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1:** ❌❌❌❌❌❌❌❌❌❌  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2 (49 ms):** ✅✅✅✅✅❌✅✅✅✅  
+**BY:** ✅✅❌✅✅✅✅❌✅✅  
+**RU №1:** ❌❌❌❌❌❌❌❌❌❌  
+**RU №2 (49 ms):** ✅✅✅✅✅❌✅✅✅✅  
 🕒 **Последняя проверка:** 04.05.2026 12:54:10 (МСК)  
 
 
@@ -548,9 +464,9 @@ tg://proxy?server=goydamax.ru&port=443&secret=eeddb396ea36d98e42cecc4e5c165f369c
 ```  
 🛡 **Спонсор:** 💎 Нет  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (68 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1 (69 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2 (57 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**BY (68 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (69 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2 (57 ms):** ✅✅✅✅✅✅✅✅✅✅  
 🕒 **Последняя проверка:** 04.05.2026 12:54:22 (МСК)  
 
 
@@ -562,9 +478,9 @@ https://t.me/proxy?server=proxy.aprux.ru&port=443&secret=ee2f23604857121c44e119a
 ```  
 🛡 **Спонсор:** coprux  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (102 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1 (109 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2 (102 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**BY (102 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (109 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2 (102 ms):** ✅✅✅✅✅✅✅✅✅✅  
 🕒 **Последняя проверка:** 04.05.2026 12:54:23 (МСК)  
 
 
@@ -576,9 +492,9 @@ https://t.me/proxy?server=5.230.159.11&port=443&secret=eec6c206c4d429f36d13af11f
 ```  
 🛡 **Спонсор:** Telegram Proxy  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (74 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1 (106 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2 (113 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**BY (74 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (106 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2 (113 ms):** ✅✅✅✅✅✅✅✅✅✅  
 🕒 **Последняя проверка:** 04.05.2026 12:54:24 (МСК)  
 
 
@@ -590,9 +506,9 @@ https://t.me/proxy?server=s.rkn.tg&port=853&secret=ee54ce330e4690cc297d2b031ff3f
 ```  
 🛡 **Спонсор:** Akenai VPN — Канал.​  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (53 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1 (40 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2 (44 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**BY (53 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (40 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2 (44 ms):** ✅✅✅✅✅✅✅✅✅✅  
 🕒 **Последняя проверка:** 04.05.2026 12:54:25 (МСК)  
 
 
@@ -604,9 +520,9 @@ tg://proxy?server=swekitty.grittytarantula.sbs&port=443&secret=eed512e455e064250
 ```  
 🛡 **Спонсор:** ProProxies News | PROXY & VPN  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (113 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1 (132 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2 (117 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**BY (113 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (132 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2 (117 ms):** ✅✅✅✅✅✅✅✅✅✅  
 🕒 **Последняя проверка:** 04.05.2026 12:54:27 (МСК)  
 
 
@@ -618,9 +534,9 @@ tg://proxy?server=prx.today&port=443&secret=b3f0c7f6af7dc2dc2e9c80d0d80e8162
 ```  
 🛡 **Спонсор:** Telegram Proxy  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (68 ms):** ✅✅✅✅✅❌✅✅✅❌  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1:** ❌❌❌❌❌❌❌❌❌❌  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2 (56 ms):** ✅✅✅✅✅❌✅❌✅✅  
+**BY (68 ms):** ✅✅✅✅✅❌✅✅✅❌  
+**RU №1:** ❌❌❌❌❌❌❌❌❌❌  
+**RU №2 (56 ms):** ✅✅✅✅✅❌✅❌✅✅  
 🕒 **Последняя проверка:** 04.05.2026 12:54:28 (МСК)  
 
 
@@ -632,9 +548,9 @@ https://t.me/proxy?server=max.ru.rightarion.ru&port=443&secret=eedcaae509a2455bb
 ```  
 🛡 **Спонсор:** Люма ВПН | Прокси  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (60 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1 (303 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2 (46 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**BY (60 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (303 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2 (46 ms):** ✅✅✅✅✅✅✅✅✅✅  
 🕒 **Последняя проверка:** 04.05.2026 12:54:28 (МСК)  
 
 
@@ -646,9 +562,9 @@ https://t.me/proxy?server=tg.hellohiro.ru&port=8443&secret=dd973e178b06e6b204a3f
 ```  
 🛡 **Спонсор:** HiroVPN | Телеграм Прокси  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (103 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1 (180 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2 (231 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**BY (103 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (180 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2 (231 ms):** ✅✅✅✅✅✅✅✅✅✅  
 🕒 **Последняя проверка:** 04.05.2026 12:54:29 (МСК)  
 
 
@@ -660,9 +576,9 @@ https://t.me/proxy?server=tg.hellohiro.ru&port=443&secret=ee973e178b06e6b204a3f6
 ```  
 🛡 **Спонсор:** HiroVPN | Телеграм Прокси  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (68 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1 (421 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2 (370 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**BY (68 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (421 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2 (370 ms):** ✅✅✅✅✅✅✅✅✅✅  
 🕒 **Последняя проверка:** 04.05.2026 12:54:29 (МСК)  
 
 
@@ -674,9 +590,9 @@ tg://proxy?server=dedicated.myrka.digital&port=2053&secret=ee4bf3a3831a9ec9b1a00
 ```  
 🛡 **Спонсор:** Kyra VPN & Proxy | Канал  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (51 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1 (59 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2 (80 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**BY (51 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (59 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2 (80 ms):** ✅✅✅✅✅✅✅✅✅✅  
 🕒 **Последняя проверка:** 04.05.2026 12:54:29 (МСК)  
 
 
@@ -688,9 +604,9 @@ tg://proxy?server=swekitty.grittytarantula.sbs&port=443&secret=ee34103785f92b585
 ```  
 🛡 **Спонсор:** ProProxies News | PROXY & VPN  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (144 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1 (111 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2 (109 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**BY (144 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (111 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2 (109 ms):** ✅✅✅✅✅✅✅✅✅✅  
 🕒 **Последняя проверка:** 04.05.2026 12:54:30 (МСК)  
 
 
@@ -702,9 +618,9 @@ https://t.me/proxy?server=free-finland.kimt.space&port=443&secret=ee33a6dcb429c2
 ```  
 🛡 **Спонсор:** 🫰 VPN У Kima ⚡️  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (64 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1 (119 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2 (70 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**BY (64 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (119 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2 (70 ms):** ✅✅✅✅✅✅✅✅✅✅  
 🕒 **Последняя проверка:** 04.05.2026 12:54:30 (МСК)  
 
 
@@ -716,9 +632,9 @@ https://t.me/proxy?server=free-niderl.kimt.space&port=443&secret=ee7d025179c3b27
 ```  
 🛡 **Спонсор:** 🫰 VPN У Kima ⚡️  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (75 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1 (61 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2 (75 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**BY (75 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (61 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2 (75 ms):** ✅✅✅✅✅✅✅✅✅✅  
 🕒 **Последняя проверка:** 04.05.2026 12:54:32 (МСК)  
 
 
@@ -730,9 +646,9 @@ https://t.me/proxy?server=proxy.nuv.cx&port=443&secret=ee470cb2b8b29aeadfbdf8a2f
 ```  
 🛡 **Спонсор:** nuvira.​cx  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (103 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1 (112 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2 (172 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**BY (103 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (112 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2 (172 ms):** ✅✅✅✅✅✅✅✅✅✅  
 🕒 **Последняя проверка:** 04.05.2026 12:55:14 (МСК)  
 
 
@@ -744,9 +660,9 @@ https://t.me/proxy?server=myrka.bronstein.ar&port=8443&secret=eea37385d8a4bbf632
 ```  
 🛡 **Спонсор:** Kyra VPN & Proxy | Канал  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (54 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1 (44 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2 (44 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**BY (54 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (44 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2 (44 ms):** ✅✅✅✅✅✅✅✅✅✅  
 🕒 **Последняя проверка:** 04.05.2026 12:55:42 (МСК)  
 
 
@@ -758,9 +674,9 @@ tg://proxy?server=154.83.149.249&port=8443&secret=ee424bb4ccc8692dc46f5b6f80bf1b
 ```  
 🛡 **Спонсор:** Kyra VPN & Proxy | Канал  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (77 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1 (185 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2:** ❌❌❌❌❌❌❌❌❌❌  
+**BY (77 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (185 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2:** ❌❌❌❌❌❌❌❌❌❌  
 🕒 **Последняя проверка:** 04.05.2026 12:55:43 (МСК)  
 
 
@@ -772,9 +688,9 @@ https://t.me/proxy?server=hyper.sosproxy.space&port=443&secret=ee44adc4da5280b19
 ```  
 🛡 **Спонсор:** Telеgram Prоxy MTProto  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (82 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1 (80 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2:** ❌❌❌❌❌❌❌❌❌❌  
+**BY (82 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (80 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2:** ❌❌❌❌❌❌❌❌❌❌  
 🕒 **Последняя проверка:** 04.05.2026 12:55:44 (МСК)  
 
 
@@ -786,9 +702,9 @@ https://t.me/proxy?server=octopus.qvzlwk.sbs&port=443&secret=ee98dca919161a213cd
 ```  
 🛡 **Спонсор:** 💎 Нет  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (58 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1 (67 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2 (62 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**BY (58 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (67 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2 (62 ms):** ✅✅✅✅✅✅✅✅✅✅  
 🕒 **Последняя проверка:** 04.05.2026 12:56:20 (МСК)  
 
 
@@ -800,9 +716,9 @@ tg://proxy?server=hea08mw3apa.sn.mynetname.net&port=8243&secret=ee6311f23d394289
 ```  
 🛡 **Спонсор:** 💎 Нет  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (172 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1 (204 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2 (142 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**BY (172 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (204 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2 (142 ms):** ✅✅✅✅✅✅✅✅✅✅  
 🕒 **Последняя проверка:** 04.05.2026 12:56:21 (МСК)  
 
 
@@ -814,9 +730,9 @@ https://t.me/proxy?server=aajonus.voltlab.su&port=443&secret=7hbmURRC1pnW7EO7yt8
 ```  
 🛡 **Спонсор:** Прокси  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (87 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1 (167 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2 (58 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**BY (87 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (167 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2 (58 ms):** ✅✅✅✅✅✅✅✅✅✅  
 🕒 **Последняя проверка:** 04.05.2026 12:56:21 (МСК)  
 
 
@@ -828,9 +744,9 @@ https://t.me/proxy?server=max.ru.rightarion.ru&port=443&secret=dddcaae509a2455bb
 ```  
 🛡 **Спонсор:** Люма ВПН | Прокси  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (69 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1 (203 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2 (62 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**BY (69 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (203 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2 (62 ms):** ✅✅✅✅✅✅✅✅✅✅  
 🕒 **Последняя проверка:** 04.05.2026 12:56:22 (МСК)  
 
 
@@ -842,9 +758,9 @@ tg://proxy?server=cdn-cache-node.freeddns.org&port=9000&secret=ee43d36bc02a1da1b
 ```  
 🛡 **Спонсор:** Space Memes  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (71 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1 (60 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2 (51 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**BY (71 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (60 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2 (51 ms):** ✅✅✅✅✅✅✅✅✅✅  
 🕒 **Последняя проверка:** 04.05.2026 12:56:24 (МСК)  
 
 
@@ -856,9 +772,9 @@ tg://proxy?server=swekitty.grittytarantula.sbs&port=443&secret=eef57a906cee372b4
 ```  
 🛡 **Спонсор:** ProProxies News | PROXY & VPN  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY:** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1:** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2 (79 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**BY:** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1:** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2 (79 ms):** ✅✅✅✅✅✅✅✅✅✅  
 🕒 **Последняя проверка:** 04.05.2026 12:56:35 (МСК)  
 
 
@@ -870,9 +786,9 @@ https://t.me/proxy?server=msk.senkapopka.ru&port=5443&secret=ee6288b4d5d9526c8d6
 ```  
 🛡 **Спонсор:** Senkapopka proxy  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (85 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1 (190 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2 (63 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**BY (85 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (190 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2 (63 ms):** ✅✅✅✅✅✅✅✅✅✅  
 🕒 **Последняя проверка:** 04.05.2026 12:56:35 (МСК)  
 
 
@@ -884,9 +800,9 @@ https://t.me/proxy?server=suge.2pac.live&port=7777&secret=ee97c88e23d6902be6f5d2
 ```  
 🛡 **Спонсор:** KLAR // Канал  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (95 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1 (61 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2 (58 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**BY (95 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (61 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2 (58 ms):** ✅✅✅✅✅✅✅✅✅✅  
 🕒 **Последняя проверка:** 04.05.2026 12:56:36 (МСК)  
 
 
@@ -898,9 +814,9 @@ https://t.me/proxy?server=xn--80agb2axz5d.xn--80ajveggb2e.xn--p1ai&port=443&secr
 ```  
 🛡 **Спонсор:** 🥷 redflag VPN  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (70 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1 (193 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2 (84 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**BY (70 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (193 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2 (84 ms):** ✅✅✅✅✅✅✅✅✅✅  
 🕒 **Последняя проверка:** 04.05.2026 12:56:37 (МСК)  
 
 
@@ -912,9 +828,9 @@ https://t.me/proxy?server=go2.nocto.online&port=8443&secret=ee340df1f13d99bbee26
 ```  
 🛡 **Спонсор:** Nocto Proxy Бесплатный прокси для Telegram  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (222 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1 (66 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2 (77 ms):** ✅❌✅✅✅✅✅✅✅✅  
+**BY (222 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (66 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2 (77 ms):** ✅❌✅✅✅✅✅✅✅✅  
 🕒 **Последняя проверка:** 04.05.2026 12:56:56 (МСК)  
 
 
@@ -926,9 +842,9 @@ https://t.me/proxy?server=enjoy.voltlab.su&port=443&secret=7r-dnAqqeMhVLUxJhNn9m
 ```  
 🛡 **Спонсор:** voltLab | Channel  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (47 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1:** ❌❌❌❌❌❌❌❌❌❌  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2 (41 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**BY (47 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1:** ❌❌❌❌❌❌❌❌❌❌  
+**RU №2 (41 ms):** ✅✅✅✅✅✅✅✅✅✅  
 🕒 **Последняя проверка:** 04.05.2026 12:57:06 (МСК)  
 
 
@@ -940,9 +856,9 @@ tg://proxy?server=64.188.65.171&port=443&secret=ee973ccdec411259d1eac195b38a68a8
 ```  
 🛡 **Спонсор:** 遠霧  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (64 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1 (209 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2 (63 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**BY (64 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (209 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2 (63 ms):** ✅✅✅✅✅✅✅✅✅✅  
 🕒 **Последняя проверка:** 04.05.2026 12:57:08 (МСК)  
 
 
@@ -954,9 +870,9 @@ https://t.me/proxy?server=free.beatvault.ru&port=443&secret=eef7500d69d0479eb1c9
 ```  
 🛡 **Спонсор:** Прокси  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (93 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1:** ❌❌❌❌❌❌❌❌❌❌  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2 (60 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**BY (93 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1:** ❌❌❌❌❌❌❌❌❌❌  
+**RU №2 (60 ms):** ✅✅✅✅✅✅✅✅✅✅  
 🕒 **Последняя проверка:** 04.05.2026 12:57:26 (МСК)  
 
 
@@ -968,9 +884,9 @@ tg://proxy?server=45.63.95.95&port=443&secret=43c19798f04925119f8d08d3c85969cc
 ```  
 🛡 **Спонсор:** TG Proxy  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (341 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1 (340 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2 (327 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**BY (341 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (340 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2 (327 ms):** ✅✅✅✅✅✅✅✅✅✅  
 🕒 **Последняя проверка:** 04.05.2026 12:57:27 (МСК)  
 
 
@@ -982,9 +898,9 @@ https://t.me/proxy?server=live2.nocto.online&port=443&secret=ee9baefa3df18536326
 ```  
 🛡 **Спонсор:** Nocto Proxy Бесплатный прокси для Telegram  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (58 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1 (47 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2 (41 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**BY (58 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (47 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2 (41 ms):** ✅✅✅✅✅✅✅✅✅✅  
 🕒 **Последняя проверка:** 04.05.2026 12:57:37 (МСК)  
 
 
@@ -996,9 +912,9 @@ https://t.me/proxy?server=masterklass-umelye-ruchki.voltlab.su.&port=443&secret=
 ```  
 🛡 **Спонсор:** voltLab | Channel  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (851 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1 (777 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2:** ❌❌❌❌❌❌❌❌❌❌  
+**BY (851 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (777 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2:** ❌❌❌❌❌❌❌❌❌❌  
 🕒 **Последняя проверка:** 04.05.2026 12:57:39 (МСК)  
 
 
@@ -1010,9 +926,9 @@ https://t.me/proxy?server=5.231.223.74&port=443&secret=ee00bbae96d95969bc492b955
 ```  
 🛡 **Спонсор:** 💎 Нет  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (634 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1 (171 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2 (56 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**BY (634 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (171 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2 (56 ms):** ✅✅✅✅✅✅✅✅✅✅  
 🕒 **Последняя проверка:** 04.05.2026 12:58:02 (МСК)  
 
 
@@ -1024,9 +940,9 @@ tg://proxy?server=62.113.37.3&port=41234&secret=ddbc4aaf28ba8d24b41ae66a63035aa0
 ```  
 🛡 **Спонсор:** Свободная тропа  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (72 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1 (69 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2 (51 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**BY (72 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (69 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2 (51 ms):** ✅✅✅✅✅✅✅✅✅✅  
 🕒 **Последняя проверка:** 04.05.2026 12:58:12 (МСК)  
 
 
@@ -1038,9 +954,9 @@ https://t.me/proxy?server=t.yagosuslugi.ru&port=443&secret=eec3a80805cd5ee5d245c
 ```  
 🛡 **Спонсор:** ⚠️ ОБНОВИТЕ ПРОКСИ  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (73 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1 (180 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2 (174 ms):** ✅❌✅✅✅✅✅✅✅✅  
+**BY (73 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (180 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2 (174 ms):** ✅❌✅✅✅✅✅✅✅✅  
 🕒 **Последняя проверка:** 04.05.2026 12:58:13 (МСК)  
 
 
@@ -1052,9 +968,9 @@ https://t.me/proxy?server=anarchy.click&port=443&secret=ee7118c792a6da15636cc975
 ```  
 🛡 **Спонсор:** mtproxy.​me (бесплатные прокси телеграм)  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (159 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1 (127 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2 (124 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**BY (159 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (127 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2 (124 ms):** ✅✅✅✅✅✅✅✅✅✅  
 🕒 **Последняя проверка:** 04.05.2026 12:58:13 (МСК)  
 
 
@@ -1066,9 +982,9 @@ https://t.me/proxy?server=pro.sosproxy.space&port=443&secret=ee9d4772354ab76b3d1
 ```  
 🛡 **Спонсор:** Telegram Proxy  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (52 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1 (53 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2:** ❌❌❌❌❌❌❌❌❌❌  
+**BY (52 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (53 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2:** ❌❌❌❌❌❌❌❌❌❌  
 🕒 **Последняя проверка:** 04.05.2026 12:58:32 (МСК)  
 
 
@@ -1080,9 +996,9 @@ https://t.me/proxy?server=jkkeb.demo.personal-mtp.online&port=443&secret=eed0d6e
 ```  
 🛡 **Спонсор:** 💎 Нет  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (54 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1 (81 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2 (133 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**BY (54 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (81 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2 (133 ms):** ✅✅✅✅✅✅✅✅✅✅  
 🕒 **Последняя проверка:** 04.05.2026 12:58:44 (МСК)  
 
 
@@ -1094,9 +1010,9 @@ tg://proxy?server=px.spektr.win&port=443&secret=ee370baecb228874e0fe5b4a32a9a95e
 ```  
 🛡 **Спонсор:** Legendary VPN [Канал]  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (683 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1 (551 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2 (512 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**BY (683 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (551 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2 (512 ms):** ✅✅✅✅✅✅✅✅✅✅  
 🕒 **Последняя проверка:** 04.05.2026 12:58:52 (МСК)  
 
 
@@ -1108,9 +1024,9 @@ https://t.me/proxy?server=ultrasweeden.mooo.com&port=443&secret=eefd747c034f0d26
 ```  
 🛡 **Спонсор:** XLshina  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (82 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1 (92 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2:** ❌❌❌❌❌❌❌❌❌❌  
+**BY (82 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (92 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2:** ❌❌❌❌❌❌❌❌❌❌  
 🕒 **Последняя проверка:** 04.05.2026 12:59:15 (МСК)  
 
 
@@ -1122,9 +1038,9 @@ https://t.me/proxy?server=alo.acharbashi.info&port=4515&secret=eee9a4f23b1d768c0
 ```  
 🛡 **Спонсор:** ProxyMTProto - Прокси MTProto  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (83 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1 (112 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2:** ❌❌❌❌❌❌❌❌❌❌  
+**BY (83 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (112 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2:** ❌❌❌❌❌❌❌❌❌❌  
 🕒 **Последняя проверка:** 04.05.2026 12:59:22 (МСК)  
 
 
@@ -1136,9 +1052,9 @@ https://t.me/proxy?server=peyk.acharbashi.info&port=4515&secret=eee9a4f23b1d768c
 ```  
 🛡 **Спонсор:** ProxyMTProto - Прокси MTProto  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (80 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1 (70 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2:** ❌❌❌❌❌❌❌❌❌❌  
+**BY (80 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (70 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2:** ❌❌❌❌❌❌❌❌❌❌  
 🕒 **Последняя проверка:** 04.05.2026 12:59:45 (МСК)  
 
 
@@ -1150,9 +1066,9 @@ https://t.me/proxy?server=mtproto.ru-01.scamhost.online&port=443&secret=eee299ec
 ```  
 🛡 **Спонсор:** Hitori VPN  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (69 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1 (112 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2 (88 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**BY (69 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (112 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2 (88 ms):** ✅✅✅✅✅✅✅✅✅✅  
 🕒 **Последняя проверка:** 04.05.2026 12:59:47 (МСК)  
 
 
@@ -1164,9 +1080,9 @@ https://t.me/proxy?server=tg.ntgrd.link&port=443&secret=eef8ba76819be7e3aa847289
 ```  
 🛡 **Спонсор:** NetGuard Community  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (86 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1 (210 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2:** ❌❌❌❌❌❌❌❌❌❌  
+**BY (86 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (210 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2:** ❌❌❌❌❌❌❌❌❌❌  
 🕒 **Последняя проверка:** 04.05.2026 12:59:54 (МСК)  
 
 
@@ -1178,9 +1094,9 @@ tg://proxy?server=2.27.4.118&port=1802&secret=ee2416765d1c8e06a5e1e243ed46bd16d6
 ```  
 🛡 **Спонсор:** 遠霧  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (66 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1 (64 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2 (64 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**BY (66 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (64 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2 (64 ms):** ✅✅✅✅✅✅✅✅✅✅  
 🕒 **Последняя проверка:** 04.05.2026 12:59:54 (МСК)  
 
 
@@ -1192,9 +1108,9 @@ https://t.me/proxy?server=stars-connect.duckdns.org&port=443&secret=ee176ff0639e
 ```  
 🛡 **Спонсор:** Stars Connect VPN  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (289 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1 (89 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2 (74 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**BY (289 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (89 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2 (74 ms):** ✅✅✅✅✅✅✅✅✅✅  
 🕒 **Последняя проверка:** 04.05.2026 12:59:59 (МСК)  
 
 
@@ -1206,9 +1122,9 @@ https://t.me/proxy?server=t.yagosuslugi.ru&port=443&secret=eec3a80805cd5ee5d245c
 ```  
 🛡 **Спонсор:** ⚠️ ОБНОВИТЕ ПРОКСИ  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (73 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1 (197 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2 (49 ms):** ✅✅✅✅❌✅✅✅✅✅  
+**BY (73 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (197 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2 (49 ms):** ✅✅✅✅❌✅✅✅✅✅  
 🕒 **Последняя проверка:** 04.05.2026 13:00:41 (МСК)  
 
 
@@ -1220,9 +1136,9 @@ https://t.me/proxy?server=mtproxy.brizproject.space&port=8444&secret=07f4765c38c
 ```  
 🛡 **Спонсор:** 🪐 | 𝗕𝗿𝗶𝘇𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗣𝗿𝗼𝘅𝘆  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (69 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1 (65 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2 (85 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**BY (69 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (65 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2 (85 ms):** ✅✅✅✅✅✅✅✅✅✅  
 🕒 **Последняя проверка:** 04.05.2026 13:00:54 (МСК)  
 
 
@@ -1234,9 +1150,9 @@ https://t.me/proxy?server=super.alotaxi.info&port=4515&secret=eee9a4f23b1d768c04
 ```  
 🛡 **Спонсор:** ProxyMTProto - Прокси MTProto  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (78 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1 (182 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2:** ❌❌❌❌❌❌❌❌❌❌  
+**BY (78 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (182 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2:** ❌❌❌❌❌❌❌❌❌❌  
 🕒 **Последняя проверка:** 04.05.2026 13:00:55 (МСК)  
 
 
@@ -1248,9 +1164,9 @@ https://t.me/proxy?server=dedicated.love-internet.xyz&port=4515&secret=eee9a4f23
 ```  
 🛡 **Спонсор:** ProxyMTProto - Прокси MTProto  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (82 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1 (466 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2:** ❌❌❌❌❌❌❌❌❌❌  
+**BY (82 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (466 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2:** ❌❌❌❌❌❌❌❌❌❌  
 🕒 **Последняя проверка:** 04.05.2026 13:01:25 (МСК)  
 
 
@@ -1262,9 +1178,9 @@ tg://proxy?server=5.231.223.74&port=443&secret=ee00bbae96d95969bc492b955131d1b38
 ```  
 🛡 **Спонсор:** 💎 Нет  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (81 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1 (104 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2 (118 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**BY (81 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (104 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2 (118 ms):** ✅✅✅✅✅✅✅✅✅✅  
 🕒 **Последняя проверка:** 04.05.2026 13:01:29 (МСК)  
 
 
@@ -1276,9 +1192,9 @@ tg://proxy?server=ghostnode.ru&port=65443&secret=ee4e767ae864ee6cb4497b502b5e311
 ```  
 🛡 **Спонсор:** Ghost Node  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (39 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1:** ❌❌❌❌❌❌❌❌❌❌  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2:** ❔✅✅✅✅✅✅✅✅✅  
+**BY (39 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1:** ❌❌❌❌❌❌❌❌❌❌  
+**RU №2:** ❔✅✅✅✅✅✅✅✅✅  
 🕒 **Последняя проверка:** 04.05.2026 13:01:48 (МСК)  
 
 
@@ -1290,9 +1206,9 @@ https://t.me/proxy?server=nitro.alotaxi.info&port=4515&secret=eee9a4f23b1d768c04
 ```  
 🛡 **Спонсор:** ProxyMTProto - Прокси MTProto  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (76 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1 (81 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2:** ❌❌❌❌❌❌❌❌❌❌  
+**BY (76 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (81 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2:** ❌❌❌❌❌❌❌❌❌❌  
 🕒 **Последняя проверка:** 04.05.2026 13:02:10 (МСК)  
 
 
@@ -1304,9 +1220,9 @@ https://t.me/proxy?server=109.120.185.156&port=443&secret=dd0cc6909522211ffc42c3
 ```  
 🛡 **Спонсор:** GhostLine  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (116 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1:** ❌❌❌❌❌❌❌❌❌❌  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2:** ❌❌❌❌❌❌❌❌❌❌  
+**BY (116 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1:** ❌❌❌❌❌❌❌❌❌❌  
+**RU №2:** ❌❌❌❌❌❌❌❌❌❌  
 🕒 **Последняя проверка:** 04.05.2026 13:02:18 (МСК)  
 
 
@@ -1318,9 +1234,9 @@ tg://proxy?server=paris.idind.ru&port=443&secret=eeef6f57b8af0a675449b2e82996726
 ```  
 🛡 **Спонсор:** 💎 Нет  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (106 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1 (65 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2 (73 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**BY (106 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (65 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2 (73 ms):** ✅✅✅✅✅✅✅✅✅✅  
 🕒 **Последняя проверка:** 04.05.2026 13:02:32 (МСК)  
 
 
@@ -1332,9 +1248,9 @@ https://t.me/proxy?server=50.7.230.106&port=443&secret=ee65fc7553a1f5ca8b50b71c0
 ```  
 🛡 **Спонсор:** TonPlay RU  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (37 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1:** ❌❌❌❌❌❌❌❌❌❌  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2 (48 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**BY (37 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1:** ❌❌❌❌❌❌❌❌❌❌  
+**RU №2 (48 ms):** ✅✅✅✅✅✅✅✅✅✅  
 🕒 **Последняя проверка:** 04.05.2026 13:02:41 (МСК)  
 
 
@@ -1346,9 +1262,9 @@ https://t.me/proxy?server=max.ru.rightarion.ru&port=443&secret=ddc1e84a7f2d9b305
 ```  
 🛡 **Спонсор:** Люма ВПН | Прокси  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (64 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1 (283 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2 (200 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**BY (64 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (283 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2 (200 ms):** ✅✅✅✅✅✅✅✅✅✅  
 🕒 **Последняя проверка:** 04.05.2026 13:02:51 (МСК)  
 
 
@@ -1360,9 +1276,9 @@ tg://proxy?server=prx03.gtgt.ru&port=443&secret=eeffb8ecadb37e893760b73778ed5a4a
 ```  
 🛡 **Спонсор:** Devops Story  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (48 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1 (99 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2 (52 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**BY (48 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (99 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2 (52 ms):** ✅✅✅✅✅✅✅✅✅✅  
 🕒 **Последняя проверка:** 04.05.2026 13:03:44 (МСК)  
 
 
@@ -1374,9 +1290,9 @@ https://t.me/proxy?server=proxy.proxmusman.online&port=443&secret=ee3f20b3758015
 ```  
 🛡 **Спонсор:** MusicmaniA  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (360 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1 (320 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2 (334 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**BY (360 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (320 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2 (334 ms):** ✅✅✅✅✅✅✅✅✅✅  
 🕒 **Последняя проверка:** 04.05.2026 13:03:46 (МСК)  
 
 
@@ -1388,9 +1304,9 @@ https://t.me/proxy?server=max.ru.rightarion.ru&port=443&secret=eec1e84a7f2d9b305
 ```  
 🛡 **Спонсор:** Люма ВПН | Прокси  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (67 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1 (78 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2 (198 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**BY (67 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (78 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2 (198 ms):** ✅✅✅✅✅✅✅✅✅✅  
 🕒 **Последняя проверка:** 04.05.2026 13:03:46 (МСК)  
 
 
@@ -1402,9 +1318,9 @@ https://t.me/proxy?server=santehnik-na-vse-ryki.mooo.com&port=443&secret=eeb9c3e
 ```  
 🛡 **Спонсор:** r/держи кота  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (114 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1 (101 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2 (115 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**BY (114 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (101 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2 (115 ms):** ✅✅✅✅✅✅✅✅✅✅  
 🕒 **Последняя проверка:** 04.05.2026 13:03:47 (МСК)  
 
 
@@ -1416,9 +1332,9 @@ tg://proxy?server=xfs1.gbird.top&port=6443&secret=ddecad3d673e42dc10cae6fa9bcebc
 ```  
 🛡 **Спонсор:** Grimbird News  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (67 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1 (59 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2 (44 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**BY (67 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (59 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2 (44 ms):** ✅✅✅✅✅✅✅✅✅✅  
 🕒 **Последняя проверка:** 04.05.2026 13:03:59 (МСК)  
 
 
@@ -1430,9 +1346,9 @@ tg://proxy?server=quackton.life&port=443&secret=ee65fc7553a1f5ca8b50b71c015b3872
 ```  
 🛡 **Спонсор:** TonPlay RU  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (34 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1 (206 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2 (49 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**BY (34 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (206 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2 (49 ms):** ✅✅✅✅✅✅✅✅✅✅  
 🕒 **Последняя проверка:** 04.05.2026 13:04:14 (МСК)  
 
 
@@ -1444,9 +1360,9 @@ tg://proxy?server=barsik.myrka.digital&port=444&secret=ee1111f7e81a11fa78811ffec
 ```  
 🛡 **Спонсор:** Kyra VPN & Proxy | Канал  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (60 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1 (47 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2 (49 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**BY (60 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (47 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2 (49 ms):** ✅✅✅✅✅✅✅✅✅✅  
 🕒 **Последняя проверка:** 04.05.2026 13:04:14 (МСК)  
 
 
@@ -1458,9 +1374,9 @@ tg://proxy?server=raw.cloud.klukva.online&port=443&secret=ee9ed9c1fc8539146787b1
 ```  
 🛡 **Спонсор:** klukvaVPN | новости  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (81 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1 (65 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2:** ❌❌❌❌❌❌❌❌❌❌  
+**BY (81 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (65 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2:** ❌❌❌❌❌❌❌❌❌❌  
 🕒 **Последняя проверка:** 04.05.2026 13:04:17 (МСК)  
 
 
@@ -1472,9 +1388,9 @@ tg://proxy?server=64.188.64.79&port=8443&secret=ee17fdfa167f6babdb3f893586ac3784
 ```  
 🛡 **Спонсор:** Luminto » Minecraft-сервер  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (61 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1 (99 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2 (84 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**BY (61 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (99 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2 (84 ms):** ✅✅✅✅✅✅✅✅✅✅  
 🕒 **Последняя проверка:** 04.05.2026 13:04:25 (МСК)  
 
 
@@ -1486,9 +1402,9 @@ https://t.me/proxy?server=masterklass-umelye-ruchki.voltlab.su&port=443&secret=e
 ```  
 🛡 **Спонсор:** voltLab | Channel  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (661 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1 (251 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2:** ❌❌❌❌❌❌❌❌❌❌  
+**BY (661 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (251 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2:** ❌❌❌❌❌❌❌❌❌❌  
 🕒 **Последняя проверка:** 04.05.2026 13:04:29 (МСК)  
 
 
@@ -1500,9 +1416,9 @@ https://t.me/proxy?server=server1.mtproxyserver.site&port=443&secret=ee1df70b3bd
 ```  
 🛡 **Спонсор:** MtProxyGram  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (59 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1:** ❌❌❌❌❌❌❌❌❌❌  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2 (66 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**BY (59 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1:** ❌❌❌❌❌❌❌❌❌❌  
+**RU №2 (66 ms):** ✅✅✅✅✅✅✅✅✅✅  
 🕒 **Последняя проверка:** 04.05.2026 13:04:56 (МСК)  
 
 
@@ -1514,9 +1430,9 @@ https://t.me/proxy?server=travofut.site&port=443&secret=ee48b1cdbd937bdbea12479c
 ```  
 🛡 **Спонсор:** ТравоБет  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (177 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1 (225 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2:** ❌❌❌❌❌❌❌❌❌❌  
+**BY (177 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (225 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2:** ❌❌❌❌❌❌❌❌❌❌  
 🕒 **Последняя проверка:** 04.05.2026 13:04:58 (МСК)  
 
 
@@ -1528,9 +1444,9 @@ https://t.me/proxy?server=proxytg.fit&port=443&secret=eec8f164f338f20e2e3c7a0f4e
 ```  
 🛡 **Спонсор:** Telegram Proxy  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (65 ms):** ✅✅✅✅❌❌❌❌❌✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1:** ❌❌❌❌❌❌✅✅❌✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2:** ❌✅❌✅✅❌❌✅❌❌  
+**BY (65 ms):** ✅✅✅✅❌❌❌❌❌✅  
+**RU №1:** ❌❌❌❌❌❌✅✅❌✅  
+**RU №2:** ❌✅❌✅✅❌❌✅❌❌  
 🕒 **Последняя проверка:** 04.05.2026 13:04:59 (МСК)  
 
 
@@ -1542,9 +1458,9 @@ https://t.me/proxy?server=mtproto.de-01.scamhost.online&port=8443&secret=ee7114d
 ```  
 🛡 **Спонсор:** Hitori VPN  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (62 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1:** ❌❌❌❌❌❌❌❌❌❌  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2 (62 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**BY (62 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1:** ❌❌❌❌❌❌❌❌❌❌  
+**RU №2 (62 ms):** ✅✅✅✅✅✅✅✅✅✅  
 🕒 **Последняя проверка:** 04.05.2026 13:05:26 (МСК)  
 
 
@@ -1556,9 +1472,9 @@ tg://proxy?server=one.turboproxy.pro&port=443&secret=ee74e2e117f2160c55370f68df7
 ```  
 🛡 **Спонсор:** TurboraceVPN // Канал  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (82 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1 (72 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2 (65 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**BY (82 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (72 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2 (65 ms):** ✅✅✅✅✅✅✅✅✅✅  
 🕒 **Последняя проверка:** 04.05.2026 13:05:55 (МСК)  
 
 
@@ -1570,9 +1486,9 @@ tg://proxy?server=150.241.103.14&port=443&secret=eefdd54073b585423ac73f389d70fc3
 ```  
 🛡 **Спонсор:** r/держи кота  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (41 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1:** ❌❌❌❌❌❌❌❌❌❌  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2 (50 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**BY (41 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1:** ❌❌❌❌❌❌❌❌❌❌  
+**RU №2 (50 ms):** ✅✅✅✅✅✅✅✅✅✅  
 🕒 **Последняя проверка:** 04.05.2026 13:06:09 (МСК)  
 
 
@@ -1584,9 +1500,9 @@ tg://proxy?server=s7.dimasssss.space&port=443&secret=eebe3007e927acd147dde12bee8
 ```  
 🛡 **Спонсор:** Прокси  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (65 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1 (65 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2 (73 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**BY (65 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (65 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2 (73 ms):** ✅✅✅✅✅✅✅✅✅✅  
 🕒 **Последняя проверка:** 04.05.2026 13:06:10 (МСК)  
 
 
@@ -1598,9 +1514,9 @@ tg://proxy?server=2.26.85.57&port=443&secret=ee470ad979df6233ed96590c3dcde61b427
 ```  
 🛡 **Спонсор:** MTProxy Free  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (89 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1 (123 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2 (66 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**BY (89 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (123 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2 (66 ms):** ✅✅✅✅✅✅✅✅✅✅  
 🕒 **Последняя проверка:** 04.05.2026 13:06:12 (МСК)  
 
 
@@ -1612,9 +1528,9 @@ https://t.me/proxy?server=budge.pulsar.rest&port=443&secret=ee4cc750d4cf7b5762b6
 ```  
 🛡 **Спонсор:** Пульсар️️⚡️Прокси  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (84 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1 (102 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2 (64 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**BY (84 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (102 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2 (64 ms):** ✅✅✅✅✅✅✅✅✅✅  
 🕒 **Последняя проверка:** 04.05.2026 13:06:18 (МСК)  
 
 
@@ -1626,9 +1542,9 @@ https://t.me/proxy?server=proxysb.xyz&port=443&secret=eef7ca86268af768135f9ca41f
 ```  
 🛡 **Спонсор:** Telegram Proxy  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (66 ms):** ✅✅✅❌✅❌❌✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1:** ❌❌❌✅✅✅✅❌❌✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2:** ❌✅❌❌❌✅❌✅✅✅  
+**BY (66 ms):** ✅✅✅❌✅❌❌✅✅✅  
+**RU №1:** ❌❌❌✅✅✅✅❌❌✅  
+**RU №2:** ❌✅❌❌❌✅❌✅✅✅  
 🕒 **Последняя проверка:** 04.05.2026 13:06:41 (МСК)  
 
 
@@ -1640,9 +1556,9 @@ https://t.me/proxy?server=tg.sorik.shop&port=443&secret=ee46a57e82b4ca89c6822f56
 ```  
 🛡 **Спонсор:** MTProxy | Life  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (61 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1 (58 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2 (67 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**BY (61 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (58 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2 (67 ms):** ✅✅✅✅✅✅✅✅✅✅  
 🕒 **Последняя проверка:** 04.05.2026 13:06:43 (МСК)  
 
 
@@ -1654,7 +1570,91 @@ tg://proxy?server=ultrasweeden.mooo.com&port=443&secret=eefd747c034f0d26860a2234
 ```  
 🛡 **Спонсор:** XLshina  
 📜 **История проверок:**  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1fe.png" width="16" height="16" alt="🇧🇾" align="absmiddle"></a> BY (88 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №1 (93 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**<a><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="16" height="16" alt="🇷🇺" align="absmiddle"></a> RU №2:** ❌❌❌❌❌❌❌❌❌❌  
+**BY (88 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (93 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2:** ❌❌❌❌❌❌❌❌❌❌  
 🕒 **Последняя проверка:** 04.05.2026 13:06:50 (МСК)  
+
+
+---
+
+🌐 **Прокси:**
+```
+tg://proxy?server=free.beatvault.ru&port=443&secret=eef7500d69d0479eb1c90454490aa7096d64726976652e676f6f676c652e636f6d
+```  
+🛡 **Спонсор:** Прокси  
+📜 **История проверок:**  
+**BY (90 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1:** ❌❌❌❌❌❌❌❌❌❌  
+**RU №2 (58 ms):** ✅✅✅✅✅✅✅✅✅✅  
+🕒 **Последняя проверка:** 04.05.2026 13:08:55 (МСК)  
+
+
+---
+
+🌐 **Прокси:**
+```
+tg://proxy?server=get.beatvault.ru&port=443&secret=eef7500d69d0479eb1c90454490aa7096d64726976652e676f6f676c652e636f6d
+```  
+🛡 **Спонсор:** Прокси  
+📜 **История проверок:**  
+**BY (93 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1:** ❌❌❌❌❌❌❌❌❌❌  
+**RU №2 (59 ms):** ✅✅✅✅✅✅✅✅✅✅  
+🕒 **Последняя проверка:** 04.05.2026 13:08:55 (МСК)  
+
+
+---
+
+🌐 **Прокси:**
+```
+https://t.me/proxy?server=85.17.89.193&port=443&secret=ee76f6583e6b509d946c56287a9ca59dc362726f7773696e672e79616e6465782e636f6d
+```  
+🛡 **Спонсор:** Xeovo VPN  
+📜 **История проверок:**  
+**BY (45 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1:** ❌❌❌❌❌❌❌❌❌❌  
+**RU №2 (44 ms):** ✅✅✅✅✅✅✅✅✅✅  
+🕒 **Последняя проверка:** 04.05.2026 13:08:56 (МСК)  
+
+
+---
+
+🌐 **Прокси:**
+```
+tg://proxy?server=enjoy.voltlab.su&port=443&secret=7r-dnAqqeMhVLUxJhNn9md9lbmpveS52b2x0bGFiLnN1
+```  
+🛡 **Спонсор:** voltLab | Channel  
+📜 **История проверок:**  
+**BY (52 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1:** ❌❌❌❌❌❌❌❌❌❌  
+**RU №2 (50 ms):** ✅✅✅✅✅✅✅✅✅✅  
+🕒 **Последняя проверка:** 04.05.2026 13:09:25 (МСК)  
+
+
+---
+
+🌐 **Прокси:**
+```
+tg://proxy?server=alo.acharbashi.info&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d
+```  
+🛡 **Спонсор:** ProxyMTProto - Прокси MTProto  
+📜 **История проверок:**  
+**BY (76 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (208 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2:** ❌❌❌❌❌❌❌❌❌❌  
+🕒 **Последняя проверка:** 04.05.2026 13:09:25 (МСК)  
+
+
+---
+
+🌐 **Прокси:**
+```
+tg://proxy?server=peyk.acharbashi.info&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d
+```  
+🛡 **Спонсор:** ProxyMTProto - Прокси MTProto  
+📜 **История проверок:**  
+**BY (82 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (71 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2:** ❌❌❌❌❌❌❌❌❌❌  
+🕒 **Последняя проверка:** 04.05.2026 13:09:26 (МСК)  
