@@ -55,611 +55,9 @@ tg://proxy?server=s010.dimasssss.space&port=443&secret=eebed92191281b6d7a676b052
 
 🌐 **Прокси:**
 ```
-tg://proxy?server=85.17.89.193&port=443&secret=ee76f6583e6b509d946c56287a9ca59dc362726f7773696e672e79616e6465782e636f6d
-```  
-🛡 **Спонсор:** Xeovo VPN  
-📜 **История проверок:**  
-**BY (61 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**RU №1:** ❌❌❌❌❌❌❌❌❌❌  
-**RU №2 (42 ms):** ✅✅✅✅✅✅✅✅✅✅  
-🕒 **Последняя проверка:** 09.05.2026 11:29:34 (МСК)  
-
-
----
-
-🌐 **Прокси:**
-```
-tg://proxy?server=xfs1.gbird.top&port=6443&secret=ddecad3d673e42dc10cae6fa9bcebcd5f6
-```  
-🛡 **Спонсор:** Grimbird News  
-📜 **История проверок:**  
-**BY (63 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**RU №1 (59 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**RU №2 (43 ms):** ✅✅✅✅✅✅✅✅✅✅  
-🕒 **Последняя проверка:** 09.05.2026 11:29:45 (МСК)  
-
-
----
-
-🌐 **Прокси:**
-```
-tg://proxy?server=telegramfree2.idind.ru&port=443&secret=ee69310a070af876540d46a637c9e8464a736e692e6964696e642e7275
-```  
-🛡 **Спонсор:** r/Ultrakill  
-📜 **История проверок:**  
-**BY (102 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**RU №1:** ❌❌❌❌❌❌❌❌❌❌  
-**RU №2:** ❌❌❌❌❌❌❌❌❌❌  
-🕒 **Последняя проверка:** 09.05.2026 11:29:51 (МСК)  
-
-
----
-
-🌐 **Прокси:**
-```
-tg://proxy?server=shrink.pulsar.rest&port=443&secret=eed32bfada03b362891b9d067d465baee3736872696e6b2e70756c7361722e72657374
-```  
-🛡 **Спонсор:** Пульсар️️⚡️Прокси  
-📜 **История проверок:**  
-**BY (41 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**RU №1 (43 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**RU №2 (43 ms):** ✅✅✅✅✅✅✅✅✅✅  
-🕒 **Последняя проверка:** 09.05.2026 11:29:52 (МСК)  
-
-
----
-
-🌐 **Прокси:**
-```
-tg://proxy?server=109.120.185.156&port=443&secret=dd0cc6909522211ffc42c3c6cdb966e333
-```  
-🛡 **Спонсор:** GhostLine  
-📜 **История проверок:**  
-**BY (192 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**RU №1:** ❌❌❌❌❌❌❌❌❌❌  
-**RU №2:** ❌❌❌❌❌❌❌❌❌❌  
-🕒 **Последняя проверка:** 09.05.2026 11:30:04 (МСК)  
-
-
----
-
-🌐 **Прокси:**
-```
-tg://proxy?server=hyper.sosproxy.space&port=443&secret=ee44adc4da5280b196fa8192ffb712cef964726976652e676f6f676c652e636f6d
-```  
-🛡 **Спонсор:** Proxy MTProto  
-📜 **История проверок:**  
-**BY (78 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**RU №1 (86 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**RU №2:** ❌❌❌❌❌❌❌❌❌❌  
-🕒 **Последняя проверка:** 09.05.2026 11:30:15 (МСК)  
-
-
----
-
-🌐 **Прокси:**
-```
-tg://proxy?server=ghostnode.ru&port=65443&secret=ee4e767ae864ee6cb4497b502b5e3115cc67686f73746e6f64652e7275
-```  
-🛡 **Спонсор:** Ghost Node  
-📜 **История проверок:**  
-**BY (39 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**RU №1:** ❌❌❌❌❌❌❌❌❌❌  
-**RU №2 (50 ms):** ✅✅✅✅✅✅✅✅✅✅  
-🕒 **Последняя проверка:** 09.05.2026 11:30:22 (МСК)  
-
-
----
-
-🌐 **Прокси:**
-```
-tg://proxy?server=64.188.64.79&port=8443&secret=ee17fdfa167f6babdb3f893586ac3784977375623372656c61792e6475636b646e732e6f7267
-```  
-🛡 **Спонсор:** Luminto » Minecraft-сервер  
-📜 **История проверок:**  
-**BY (54 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**RU №1:** ❌❌❌❌❌❌❌❌❌❌  
-**RU №2 (52 ms):** ✅✅✅✅✅✅✅✅✅✅  
-🕒 **Последняя проверка:** 09.05.2026 11:30:36 (МСК)  
-
-
----
-
-🌐 **Прокси:**
-```
-tg://proxy?server=de5.kuzmos.ru&port=8090&secret=7sJdagm5y9lVtxqjePMjo3hwZXRyb3ZpY2gucnU
-```  
-🛡 **Спонсор:** Выгодный ВПН  
-📜 **История проверок:**  
-**BY (87 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**RU №1 (69 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**RU №2:** ❌❌❌❌❌❌❌❌❌❌  
-🕒 **Последняя проверка:** 09.05.2026 11:30:46 (МСК)  
-
-
----
-
-🌐 **Прокси:**
-```
-tg://proxy?server=max.ru.rightarion.ru&port=443&secret=ddc1e84a7f2d9b3056eaf17c4d8b62f903
-```  
-🛡 **Спонсор:** Люма ВПН | Прокси  
-📜 **История проверок:**  
-**BY (66 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**RU №1 (53 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**RU №2 (54 ms):** ✅✅✅✅✅✅✅✅✅✅  
-🕒 **Последняя проверка:** 09.05.2026 11:30:49 (МСК)  
-
-
----
-
-🌐 **Прокси:**
-```
-tg://proxy?server=s.rkn.tg&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b
-```  
-🛡 **Спонсор:** Akenai VPN — Канал.​  
-📜 **История проверок:**  
-**BY (48 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**RU №1 (44 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**RU №2 (48 ms):** ✅✅✅✅✅✅✅✅✅✅  
-🕒 **Последняя проверка:** 09.05.2026 11:30:52 (МСК)  
-
-
----
-
-🌐 **Прокси:**
-```
-tg://proxy?server=swekitty.grittytarantula.sbs&port=443&secret=ee279f27349c60d8489533dc8ac8e10b7c7377656b697474792e677269747479746172616e74756c612e736273
-```  
-🛡 **Спонсор:** ProProxies News | PROXY & VPN  
-📜 **История проверок:**  
-**BY (69 ms):** ✅✅✅✅✅✅❌❌✅✅  
-**RU №1 (51 ms):** ✅✅✅✅✅✅❌❌✅✅  
-**RU №2 (58 ms):** ✅✅✅✅✅✅❌❌✅✅  
-🕒 **Последняя проверка:** 09.05.2026 11:30:58 (МСК)  
-
-
----
-
-🌐 **Прокси:**
-```
-tg://proxy?server=goydamax.ru&port=443&secret=eeddb396ea36d98e42cecc4e5c165f369c676f7964616d61782e7275
-```  
-🛡 **Спонсор:** 💎 Нет  
-📜 **История проверок:**  
-**BY:** ❌❌❌❌❌❌❌❌❌❌  
-**RU №1:** ❌❌❌❌❌❌❌❌❌❌  
-**RU №2 (46 ms):** ✅✅✅✅✅✅✅✅✅✅  
-🕒 **Последняя проверка:** 09.05.2026 11:31:06 (МСК)  
-
-
----
-
-🌐 **Прокси:**
-```
-tg://proxy?server=live2.nocto.online&port=443&secret=ee9baefa3df18536326fec0818c04aa43179612e7275
-```  
-🛡 **Спонсор:** Nocto Proxy Бесплатный прокси для Telegram  
-📜 **История проверок:**  
-**BY (79 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**RU №1 (53 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**RU №2 (45 ms):** ✅✅✅❌✅✅✅✅✅✅  
-🕒 **Последняя проверка:** 09.05.2026 11:31:20 (МСК)  
-
-
----
-
-🌐 **Прокси:**
-```
-tg://proxy?server=stars-connect.duckdns.org&port=443&secret=ee176ff0639ed5582352da8e1df17791b877622e7275
-```  
-🛡 **Спонсор:** Stars Connect VPN  
-📜 **История проверок:**  
-**BY (220 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**RU №1 (71 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**RU №2 (77 ms):** ✅✅✅✅✅✅✅✅✅✅  
-🕒 **Последняя проверка:** 09.05.2026 11:31:23 (МСК)  
-
-
----
-
-🌐 **Прокси:**
-```
-tg://proxy?server=budge.pulsar.rest&port=443&secret=ee4cc750d4cf7b5762b6ca9949c778ef4162756467652e70756c7361722e72657374
-```  
-🛡 **Спонсор:** Пульсар️️⚡️Прокси  
-📜 **История проверок:**  
-**BY (78 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**RU №1:** ❌❌❌❌❌❌❌❌❌❌  
-**RU №2:** ❌❌❌❌❌❌❌❌❌❌  
-🕒 **Последняя проверка:** 09.05.2026 11:31:41 (МСК)  
-
-
----
-
-🌐 **Прокси:**
-```
-tg://proxy?server=telegramfree3.idind.ru&port=443&secret=ee4318bd9fa023e118eca03abed6d0414c736e692e6964696e642e7275
-```  
-🛡 **Спонсор:** r/Ultrakill  
-📜 **История проверок:**  
-**BY (93 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**RU №1:** ❌❌❌❌❌❌❌❌❌❌  
-**RU №2:** ❌❌❌❌❌❌❌❌❌❌  
-🕒 **Последняя проверка:** 09.05.2026 11:31:43 (МСК)  
-
-
----
-
-🌐 **Прокси:**
-```
-tg://proxy?server=nitro.alotaxi.info&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d
-```  
-🛡 **Спонсор:** ProxyMTProto - Прокси MTProto  
-📜 **История проверок:**  
-**BY (78 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**RU №1 (63 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**RU №2:** ❌❌❌❌❌❌❌❌❌❌  
-🕒 **Последняя проверка:** 09.05.2026 11:32:11 (МСК)  
-
-
----
-
-🌐 **Прокси:**
-```
-tg://proxy?server=telegramfree.idind.ru&port=443&secret=ee010517f90cfe4469d2d5bafa32aa3551736e692e6964696e642e7275
-```  
-🛡 **Спонсор:** r/Ultrakill  
-📜 **История проверок:**  
-**BY (97 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**RU №1:** ❌❌❌❌❌❌❌❌❌❌  
-**RU №2 (164 ms):** ✅✅✅✅✅✅✅✅✅✅  
-🕒 **Последняя проверка:** 09.05.2026 11:32:11 (МСК)  
-
-
----
-
-🌐 **Прокси:**
-```
-tg://proxy?server=swekitty.grittytarantula.sbs&port=443&secret=ee34103785f92b58549310adb46f79a87f7377656b697474792e677269747479746172616e74756c612e736273
-```  
-🛡 **Спонсор:** ProProxies News | PROXY & VPN  
-📜 **История проверок:**  
-**BY (119 ms):** ✅✅✅✅✅✅❌❌✅✅  
-**RU №1 (81 ms):** ✅✅✅✅✅✅❌❌✅✅  
-**RU №2 (68 ms):** ✅✅✅✅✅✅❌❌✅✅  
-🕒 **Последняя проверка:** 09.05.2026 11:32:13 (МСК)  
-
-
----
-
-🌐 **Прокси:**
-```
-tg://proxy?server=aajonus.voltlab.su&port=443&secret=7hbmURRC1pnW7EO7yt8FKVBhYWpvbnVzLnZvbHRsYWIuc3U
-```  
-🛡 **Спонсор:** voltLab | Channel  
-📜 **История проверок:**  
-**BY (73 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**RU №1:** ❌❌❌❌❌❌❌❌❌❌  
-**RU №2 (72 ms):** ✅✅✅✅✅✅✅✅✅✅  
-🕒 **Последняя проверка:** 09.05.2026 11:32:26 (МСК)  
-
-
----
-
-🌐 **Прокси:**
-```
-tg://proxy?server=t.yagosuslugi.ru&port=443&secret=eec3a80805cd5ee5d245ccea60ff27a357626f746170692e6d61782e7275
-```  
-🛡 **Спонсор:** ⚠️ ОБНОВИТЕ ПРОКСИ  
-📜 **История проверок:**  
-**BY (83 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**RU №1 (58 ms):** ✅✅✅✅✅✅❌✅✅✅  
-**RU №2 (104 ms):** ✅✅❌✅✅✅✅✅✅✅  
-🕒 **Последняя проверка:** 09.05.2026 11:32:43 (МСК)  
-
-
----
-
-🌐 **Прокси:**
-```
-tg://proxy?server=px.spektr.win&port=443&secret=ee370baecb228874e0fe5b4a32a9a95ed0646c2e676f6f676c652e636f6d
-```  
-🛡 **Спонсор:** Legendary VPN [Канал]  
-📜 **История проверок:**  
-**BY (88 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**RU №1:** ❌❌❌❌❌❌❌❌❌❌  
-**RU №2 (80 ms):** ✅✅✅✅✅✅✅✅✅✅  
-🕒 **Последняя проверка:** 09.05.2026 11:33:31 (МСК)  
-
-
----
-
-🌐 **Прокси:**
-```
-tg://proxy?server=79.137.184.72&port=443&secret=7gBXcVHTFVtaVvgLwjIhBS53d3cubWljcm9zb2Z0LmNvbQ
-```  
-🛡 **Спонсор:** DragonMaw channel  
-📜 **История проверок:**  
-**BY (197 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**RU №1 (307 ms):** ✅✅❌✅❌✅❌❌❌✅  
-**RU №2 (84 ms):** ✅✅❌✅❌✅❌❌❌❌  
-🕒 **Последняя проверка:** 09.05.2026 11:33:35 (МСК)  
-
-
----
-
-🌐 **Прокси:**
-```
-tg://proxy?server=t.yagosuslugi.ru&port=443&secret=eec3a80805cd5ee5d245ccea60ff27a3576170692d6d6170732e79616e6465782e7275
-```  
-🛡 **Спонсор:** ⚠️ ОБНОВИТЕ ПРОКСИ  
-📜 **История проверок:**  
-**BY (74 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**RU №1 (8251 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**RU №2 (132 ms):** ✅✅✅✅✅✅❌✅✅✅  
-🕒 **Последняя проверка:** 09.05.2026 11:33:38 (МСК)  
-
-
----
-
-🌐 **Прокси:**
-```
-tg://proxy?server=proxysb.xyz&port=443&secret=eef7ca86268af768135f9ca41f89e9efb670726f787973622e78797a
-```  
-🛡 **Спонсор:** Telegram Proxy  
-📜 **История проверок:**  
-**BY (96 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**RU №1:** ❌❌❌❌❌❌❌❌❌❌  
-**RU №2 (71 ms):** ✅✅✅✅✅✅✅✅✅✅  
-🕒 **Последняя проверка:** 09.05.2026 11:34:06 (МСК)  
-
-
----
-
-🌐 **Прокси:**
-```
-tg://proxy?server=proxy.proxymtproto.net&port=443&secret=7pfKo8aIg2byaxL5lPAuzxpzMy5hbWF6b25hd3MuY29t
-```  
-🛡 **Спонсор:** Proxy MTProto - Прокси MTProto  
-📜 **История проверок:**  
-**BY (84 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**RU №1:** ❌❌❌❌❌❌❌❌❌❌  
-**RU №2:** ❌✅❌✅✅✅✅❌❌✅  
-🕒 **Последняя проверка:** 09.05.2026 11:34:07 (МСК)  
-
-
----
-
-🌐 **Прокси:**
-```
-tg://proxy?server=mtproxy.brizproject.space&port=8444&secret=07f4765c38cb72f40c92238c6e2ce02c
-```  
-🛡 **Спонсор:** 🪐 | 𝗕𝗿𝗶𝘇𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗣𝗿𝗼𝘅𝘆  
-📜 **История проверок:**  
-**BY (71 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**RU №1 (65 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**RU №2 (180 ms):** ✅✅✅✅✅✅✅✅✅✅  
-🕒 **Последняя проверка:** 09.05.2026 11:34:10 (МСК)  
-
-
----
-
-🌐 **Прокси:**
-```
-tg://proxy?server=5.230.159.11&port=443&secret=eec6c206c4d429f36d13af11fbd3c35e786d742d70726f78792e6f7267
-```  
-🛡 **Спонсор:** Telegram Proxy  
-📜 **История проверок:**  
-**BY (65 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**RU №1:** ❌❌❌❌❌❌❌❌❌❌  
-**RU №2 (71 ms):** ✅✅✅✅✅✅✅✅✅✅  
-🕒 **Последняя проверка:** 09.05.2026 11:34:36 (МСК)  
-
-
----
-
-🌐 **Прокси:**
-```
-tg://proxy?server=raw.cloud.klukva.online&port=443&secret=ee9ed9c1fc8539146787b1546e47b7af3b636c6f75642e6b6c756b76612e6f6e6c696e65
-```  
-🛡 **Спонсор:** klukvaVPN | новости  
-📜 **История проверок:**  
-**BY (79 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**RU №1 (65 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**RU №2:** ❌❌❌❌❌❌❌❌❌❌  
-🕒 **Последняя проверка:** 09.05.2026 11:35:53 (МСК)  
-
-
----
-
-🌐 **Прокси:**
-```
-tg://proxy?server=masterklass-umelye-ruchki.voltlab.su&port=443&secret=eea5e1036a0432a85a0f1d73d05c643b9e6d61737465726b6c6173732d756d656c79652d727563686b692e766f6c746c61622e7375
-```  
-🛡 **Спонсор:** voltLab | Channel  
-📜 **История проверок:**  
-**BY (323 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**RU №1:** ❌❌❌❌❌❌❌❌❌❌  
-**RU №2:** ❌❌❌❌❌❌❌❌❌❌  
-🕒 **Последняя проверка:** 09.05.2026 11:35:57 (МСК)  
-
-
----
-
-🌐 **Прокси:**
-```
-tg://proxy?server=proxy.nuv.cx&port=443&secret=ee470cb2b8b29aeadfbdf8a2f7bee5ca3b62726f777365722e79616e6465782e636f6d
-```  
-🛡 **Спонсор:** nuvira.​cx  
-📜 **История проверок:**  
-**BY (140 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**RU №1 (393 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**RU №2 (242 ms):** ✅✅✅✅✅✅✅✅✅✅  
-🕒 **Последняя проверка:** 09.05.2026 11:36:11 (МСК)  
-
-
----
-
-🌐 **Прокси:**
-```
-tg://proxy?server=swekitty.grittytarantula.sbs&port=443&secret=eef57a906cee372b41675c67d9ca1bbe6c7377656b697474792e677269747479746172616e74756c612e736273
-```  
-🛡 **Спонсор:** ProProxies News | PROXY & VPN  
-📜 **История проверок:**  
-**BY (360 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**RU №1 (739 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**RU №2 (810 ms):** ✅✅✅✅✅✅✅✅✅✅  
-🕒 **Последняя проверка:** 09.05.2026 11:36:14 (МСК)  
-
-
----
-
-🌐 **Прокси:**
-```
-tg://proxy?server=nsk.catpaws.ru&port=443&secret=ee6288b4d5d9526c8d60cf8052e7eb0d3473742e6f6b63646e2e7275
-```  
-🛡 **Спонсор:** Senkapopka proxy  
-📜 **История проверок:**  
-**BY (367 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**RU №1 (264 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**RU №2 (154 ms):** ✅✅✅✅✅✅✅✅✅✅  
-🕒 **Последняя проверка:** 09.05.2026 11:36:19 (МСК)  
-
-
----
-
-🌐 **Прокси:**
-```
-tg://proxy?server=rawmilk.voltlab.su&port=443&secret=eecacfc4d512f6456f443148a9ad484be77261776d696c6b2e766f6c746c61622e7375
-```  
-🛡 **Спонсор:** voltLab | Channel  
-📜 **История проверок:**  
-**BY (86 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**RU №1:** ❌❌❌❌❌❌❌❌❌❌  
-**RU №2:** ❌❌❌❌❌❌❌❌❌❌  
-🕒 **Последняя проверка:** 09.05.2026 11:36:23 (МСК)  
-
-
----
-
-🌐 **Прокси:**
-```
-tg://proxy?server=prx03.gtgt.ru&port=443&secret=eeffb8ecadb37e893760b73778ed5a4ae97777772e6761727368696e6b612e7275
-```  
-🛡 **Спонсор:** Devops Story  
-📜 **История проверок:**  
-**BY (46 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**RU №1 (52 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**RU №2 (54 ms):** ✅✅✅✅✅✅✅✅✅✅  
-🕒 **Последняя проверка:** 09.05.2026 11:36:48 (МСК)  
-
-
----
-
-🌐 **Прокси:**
-```
-tg://proxy?server=tg.ntgrd.link&port=443&secret=eef8ba76819be7e3aa84728919b53fddb974672e6e746772642e6c696e6b
-```  
-🛡 **Спонсор:** NetGuard Community  
-📜 **История проверок:**  
-**BY (57 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**RU №1 (45 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**RU №2 (46 ms):** ✅✅✅✅✅✅✅✅✅✅  
-🕒 **Последняя проверка:** 09.05.2026 11:36:53 (МСК)  
-
-
----
-
-🌐 **Прокси:**
-```
-tg://proxy?server=ultrasweeden.mooo.com&port=443&secret=eefd747c034f0d26860a223469cf155090756c7472617377656564656e2e6d6f6f6f2e636f6d
-```  
-🛡 **Спонсор:** XLshina  
-📜 **История проверок:**  
-**BY (97 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**RU №1 (93 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**RU №2:** ❌❌❌❌❌❌❌❌❌❌  
-🕒 **Последняя проверка:** 09.05.2026 11:36:57 (МСК)  
-
-
----
-
-🌐 **Прокси:**
-```
-tg://proxy?server=hea08mw3apa.sn.mynetname.net&port=8243&secret=ee6311f23d3942893bef1ac4e14225504d706f7274616c2e74756e64756b2e6b67
-```  
-🛡 **Спонсор:** TANDZUNART  
-📜 **История проверок:**  
-**BY (171 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**RU №1 (148 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**RU №2 (151 ms):** ✅✅✅✅✅✅✅✅✅✅  
-🕒 **Последняя проверка:** 09.05.2026 11:37:34 (МСК)  
-
-
----
-
-🌐 **Прокси:**
-```
-tg://proxy?server=proxytg.fit&port=443&secret=eec8f164f338f20e2e3c7a0f4e0408a51270726f787974672e666974
-```  
-🛡 **Спонсор:** Telegram Proxy  
-📜 **История проверок:**  
-**BY (75 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**RU №1:** ❌❌❌❌❌❌❌❌❌❌  
-**RU №2 (60 ms):** ✅✅✅✅✅✅✅✅✅✅  
-🕒 **Последняя проверка:** 09.05.2026 11:38:04 (МСК)  
-
-
----
-
-🌐 **Прокси:**
-```
-tg://proxy?server=papin.olympos.lol&port=443&secret=dd470cb2b8b29aeadfbdf8a2f7bee5ca3b
-```  
-🛡 **Спонсор:** nuvira.​cx  
-📜 **История проверок:**  
-**BY (333 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**RU №1 (550 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**RU №2 (995 ms):** ✅✅✅✅✅✅✅✅✅✅  
-🕒 **Последняя проверка:** 09.05.2026 11:38:09 (МСК)  
-
-
----
-
-🌐 **Прокси:**
-```
-tg://proxy?server=foreignpayproxytg.top&port=443&secret=ee6d61782e7275e467763b2a1379ff21
-```  
-🛡 **Спонсор:** Блог ForeignPay — полезное про нейросети, подписки, игры и приложения  
-📜 **История проверок:**  
-**BY (95 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**RU №1 (72 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**RU №2 (88 ms):** ✅✅✅✅✅✅✅✅✅✅  
-🕒 **Последняя проверка:** 09.05.2026 11:38:11 (МСК)  
-
-
----
-
-🌐 **Прокси:**
-```
-tg://proxy?server=swekitty2.grittytarantula.sbs&port=443&secret=ee3730ca5b692dc64af181a706bcc5cabc7377656b69747479322e677269747479746172616e74756c612e736273
-```  
-🛡 **Спонсор:** ProProxies News | PROXY & VPN  
-📜 **История проверок:**  
-**BY (319 ms):** ✅✅✅✅✅✅❌✅✅✅  
-**RU №1 (390 ms):** ✅✅✅✅✅✅❌✅✅✅  
-**RU №2 (1414 ms):** ✅✅✅✅✅✅❌✅✅✅  
-🕒 **Последняя проверка:** 09.05.2026 11:38:14 (МСК)  
-
-
----
-
-🌐 **Прокси:**
-```
 tg://proxy?server=swekitty.grittytarantula.sbs&port=443&secret=eed512e455e06425061a413e02fab20f567377656b697474792e677269747479746172616e74756c612e736273
 ```  
-🛡 **Спонсор:** ProProxies News | PROXY & VPN  
+🛡 **Канал-спонсор:** ProProxies News | PROXY & VPN  
 📜 **История проверок:**  
 **BY (78 ms):** ✅✅✅✅✅✅✅✅✅✅  
 **RU №1 (56 ms):** ✅✅✅✅✅✅✅✅✅✅  
@@ -671,23 +69,9 @@ tg://proxy?server=swekitty.grittytarantula.sbs&port=443&secret=eed512e455e064250
 
 🌐 **Прокси:**
 ```
-tg://proxy?server=tg.garden-gnomes.lol&port=443&secret=ee46b0971d5de93f825bc66f23a304c9367a61796d65722e7275
-```  
-🛡 **Спонсор:** GG - Garden Gnomes  
-📜 **История проверок:**  
-**BY (71 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**RU №1 (53 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**RU №2 (51 ms):** ✅✅✅✅✅✅✅✅✅✅  
-🕒 **Последняя проверка:** 09.05.2026 11:38:16 (МСК)  
-
-
----
-
-🌐 **Прокси:**
-```
 tg://proxy?server=mtproto.de-01.scamhost.online&port=8443&secret=ee7114d686bb0131c036a290f7c369c03873706565642e636c6f7564666c6172652e636f6d
 ```  
-🛡 **Спонсор:** Hitori VPN  
+🛡 **Канал-спонсор:** Hitori VPN  
 📜 **История проверок:**  
 **BY (55 ms):** ✅✅✅✅✅✅✅✅✅✅  
 **RU №1:** ❌❌❌❌❌❌❌❌❌❌  
@@ -701,7 +85,7 @@ tg://proxy?server=mtproto.de-01.scamhost.online&port=8443&secret=ee7114d686bb013
 ```
 tg://proxy?server=50.7.230.106&port=443&secret=ee65fc7553a1f5ca8b50b71c015b387224766473696e612e7275
 ```  
-🛡 **Спонсор:** TONPLAY💰  
+🛡 **Канал-спонсор:** TONPLAY💰  
 📜 **История проверок:**  
 **BY (37 ms):** ✅✅✅✅✅✅✅✅✅✅  
 **RU №1 (47 ms):** ✅✅✅✅✅✅✅✅✅✅  
@@ -715,7 +99,7 @@ tg://proxy?server=50.7.230.106&port=443&secret=ee65fc7553a1f5ca8b50b71c015b38722
 ```
 tg://proxy?server=2.26.87.169&port=443&secret=ee185b95de945e9a2ead35ecb9ca82d4c66769746875622e636f6d
 ```  
-🛡 **Спонсор:** Luminto » Minecraft-сервер  
+🛡 **Канал-спонсор:** Luminto » Minecraft-сервер  
 📜 **История проверок:**  
 **BY (70 ms):** ✅✅✅✅✅✅✅✅✅✅  
 **RU №1:** ❌❌❌❌❌❌❌❌❌❌  
@@ -729,7 +113,7 @@ tg://proxy?server=2.26.87.169&port=443&secret=ee185b95de945e9a2ead35ecb9ca82d4c6
 ```
 tg://proxy?server=154.83.149.249&port=8443&secret=ee424bb4ccc8692dc46f5b6f80bf1ba85f766c6164766f7a6572652e6475636b646e732e6f7267
 ```  
-🛡 **Спонсор:** Kyra VPN & Proxy | Канал  
+🛡 **Канал-спонсор:** Kyra VPN & Proxy | Канал  
 📜 **История проверок:**  
 **BY (77 ms):** ✅✅✅✅✅✅✅✅✅✅  
 **RU №1 (65 ms):** ✅✅✅✅✅✅✅✅✅✅  
@@ -743,7 +127,7 @@ tg://proxy?server=154.83.149.249&port=8443&secret=ee424bb4ccc8692dc46f5b6f80bf1b
 ```
 tg://proxy?server=papin.olympos.lol&port=443&secret=ee470cb2b8b29aeadfbdf8a2f7bee5ca3b62726f777365722e79616e6465782e636f6d
 ```  
-🛡 **Спонсор:** nuvira.​cx  
+🛡 **Канал-спонсор:** nuvira.​cx  
 📜 **История проверок:**  
 **BY (1698 ms):** ✅✅✅✅✅✅✅✅✅✅  
 **RU №1 (125 ms):** ✅✅✅✅✅✅✅✅✅✅  
@@ -757,7 +141,7 @@ tg://proxy?server=papin.olympos.lol&port=443&secret=ee470cb2b8b29aeadfbdf8a2f7be
 ```
 tg://proxy?server=myrka.bronstein.ar&port=8443&secret=eea37385d8a4bbf632eabc9091fdc95a9c6d79726b612e62726f6e737465696e2e6172
 ```  
-🛡 **Спонсор:** Kyra VPN & Proxy | Канал  
+🛡 **Канал-спонсор:** Kyra VPN & Proxy | Канал  
 📜 **История проверок:**  
 **BY (63 ms):** ✅✅✅✅✅✅✅✅✅✅  
 **RU №1 (46 ms):** ✅✅✅✅✅✅✅✅✅✅  
@@ -771,7 +155,7 @@ tg://proxy?server=myrka.bronstein.ar&port=8443&secret=eea37385d8a4bbf632eabc9091
 ```
 tg://proxy?server=mtproto.ru-01.scamhost.online&port=443&secret=eee299ec6bd7e1b952c0e72564fdcca03f766b2e7275
 ```  
-🛡 **Спонсор:** Hitori VPN  
+🛡 **Канал-спонсор:** Hitori VPN  
 📜 **История проверок:**  
 **BY (94 ms):** ✅✅✅✅✅✅✅✅✅✅  
 **RU №1 (73 ms):** ✅✅✅✅✅✅✅✅✅✅  
@@ -785,7 +169,7 @@ tg://proxy?server=mtproto.ru-01.scamhost.online&port=443&secret=eee299ec6bd7e1b9
 ```
 tg://proxy?server=tg.vpmks.com&port=443&secret=2726df52a147333d3db19d8b56fb8cce
 ```  
-🛡 **Спонсор:** 🚀 VPMKS – Канал  
+🛡 **Канал-спонсор:** 🚀 VPMKS – Канал  
 📜 **История проверок:**  
 **BY (74 ms):** ✅✅✅✅✅✅✅✅✅✅  
 **RU №1 (45 ms):** ✅✅✅✅✅✅✅✅✅✅  
@@ -799,7 +183,7 @@ tg://proxy?server=tg.vpmks.com&port=443&secret=2726df52a147333d3db19d8b56fb8cce
 ```
 tg://proxy?server=pro.sosproxy.space&port=443&secret=ee9d4772354ab76b3d16bc0423b6f44a2b70726f2e736f7370726f78792e7370616365
 ```  
-🛡 **Спонсор:** Telegram Proxy  
+🛡 **Канал-спонсор:** Telegram Proxy  
 📜 **История проверок:**  
 **BY (62 ms):** ✅✅✅✅✅✅✅✅✅✅  
 **RU №1 (47 ms):** ✅✅✅✅✅✅✅✅✅✅  
@@ -813,7 +197,7 @@ tg://proxy?server=pro.sosproxy.space&port=443&secret=ee9d4772354ab76b3d16bc0423b
 ```
 tg://proxy?server=proxytop.space&port=443&secret=7d793037a0760186574b0282f2f435e7
 ```  
-🛡 **Спонсор:** Telegram Proxy  
+🛡 **Канал-спонсор:** Telegram Proxy  
 📜 **История проверок:**  
 **BY (85 ms):** ✅❌✅✅❌❌❌✅✅✅  
 **RU №1:** ❌❌❌❌❌❌❌❌❌❌  
@@ -827,7 +211,7 @@ tg://proxy?server=proxytop.space&port=443&secret=7d793037a0760186574b0282f2f435e
 ```
 tg://proxy?server=89.127.201.206&port=443&secret=ee02ad2cb059cc54486e3499efc3170e2c7777772e617669746f2e7275
 ```  
-🛡 **Спонсор:** TG Proxy  
+🛡 **Канал-спонсор:** TG Proxy  
 📜 **История проверок:**  
 **BY (79 ms):** ✅✅✅✅✅✅✅✅✅✅  
 **RU №1:** ❌❌❌❌❌❌❌❌❌❌  
@@ -841,7 +225,7 @@ tg://proxy?server=89.127.201.206&port=443&secret=ee02ad2cb059cc54486e3499efc3170
 ```
 tg://proxy?server=two.turboproxy.pro&port=8443&secret=eec8150abdb60a541343858be088e857f66669727374627974652e7275
 ```  
-🛡 **Спонсор:** TurboraceVPN // Канал  
+🛡 **Канал-спонсор:** TurboraceVPN // Канал  
 📜 **История проверок:**  
 **BY (117 ms):** ✅✅✅✅✅✅✅✅✅✅  
 **RU №1 (100 ms):** ✅✅✅✅✅✅✅✅✅✅  
@@ -855,7 +239,7 @@ tg://proxy?server=two.turboproxy.pro&port=8443&secret=eec8150abdb60a541343858be0
 ```
 tg://proxy?server=tg.garden-gnomes.lol&port=443&secret=ee46b0971d5de93f825bc66f23a304c93665786973742e7275
 ```  
-🛡 **Спонсор:** GG - Garden Gnomes  
+🛡 **Канал-спонсор:** GG - Garden Gnomes  
 📜 **История проверок:**  
 **BY (77 ms):** ✅✅✅✅✅✅✅✅✅✅  
 **RU №1 (53 ms):** ✅✅✅✅✅✅✅✅✅✅  
@@ -869,7 +253,7 @@ tg://proxy?server=tg.garden-gnomes.lol&port=443&secret=ee46b0971d5de93f825bc66f2
 ```
 tg://proxy?server=dedicated.love-internet.xyz&port=4515&secret=7umk8jsddowEqNfzkSDKW25iaXNjb3R0aS55ZWt0YW5ldC5jb20
 ```  
-🛡 **Спонсор:** ProxyMTProto - Прокси MTProto  
+🛡 **Канал-спонсор:** ProxyMTProto - Прокси MTProto  
 📜 **История проверок:**  
 **BY (210 ms):** ✅✅✅✅✅✅✅✅✅✅  
 **RU №1 (74 ms):** ✅✅✅✅✅✅✅✅✅✅  
@@ -883,7 +267,7 @@ tg://proxy?server=dedicated.love-internet.xyz&port=4515&secret=7umk8jsddowEqNfzk
 ```
 tg://proxy?server=45.12.144.112&port=443&secret=ee799a12727392b34d06f21e5879e873e574656c6567726161662e6e6c
 ```  
-🛡 **Спонсор:** Бесплатные прокси / Free Proxy  
+🛡 **Канал-спонсор:** Бесплатные прокси / Free Proxy  
 📜 **История проверок:**  
 **BY (66 ms):** ✅✅✅✅✅✅✅✅✅✅  
 **RU №1 (54 ms):** ✅✅✅✅✅✅✅✅✅✅  
@@ -897,7 +281,7 @@ tg://proxy?server=45.12.144.112&port=443&secret=ee799a12727392b34d06f21e5879e873
 ```
 tg://proxy?server=dedicated.love-internet.xyz&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d
 ```  
-🛡 **Спонсор:** ProxyMTProto - Прокси MTProto  
+🛡 **Канал-спонсор:** ProxyMTProto - Прокси MTProto  
 📜 **История проверок:**  
 **BY (80 ms):** ✅✅✅✅✅✅✅✅✅✅  
 **RU №1 (84 ms):** ✅✅✅✅✅✅✅✅✅✅  
@@ -911,7 +295,7 @@ tg://proxy?server=dedicated.love-internet.xyz&port=4515&secret=eee9a4f23b1d768c0
 ```
 tg://proxy?server=proxy.aprux.ru&port=443&secret=ee2f23604857121c44e119a4b9a1af939d7777772e636c6f7564666c6172652e636f6d
 ```  
-🛡 **Спонсор:** coprux  
+🛡 **Канал-спонсор:** coprux  
 📜 **История проверок:**  
 **BY (185 ms):** ✅✅✅✅✅✅✅✅✅✅  
 **RU №1 (102 ms):** ✅✅✅✅✅✅✅✅✅✅  
@@ -925,7 +309,7 @@ tg://proxy?server=proxy.aprux.ru&port=443&secret=ee2f23604857121c44e119a4b9a1af9
 ```
 tg://proxy?server=anarchy.click&port=443&secret=ee7118c792a6da15636cc9753bf90cfc2d62726f777365722e79616e6465782e636f6d
 ```  
-🛡 **Спонсор:** Telegram MTProxy  
+🛡 **Канал-спонсор:** Telegram MTProxy  
 📜 **История проверок:**  
 **BY (84 ms):** ✅✅✅✅✅✅✅✅✅✅  
 **RU №1:** ❌❌❌❌❌❌❌❌❌❌  
@@ -939,7 +323,7 @@ tg://proxy?server=anarchy.click&port=443&secret=ee7118c792a6da15636cc9753bf90cfc
 ```
 tg://proxy?server=prx.today&port=443&secret=b3f0c7f6af7dc2dc2e9c80d0d80e8162
 ```  
-🛡 **Спонсор:** Telegram Proxy  
+🛡 **Канал-спонсор:** Telegram Proxy  
 📜 **История проверок:**  
 **BY (60 ms):** ✅✅✅✅❌✅❌✅❌✅  
 **RU №1:** ❌❌❌❌❌❌❌❌❌❌  
@@ -953,7 +337,7 @@ tg://proxy?server=prx.today&port=443&secret=b3f0c7f6af7dc2dc2e9c80d0d80e8162
 ```
 tg://proxy?server=main.mtproxy.pw&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa27786170692e6f7a6f6e2e727527
 ```  
-🛡 **Спонсор:** Telegram MTProxy  
+🛡 **Канал-спонсор:** Telegram MTProxy  
 📜 **История проверок:**  
 **BY (99 ms):** ✅❌✅✅✅✅✅✅✅✅  
 **RU №1 (94 ms):** ✅❌✅✅✅✅✅✅✅✅  
@@ -967,7 +351,7 @@ tg://proxy?server=main.mtproxy.pw&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370b
 ```
 tg://proxy?server=tg.hellohiro.ru&port=443&secret=ee973e178b06e6b204a3f6d8044dda69c774672e68656c6c6f6869726f2e7275
 ```  
-🛡 **Спонсор:** HiroVPN | Телеграм Прокси  
+🛡 **Канал-спонсор:** HiroVPN | Телеграм Прокси  
 📜 **История проверок:**  
 **BY (96 ms):** ✅✅✅✅✅✅✅✅✅✅  
 **RU №1 (139 ms):** ✅✅✅✅✅✅✅✅✅✅  
@@ -981,7 +365,7 @@ tg://proxy?server=tg.hellohiro.ru&port=443&secret=ee973e178b06e6b204a3f6d8044dda
 ```
 tg://proxy?server=2.27.4.118&port=1802&secret=ee2416765d1c8e06a5e1e243ed46bd16d67777772e6d6963726f736f66742e636f6d
 ```  
-🛡 **Спонсор:** 遠霧  
+🛡 **Канал-спонсор:** 遠霧  
 📜 **История проверок:**  
 **BY (65 ms):** ✅✅✅✅✅✅✅✅✅✅  
 **RU №1:** ❌❌❌❌❌❌❌❌❌❌  
@@ -995,7 +379,7 @@ tg://proxy?server=2.27.4.118&port=1802&secret=ee2416765d1c8e06a5e1e243ed46bd16d6
 ```
 tg://proxy?server=rodion.voltlab.su&port=333&secret=ee4fb4f50671cf171c891dfc1475609a0c726f64696f6e2e766f6c746c61622e7375
 ```  
-🛡 **Спонсор:** voltLab | Channel  
+🛡 **Канал-спонсор:** voltLab | Channel  
 📜 **История проверок:**  
 **BY (66 ms):** ✅✅✅✅❌✅❌✅✅✅  
 **RU №1:** ❌❌❌❌❌❌❌❌❌❌  
@@ -1009,7 +393,7 @@ tg://proxy?server=rodion.voltlab.su&port=333&secret=ee4fb4f50671cf171c891dfc1475
 ```
 tg://proxy?server=enjoy.voltlab.su&port=443&secret=7r-dnAqqeMhVLUxJhNn9md9lbmpveS52b2x0bGFiLnN1
 ```  
-🛡 **Спонсор:** voltLab | Channel  
+🛡 **Канал-спонсор:** voltLab | Channel  
 📜 **История проверок:**  
 **BY (62 ms):** ✅✅✅✅✅✅✅✅✅✅  
 **RU №1 (45 ms):** ✅✅✅✅✅✅✅✅✅✅  
@@ -1023,7 +407,7 @@ tg://proxy?server=enjoy.voltlab.su&port=443&secret=7r-dnAqqeMhVLUxJhNn9md9lbmpve
 ```
 tg://proxy?server=s7.dimasssss.space&port=443&secret=eebe3007e927acd147dde12bee8b1a7c9364726976652e676f6f676c652e636f6d
 ```  
-🛡 **Спонсор:** Прокси  
+🛡 **Канал-спонсор:** Прокси  
 📜 **История проверок:**  
 **BY (71 ms):** ✅✅✅✅✅✅✅✅✅✅  
 **RU №1 (67 ms):** ✅✅✅✅✅✅✅✅✅✅  
@@ -1037,7 +421,7 @@ tg://proxy?server=s7.dimasssss.space&port=443&secret=eebe3007e927acd147dde12bee8
 ```
 tg://proxy?server=proxy.proxymtproto.net&port=8443&secret=dd3b5da0832e116a3b1b6fbc9ebe5755c0
 ```  
-🛡 **Спонсор:** Proxy MTProto VIP  
+🛡 **Канал-спонсор:** Proxy MTProto VIP  
 📜 **История проверок:**  
 **BY (114 ms):** ✅✅✅✅✅✅✅✅✅✅  
 **RU №1 (95 ms):** ✅✅✅✅✅✅✅✅✅✅  
@@ -1051,7 +435,7 @@ tg://proxy?server=proxy.proxymtproto.net&port=8443&secret=dd3b5da0832e116a3b1b6f
 ```
 tg://proxy?server=tg-proxy-2.potokvpn.com&port=993&secret=080073892babef5b062caf40c39e8251
 ```  
-🛡 **Спонсор:** Potok VPN  
+🛡 **Канал-спонсор:** Potok VPN  
 📜 **История проверок:**  
 **BY (194 ms):** ✅✅✅✅✅✅✅✅✅✅  
 **RU №1 (348 ms):** ✅✅✅✅✅✅✅✅✅✅  
@@ -1065,7 +449,7 @@ tg://proxy?server=tg-proxy-2.potokvpn.com&port=993&secret=080073892babef5b062caf
 ```
 tg://proxy?server=get.beatvault.ru&port=443&secret=eef7500d69d0479eb1c90454490aa7096d64726976652e676f6f676c652e636f6d
 ```  
-🛡 **Спонсор:** Прокси  
+🛡 **Канал-спонсор:** Прокси  
 📜 **История проверок:**  
 **BY (72 ms):** ✅✅✅✅✅✅✅✅✅✅  
 **RU №1:** ❌❌❌❌❌❌❌❌❌❌  
@@ -1079,7 +463,7 @@ tg://proxy?server=get.beatvault.ru&port=443&secret=eef7500d69d0479eb1c90454490aa
 ```
 tg://proxy?server=free-niderl.kimt.space&port=443&secret=ee7d025179c3b272e9631a5e2eb313b6b36164732e78352e7275
 ```  
-🛡 **Спонсор:** 🫰 VPN У Kima ⚡️  
+🛡 **Канал-спонсор:** 🫰 VPN У Kima ⚡️  
 📜 **История проверок:**  
 **BY (150 ms):** ✅✅✅✅✅✅✅✅✅✅  
 **RU №1 (62 ms):** ✅✅✅✅✅✅✅✅✅✅  
@@ -1093,7 +477,7 @@ tg://proxy?server=free-niderl.kimt.space&port=443&secret=ee7d025179c3b272e9631a5
 ```
 tg://proxy?server=barsik.myrka.digital&port=444&secret=ee1111f7e81a11fa78811ffecfb68bfc7462617273696b2e6d79726b612e6469676974616c
 ```  
-🛡 **Спонсор:** Kyra VPN & Proxy | Канал  
+🛡 **Канал-спонсор:** Kyra VPN & Proxy | Канал  
 📜 **История проверок:**  
 **BY (65 ms):** ✅✅✅✅✅✅✅✅✅✅  
 **RU №1 (51 ms):** ✅✅✅✅✅✅✅✅✅✅  
@@ -1107,7 +491,7 @@ tg://proxy?server=barsik.myrka.digital&port=444&secret=ee1111f7e81a11fa78811ffec
 ```
 tg://proxy?server=45.63.95.95&port=443&secret=43c19798f04925119f8d08d3c85969cc
 ```  
-🛡 **Спонсор:** TG Proxy  
+🛡 **Канал-спонсор:** TG Proxy  
 📜 **История проверок:**  
 **BY (338 ms):** ✅✅✅✅✅✅✅✅✅✅  
 **RU №1 (331 ms):** ✅✅✅✅✅✅✅✅✅✅  
@@ -1121,7 +505,7 @@ tg://proxy?server=45.63.95.95&port=443&secret=43c19798f04925119f8d08d3c85969cc
 ```
 tg://proxy?server=tg-proxy-2.potokvpn.com&port=993&secret=dd080073892babef5b062caf40c39e8251
 ```  
-🛡 **Спонсор:** Potok VPN  
+🛡 **Канал-спонсор:** Potok VPN  
 📜 **История проверок:**  
 **BY (166 ms):** ✅✅✅✅✅✅✅✅✅✅  
 **RU №1 (144 ms):** ✅✅✅✅✅✅✅✅✅✅  
@@ -1135,7 +519,7 @@ tg://proxy?server=tg-proxy-2.potokvpn.com&port=993&secret=dd080073892babef5b062c
 ```
 tg://proxy?server=max.ru.rightarion.ru&port=443&secret=eec1e84a7f2d9b3056eaf17c4d8b62f9036d61782e7275
 ```  
-🛡 **Спонсор:** Люма ВПН | Прокси  
+🛡 **Канал-спонсор:** Люма ВПН | Прокси  
 📜 **История проверок:**  
 **BY (72 ms):** ✅✅✅✅✅✅✅✅✅✅  
 **RU №1 (78 ms):** ✅✅✅✅✅✅✅✅✅✅  
@@ -1149,7 +533,7 @@ tg://proxy?server=max.ru.rightarion.ru&port=443&secret=eec1e84a7f2d9b3056eaf17c4
 ```
 tg://proxy?server=rdp10592.vertiex.ru&port=443&secret=eea15ea99ec3456e7f4425dd392426ac6479612e7275
 ```  
-🛡 **Спонсор:** VPN #1 | Новости  
+🛡 **Канал-спонсор:** VPN #1 | Новости  
 📜 **История проверок:**  
 **BY (117 ms):** ✅✅❌✅✅✅✅✅✅✅  
 **RU №1 (166 ms):** ✅✅❌✅✅✅✅✅✅✅  
@@ -1163,7 +547,7 @@ tg://proxy?server=rdp10592.vertiex.ru&port=443&secret=eea15ea99ec3456e7f4425dd39
 ```
 tg://proxy?server=5.231.223.74&port=443&secret=ee00bbae96d95969bc492b955131d1b38764652e7961686f6f2e636f6d
 ```  
-🛡 **Спонсор:** 💎 Нет  
+🛡 **Канал-спонсор:** 💎 Нет  
 📜 **История проверок:**  
 **BY (68 ms):** ✅✅✅✅✅✅✅✅✅✅  
 **RU №1:** ❌❌❌❌❌❌❌❌❌❌  
@@ -1177,7 +561,7 @@ tg://proxy?server=5.231.223.74&port=443&secret=ee00bbae96d95969bc492b955131d1b38
 ```
 tg://proxy?server=free.bifrost.now&port=443&secret=ee5b80c2eddbf3c75219fc56b524f1f8fc667265652e626966726f73742e6e6f77
 ```  
-🛡 **Спонсор:** Bifrost  
+🛡 **Канал-спонсор:** Bifrost  
 📜 **История проверок:**  
 **BY (113 ms):** ✅✅✅✅✅✅✅✅✅✅  
 **RU №1 (95 ms):** ✅✅✅✅✅✅✅✅✅✅  
@@ -1191,7 +575,7 @@ tg://proxy?server=free.bifrost.now&port=443&secret=ee5b80c2eddbf3c75219fc56b524f
 ```
 tg://proxy?server=quackton.life&port=443&secret=ee65fc7553a1f5ca8b50b71c015b38722479616e6465782e7275
 ```  
-🛡 **Спонсор:** TONPLAY💰  
+🛡 **Канал-спонсор:** TONPLAY💰  
 📜 **История проверок:**  
 **BY (37 ms):** ✅✅✅✅✅✅✅✅✅✅  
 **RU №1 (44 ms):** ✅✅✅✅✅✅✅✅✅✅  
@@ -1205,7 +589,7 @@ tg://proxy?server=quackton.life&port=443&secret=ee65fc7553a1f5ca8b50b71c015b3872
 ```
 tg://proxy?server=max.ru.rightarion.ru&port=443&secret=dddcaae509a2455bbfc6165f1708fd5c58
 ```  
-🛡 **Спонсор:** Люма ВПН | Прокси  
+🛡 **Канал-спонсор:** Люма ВПН | Прокси  
 📜 **История проверок:**  
 **BY (81 ms):** ✅✅✅✅✅✅✅✅✅✅  
 **RU №1 (154 ms):** ✅✅✅✅✅✅✅✅✅✅  
@@ -1219,7 +603,7 @@ tg://proxy?server=max.ru.rightarion.ru&port=443&secret=dddcaae509a2455bbfc6165f1
 ```
 tg://proxy?server=travofut.site&port=443&secret=ee48b1cdbd937bdbea12479c95325f6b157275747562652e7275
 ```  
-🛡 **Спонсор:** ТравоБет  
+🛡 **Канал-спонсор:** ТравоБет  
 📜 **История проверок:**  
 **BY (114 ms):** ✅✅✅✅✅✅✅✅✅✅  
 **RU №1 (73 ms):** ✅✅✅✅✅✅✅✅✅✅  
@@ -1233,7 +617,7 @@ tg://proxy?server=travofut.site&port=443&secret=ee48b1cdbd937bdbea12479c95325f6b
 ```
 tg://proxy?server=tg.hellohiro.ru&port=8443&secret=dd973e178b06e6b204a3f6d8044dda69c7
 ```  
-🛡 **Спонсор:** HiroVPN | Телеграм Прокси  
+🛡 **Канал-спонсор:** HiroVPN | Телеграм Прокси  
 📜 **История проверок:**  
 **BY (90 ms):** ✅✅✅✅✅✅✅✅✅✅  
 **RU №1 (133 ms):** ✅✅✅✅✅✅✅✅✅✅  
@@ -1247,7 +631,7 @@ tg://proxy?server=tg.hellohiro.ru&port=8443&secret=dd973e178b06e6b204a3f6d8044dd
 ```
 tg://proxy?server=free-finland.kimt.space&port=443&secret=ee33a6dcb429c2952d80e01bcbae16912f6164732e78352e7275
 ```  
-🛡 **Спонсор:** 🫰 VPN У Kima ⚡️  
+🛡 **Канал-спонсор:** 🫰 VPN У Kima ⚡️  
 📜 **История проверок:**  
 **BY (67 ms):** ✅✅✅✅✅✅✅✅✅✅  
 **RU №1 (51 ms):** ✅✅✅✅✅✅✅✅✅✅  
@@ -1261,7 +645,7 @@ tg://proxy?server=free-finland.kimt.space&port=443&secret=ee33a6dcb429c2952d80e0
 ```
 tg://proxy?server=masterklass-umelye-ruchki.voltlab.su.&port=443&secret=eea5e1036a0432a85a0f1d73d05c643b9e6d61737465726b6c6173732d756d656c79652d727563686b692e766f6c746c61622e7375
 ```  
-🛡 **Спонсор:** voltLab | Channel  
+🛡 **Канал-спонсор:** voltLab | Channel  
 📜 **История проверок:**  
 **BY (228 ms):** ✅✅✅✅✅✅✅✅✅✅  
 **RU №1:** ❌❌❌❌❌❌❌❌❌❌  
@@ -1275,7 +659,7 @@ tg://proxy?server=masterklass-umelye-ruchki.voltlab.su.&port=443&secret=eea5e103
 ```
 tg://proxy?server=xn--80agb2axz5d.xn--80ajveggb2e.xn--p1ai&port=443&secret=ee69e899d89ec68e220ca177557322b27f7275737369616e2d616e696d616c732e7275
 ```  
-🛡 **Спонсор:** 🥷 redflag VPN  
+🛡 **Канал-спонсор:** 🥷 redflag VPN  
 📜 **История проверок:**  
 **BY (153 ms):** ✅✅✅✅✅✅✅✅✅✅  
 **RU №1 (302 ms):** ✅✅✅❌✅✅✅✅✅✅  
@@ -1289,7 +673,7 @@ tg://proxy?server=xn--80agb2axz5d.xn--80ajveggb2e.xn--p1ai&port=443&secret=ee69e
 ```
 tg://proxy?server=peyk.acharbashi.info&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d
 ```  
-🛡 **Спонсор:** ProxyMTProto - Прокси MTProto  
+🛡 **Канал-спонсор:** ProxyMTProto - Прокси MTProto  
 📜 **История проверок:**  
 **BY (77 ms):** ✅✅✅✅✅✅✅✅✅✅  
 **RU №1 (64 ms):** ✅✅✅✅✅✅✅✅✅✅  
@@ -1303,7 +687,7 @@ tg://proxy?server=peyk.acharbashi.info&port=4515&secret=eee9a4f23b1d768c04a8d7f3
 ```
 tg://proxy?server=suge.2pac.live&port=7777&secret=ee97c88e23d6902be6f5d2a85c2013539b7777772e7068696c6970732e636f6d
 ```  
-🛡 **Спонсор:** KLAR // Канал  
+🛡 **Канал-спонсор:** KLAR // Канал  
 📜 **История проверок:**  
 **BY (84 ms):** ✅✅✅✅❌✅❌✅✅❌  
 **RU №1:** ❌❌❌❌❌❌❌❌❌❌  
@@ -1317,7 +701,7 @@ tg://proxy?server=suge.2pac.live&port=7777&secret=ee97c88e23d6902be6f5d2a85c2013
 ```
 tg://proxy?server=max.ru.rightarion.ru&port=443&secret=eedcaae509a2455bbfc6165f1708fd5c586d61782e7275
 ```  
-🛡 **Спонсор:** Люма ВПН | Прокси  
+🛡 **Канал-спонсор:** Люма ВПН | Прокси  
 📜 **История проверок:**  
 **BY (83 ms):** ✅✅✅✅✅✅✅✅✅✅  
 **RU №1 (68 ms):** ✅✅✅✅✅✅✅✅✅✅  
@@ -1331,7 +715,7 @@ tg://proxy?server=max.ru.rightarion.ru&port=443&secret=eedcaae509a2455bbfc6165f1
 ```
 tg://proxy?server=musbest.space&port=443&secret=eecaca160442c8a4af24c6d96b04337d656d6f647363656e7465722e6f7267
 ```  
-🛡 **Спонсор:** MusicmaniA  
+🛡 **Канал-спонсор:** MusicmaniA  
 📜 **История проверок:**  
 **BY (85 ms):** ✅✅✅✅✅✅✅✅✅✅  
 **RU №1 (54 ms):** ✅✅✅✅✅✅✅✅✅✅  
@@ -1345,7 +729,7 @@ tg://proxy?server=musbest.space&port=443&secret=eecaca160442c8a4af24c6d96b04337d
 ```
 tg://proxy?server=one.turboproxy.pro&port=443&secret=ee74e2e117f2160c55370f68df7381d5d361657a612e7275
 ```  
-🛡 **Спонсор:** TurboraceVPN // Канал  
+🛡 **Канал-спонсор:** TurboraceVPN // Канал  
 📜 **История проверок:**  
 **BY (86 ms):** ✅✅✅✅✅✅✅✅✅✅  
 **RU №1 (76 ms):** ✅✅✅✅✅✅✅✅✅✅  
@@ -1359,7 +743,7 @@ tg://proxy?server=one.turboproxy.pro&port=443&secret=ee74e2e117f2160c55370f68df7
 ```
 tg://proxy?server=proproxiesnl.grittytarantula.sbs&port=443&secret=ee194f2f2828b75a915baed3715e51e94070726f70726f786965736e6c2e677269747479746172616e74756c612e736273
 ```  
-🛡 **Спонсор:** ProProxies News | PROXY & VPN  
+🛡 **Канал-спонсор:** ProProxies News | PROXY & VPN  
 📜 **История проверок:**  
 **BY (81 ms):** ✅✅✅✅✅✅✅✅✅✅  
 **RU №1 (69 ms):** ✅✅✅✅✅✅✅✅✅✅  
@@ -1373,7 +757,7 @@ tg://proxy?server=proproxiesnl.grittytarantula.sbs&port=443&secret=ee194f2f2828b
 ```
 tg://proxy?server=jkkeb.demo.personal-mtp.online&port=443&secret=eed0d6e111bada5511fcce9584deadbeef6a6b6b65622e64656d6f2e706572736f6e616c2d6d74702e6f6e6c696e65
 ```  
-🛡 **Спонсор:** Проект «Хочу жить»  
+🛡 **Канал-спонсор:** Проект «Хочу жить»  
 📜 **История проверок:**  
 **BY (4347 ms):** ✅✅✅✅✅✅✅✅❌✅  
 **RU №1 (5735 ms):** ✅✅✅✅✅✅✅✅❌✅  
@@ -1387,7 +771,7 @@ tg://proxy?server=jkkeb.demo.personal-mtp.online&port=443&secret=eed0d6e111bada5
 ```
 tg://proxy?server=cdn-cache-node.freeddns.org&port=9000&secret=ee43d36bc02a1da1b3155ed71e86b2849763646e2d63616368652d6e6f64652e6672656564646e732e6f7267
 ```  
-🛡 **Спонсор:** Space Memes  
+🛡 **Канал-спонсор:** Space Memes  
 📜 **История проверок:**  
 **BY (77 ms):** ✅✅✅✅✅✅✅✅✅✅  
 **RU №1 (58 ms):** ✅✅✅✅✅✅✅✅✅✅  
@@ -1401,7 +785,7 @@ tg://proxy?server=cdn-cache-node.freeddns.org&port=9000&secret=ee43d36bc02a1da1b
 ```
 tg://proxy?server=free-nl.kimt.space&port=443&secret=ee3efced182e68e689a17d58c71ff6fafe667265652d6e6c2e6b696d742e7370616365
 ```  
-🛡 **Спонсор:** 🫰 VPN У Kima ⚡️  
+🛡 **Канал-спонсор:** 🫰 VPN У Kima ⚡️  
 📜 **История проверок:**  
 **BY (70 ms):** ✅✅✅✅✅✅✅✅✅✅  
 **RU №1 (56 ms):** ✅✅✅✅✅❌✅✅✅✅  
@@ -1415,7 +799,7 @@ tg://proxy?server=free-nl.kimt.space&port=443&secret=ee3efced182e68e689a17d58c71
 ```
 tg://proxy?server=santehnik-na-vse-ryki.mooo.com&port=443&secret=eeb9c3e11bde361ca1e3a6ba9769cf3b7173616e7465686e696b2d6e612d7673652d72796b692e6d6f6f6f2e636f6d
 ```  
-🛡 **Спонсор:** r/держи кота  
+🛡 **Канал-спонсор:** r/держи кота  
 📜 **История проверок:**  
 **BY (84 ms):** ✅✅✅✅✅✅✅✅✅✅  
 **RU №1 (58 ms):** ✅✅✅✅✅✅✅✅✅✅  
@@ -1429,7 +813,7 @@ tg://proxy?server=santehnik-na-vse-ryki.mooo.com&port=443&secret=eeb9c3e11bde361
 ```
 tg://proxy?server=go.bifrost.now&port=443&secret=ee5b80c2eddbf3c75219fc56b524f1f8fc676f2e626966726f73742e6e6f77
 ```  
-🛡 **Спонсор:** Bifrost  
+🛡 **Канал-спонсор:** Bifrost  
 📜 **История проверок:**  
 **BY (81 ms):** ✅✅✅✅✅✅✅✅✅✅  
 **RU №1 (62 ms):** ✅✅✅✅✅✅✅✅✅✅  
@@ -1443,7 +827,7 @@ tg://proxy?server=go.bifrost.now&port=443&secret=ee5b80c2eddbf3c75219fc56b524f1f
 ```
 tg://proxy?server=alo.acharbashi.info&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d
 ```  
-🛡 **Спонсор:** ProxyMTProto - Прокси MTProto  
+🛡 **Канал-спонсор:** ProxyMTProto - Прокси MTProto  
 📜 **История проверок:**  
 **BY (153 ms):** ✅✅✅✅✅✅✅✅✅✅  
 **RU №1 (83 ms):** ✅✅✅✅✅✅✅✅✅✅  
@@ -1457,7 +841,7 @@ tg://proxy?server=alo.acharbashi.info&port=4515&secret=eee9a4f23b1d768c04a8d7f39
 ```
 tg://proxy?server=rdp10592.vertiex.ru&port=443&secret=7qFeqZ7DRW5_RCXdOSQmrGR5YS5ydQ
 ```  
-🛡 **Спонсор:** VPN #1 | Новости  
+🛡 **Канал-спонсор:** VPN #1 | Новости  
 📜 **История проверок:**  
 **BY (107 ms):** ✅✅✅✅✅✅❌✅✅✅  
 **RU №1 (393 ms):** ✅✅✅✅✅✅❌✅✅✅  
@@ -1471,7 +855,7 @@ tg://proxy?server=rdp10592.vertiex.ru&port=443&secret=7qFeqZ7DRW5_RCXdOSQmrGR5YS
 ```
 tg://proxy?server=free.beatvault.ru&port=443&secret=eef7500d69d0479eb1c90454490aa7096d64726976652e676f6f676c652e636f6d
 ```  
-🛡 **Спонсор:** Прокси  
+🛡 **Канал-спонсор:** Прокси  
 📜 **История проверок:**  
 **BY (69 ms):** ✅✅✅✅✅✅✅✅✅✅  
 **RU №1:** ❌❌❌❌❌❌❌❌❌❌  
@@ -1485,9 +869,625 @@ tg://proxy?server=free.beatvault.ru&port=443&secret=eef7500d69d0479eb1c90454490a
 ```
 tg://proxy?server=sub3relay.duckdns.org&port=8443&secret=ee17fdfa167f6babdb3f893586ac3784977375623372656c61792e6475636b646e732e6f7267
 ```  
-🛡 **Спонсор:** Luminto » Minecraft-сервер  
+🛡 **Канал-спонсор:** Luminto » Minecraft-сервер  
 📜 **История проверок:**  
 **BY (52 ms):** ✅✅✅✅✅✅✅✅✅✅  
 **RU №1:** ❌❌❌❌❌❌❌❌❌❌  
 **RU №2 (48 ms):** ✅✅✅✅✅✅✅✅✅✅  
 🕒 **Последняя проверка:** 09.05.2026 11:45:20 (МСК)  
+
+
+---
+
+🌐 **Прокси:**
+```
+tg://proxy?server=85.17.89.193&port=443&secret=ee76f6583e6b509d946c56287a9ca59dc362726f7773696e672e79616e6465782e636f6d
+```  
+🛡 **Канал-спонсор:** Xeovo VPN  
+📜 **История проверок:**  
+**BY (65 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1:** ❌❌❌❌❌❌❌❌❌❌  
+**RU №2 (251 ms):** ✅✅✅✅✅✅✅✅✅✅  
+🕒 **Последняя проверка:** 09.05.2026 11:45:27 (МСК)  
+
+
+---
+
+🌐 **Прокси:**
+```
+tg://proxy?server=xfs1.gbird.top&port=6443&secret=ddecad3d673e42dc10cae6fa9bcebcd5f6
+```  
+🛡 **Канал-спонсор:** Grimbird News  
+📜 **История проверок:**  
+**BY (68 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (114 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2 (44 ms):** ✅✅✅✅✅✅✅✅✅✅  
+🕒 **Последняя проверка:** 09.05.2026 11:45:35 (МСК)  
+
+
+---
+
+🌐 **Прокси:**
+```
+tg://proxy?server=shrink.pulsar.rest&port=443&secret=eed32bfada03b362891b9d067d465baee3736872696e6b2e70756c7361722e72657374
+```  
+🛡 **Канал-спонсор:** Пульсар️️⚡️Прокси  
+📜 **История проверок:**  
+**BY (40 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (46 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2 (49 ms):** ✅✅✅✅✅✅✅✅✅✅  
+🕒 **Последняя проверка:** 09.05.2026 11:45:44 (МСК)  
+
+
+---
+
+🌐 **Прокси:**
+```
+tg://proxy?server=telegramfree2.idind.ru&port=443&secret=ee69310a070af876540d46a637c9e8464a736e692e6964696e642e7275
+```  
+🛡 **Канал-спонсор:** r/Ultrakill  
+📜 **История проверок:**  
+**BY (95 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1:** ❌❌❌❌❌❌❌❌❌❌  
+**RU №2:** ❌❌❌❌❌❌❌❌❌❌  
+🕒 **Последняя проверка:** 09.05.2026 11:45:51 (МСК)  
+
+
+---
+
+🌐 **Прокси:**
+```
+tg://proxy?server=109.120.185.156&port=443&secret=dd0cc6909522211ffc42c3c6cdb966e333
+```  
+🛡 **Канал-спонсор:** GhostLine  
+📜 **История проверок:**  
+**BY (112 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1:** ❌❌❌❌❌❌❌❌❌❌  
+**RU №2:** ❌❌❌❌❌❌❌❌❌❌  
+🕒 **Последняя проверка:** 09.05.2026 11:46:05 (МСК)  
+
+
+---
+
+🌐 **Прокси:**
+```
+tg://proxy?server=hyper.sosproxy.space&port=443&secret=ee44adc4da5280b196fa8192ffb712cef964726976652e676f6f676c652e636f6d
+```  
+🛡 **Канал-спонсор:** Proxy MTProto  
+📜 **История проверок:**  
+**BY (80 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (91 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2:** ❌❌❌❌❌❌❌❌❌❌  
+🕒 **Последняя проверка:** 09.05.2026 11:46:14 (МСК)  
+
+
+---
+
+🌐 **Прокси:**
+```
+tg://proxy?server=ghostnode.ru&port=65443&secret=ee4e767ae864ee6cb4497b502b5e3115cc67686f73746e6f64652e7275
+```  
+🛡 **Канал-спонсор:** Ghost Node  
+📜 **История проверок:**  
+**BY (43 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1:** ❌❌❌❌❌❌❌❌❌❌  
+**RU №2 (380 ms):** ✅✅✅✅✅✅✅✅✅✅  
+🕒 **Последняя проверка:** 09.05.2026 11:46:21 (МСК)  
+
+
+---
+
+🌐 **Прокси:**
+```
+tg://proxy?server=max.ru.rightarion.ru&port=443&secret=ddc1e84a7f2d9b3056eaf17c4d8b62f903
+```  
+🛡 **Канал-спонсор:** Люма ВПН | Прокси  
+📜 **История проверок:**  
+**BY (58 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (51 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2 (52 ms):** ✅✅✅✅✅✅✅✅✅✅  
+🕒 **Последняя проверка:** 09.05.2026 11:46:24 (МСК)  
+
+
+---
+
+🌐 **Прокси:**
+```
+tg://proxy?server=64.188.64.79&port=8443&secret=ee17fdfa167f6babdb3f893586ac3784977375623372656c61792e6475636b646e732e6f7267
+```  
+🛡 **Канал-спонсор:** Luminto » Minecraft-сервер  
+📜 **История проверок:**  
+**BY (52 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1:** ❌❌❌❌❌❌❌❌❌❌  
+**RU №2 (47 ms):** ✅✅✅✅✅✅✅✅✅✅  
+🕒 **Последняя проверка:** 09.05.2026 11:46:36 (МСК)  
+
+
+---
+
+🌐 **Прокси:**
+```
+tg://proxy?server=s.rkn.tg&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b
+```  
+🛡 **Канал-спонсор:** Akenai VPN — Канал.​  
+📜 **История проверок:**  
+**BY (52 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (52 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2 (44 ms):** ✅✅✅✅✅✅✅✅✅✅  
+🕒 **Последняя проверка:** 09.05.2026 11:46:37 (МСК)  
+
+
+---
+
+🌐 **Прокси:**
+```
+tg://proxy?server=swekitty.grittytarantula.sbs&port=443&secret=ee279f27349c60d8489533dc8ac8e10b7c7377656b697474792e677269747479746172616e74756c612e736273
+```  
+🛡 **Канал-спонсор:** ProProxies News | PROXY & VPN  
+📜 **История проверок:**  
+**BY (110 ms):** ✅✅✅✅✅✅✅❌❌✅  
+**RU №1 (87 ms):** ✅✅✅✅✅✅✅❌❌✅  
+**RU №2 (76 ms):** ✅✅✅✅✅✅✅❌❌✅  
+🕒 **Последняя проверка:** 09.05.2026 11:46:39 (МСК)  
+
+
+---
+
+🌐 **Прокси:**
+```
+tg://proxy?server=de5.kuzmos.ru&port=8090&secret=7sJdagm5y9lVtxqjePMjo3hwZXRyb3ZpY2gucnU
+```  
+🛡 **Канал-спонсор:** Выгодный ВПН  
+📜 **История проверок:**  
+**BY (77 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (74 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2:** ❌❌❌❌❌❌❌❌❌❌  
+🕒 **Последняя проверка:** 09.05.2026 11:46:59 (МСК)  
+
+
+---
+
+🌐 **Прокси:**
+```
+tg://proxy?server=stars-connect.duckdns.org&port=443&secret=ee176ff0639ed5582352da8e1df17791b877622e7275
+```  
+🛡 **Канал-спонсор:** Stars Connect VPN  
+📜 **История проверок:**  
+**BY (87 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (52 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2 (67 ms):** ✅✅✅✅✅✅✅✅✅✅  
+🕒 **Последняя проверка:** 09.05.2026 11:47:01 (МСК)  
+
+
+---
+
+🌐 **Прокси:**
+```
+tg://proxy?server=live2.nocto.online&port=443&secret=ee9baefa3df18536326fec0818c04aa43179612e7275
+```  
+🛡 **Канал-спонсор:** Nocto Proxy Бесплатный прокси для Telegram  
+📜 **История проверок:**  
+**BY (66 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (49 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2 (44 ms):** ✅✅✅✅❌✅✅✅✅✅  
+🕒 **Последняя проверка:** 09.05.2026 11:47:08 (МСК)  
+
+
+---
+
+🌐 **Прокси:**
+```
+tg://proxy?server=goydamax.ru&port=443&secret=eeddb396ea36d98e42cecc4e5c165f369c676f7964616d61782e7275
+```  
+🛡 **Канал-спонсор:** 💎 Нет  
+📜 **История проверок:**  
+**BY:** ❌❌❌❌❌❌❌❌❌❌  
+**RU №1:** ❌❌❌❌❌❌❌❌❌❌  
+**RU №2 (81 ms):** ✅✅✅✅✅✅✅✅✅✅  
+🕒 **Последняя проверка:** 09.05.2026 11:47:09 (МСК)  
+
+
+---
+
+🌐 **Прокси:**
+```
+tg://proxy?server=budge.pulsar.rest&port=443&secret=ee4cc750d4cf7b5762b6ca9949c778ef4162756467652e70756c7361722e72657374
+```  
+🛡 **Канал-спонсор:** Пульсар️️⚡️Прокси  
+📜 **История проверок:**  
+**BY (85 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1:** ❌❌❌❌❌❌❌❌❌❌  
+**RU №2:** ❌❌❌❌❌❌❌❌❌❌  
+🕒 **Последняя проверка:** 09.05.2026 11:47:31 (МСК)  
+
+
+---
+
+🌐 **Прокси:**
+```
+tg://proxy?server=nitro.alotaxi.info&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d
+```  
+🛡 **Канал-спонсор:** ProxyMTProto - Прокси MTProto  
+📜 **История проверок:**  
+**BY (76 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (73 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2:** ❌❌❌❌❌❌❌❌❌❌  
+🕒 **Последняя проверка:** 09.05.2026 11:47:43 (МСК)  
+
+
+---
+
+🌐 **Прокси:**
+```
+tg://proxy?server=telegramfree3.idind.ru&port=443&secret=ee4318bd9fa023e118eca03abed6d0414c736e692e6964696e642e7275
+```  
+🛡 **Канал-спонсор:** r/Ultrakill  
+📜 **История проверок:**  
+**BY (102 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1:** ❌❌❌❌❌❌❌❌❌❌  
+**RU №2:** ❌❌❌❌❌❌❌❌❌❌  
+🕒 **Последняя проверка:** 09.05.2026 11:47:53 (МСК)  
+
+
+---
+
+🌐 **Прокси:**
+```
+tg://proxy?server=swekitty.grittytarantula.sbs&port=443&secret=ee34103785f92b58549310adb46f79a87f7377656b697474792e677269747479746172616e74756c612e736273
+```  
+🛡 **Канал-спонсор:** ProProxies News | PROXY & VPN  
+📜 **История проверок:**  
+**BY (71 ms):** ✅✅✅✅✅✅✅❌❌✅  
+**RU №1 (3765 ms):** ✅✅✅✅✅✅✅❌❌✅  
+**RU №2 (57 ms):** ✅✅✅✅✅✅✅❌❌✅  
+🕒 **Последняя проверка:** 09.05.2026 11:47:55 (МСК)  
+
+
+---
+
+🌐 **Прокси:**
+```
+tg://proxy?server=telegramfree.idind.ru&port=443&secret=ee010517f90cfe4469d2d5bafa32aa3551736e692e6964696e642e7275
+```  
+🛡 **Канал-спонсор:** r/Ultrakill  
+📜 **История проверок:**  
+**BY (231 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1:** ❌❌❌❌❌❌❌❌❌❌  
+**RU №2 (69 ms):** ✅✅✅✅✅✅✅✅✅✅  
+🕒 **Последняя проверка:** 09.05.2026 11:48:01 (МСК)  
+
+
+---
+
+🌐 **Прокси:**
+```
+tg://proxy?server=aajonus.voltlab.su&port=443&secret=7hbmURRC1pnW7EO7yt8FKVBhYWpvbnVzLnZvbHRsYWIuc3U
+```  
+🛡 **Канал-спонсор:** voltLab | Channel  
+📜 **История проверок:**  
+**BY (85 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1:** ❌❌❌❌❌❌❌❌❌❌  
+**RU №2 (63 ms):** ✅✅✅✅✅✅✅✅✅✅  
+🕒 **Последняя проверка:** 09.05.2026 11:48:23 (МСК)  
+
+
+---
+
+🌐 **Прокси:**
+```
+tg://proxy?server=t.yagosuslugi.ru&port=443&secret=eec3a80805cd5ee5d245ccea60ff27a357626f746170692e6d61782e7275
+```  
+🛡 **Канал-спонсор:** ⚠️ ОБНОВИТЕ ПРОКСИ  
+📜 **История проверок:**  
+**BY (74 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (62 ms):** ✅✅✅✅✅✅✅❌✅✅  
+**RU №2 (136 ms):** ✅✅✅❌✅✅✅✅✅✅  
+🕒 **Последняя проверка:** 09.05.2026 11:48:26 (МСК)  
+
+
+---
+
+🌐 **Прокси:**
+```
+tg://proxy?server=79.137.184.72&port=443&secret=7gBXcVHTFVtaVvgLwjIhBS53d3cubWljcm9zb2Z0LmNvbQ
+```  
+🛡 **Канал-спонсор:** DragonMaw channel  
+📜 **История проверок:**  
+**BY (106 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1:** ❌✅✅❌✅❌✅❌❌❌  
+**RU №2:** ❌✅✅❌✅❌✅❌❌❌  
+🕒 **Последняя проверка:** 09.05.2026 11:49:46 (МСК)  
+
+
+---
+
+🌐 **Прокси:**
+```
+tg://proxy?server=px.spektr.win&port=443&secret=ee370baecb228874e0fe5b4a32a9a95ed0646c2e676f6f676c652e636f6d
+```  
+🛡 **Канал-спонсор:** Legendary VPN [Канал]  
+📜 **История проверок:**  
+**BY (82 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1:** ❌❌❌❌❌❌❌❌❌❌  
+**RU №2 (75 ms):** ✅✅✅✅✅✅✅✅✅✅  
+🕒 **Последняя проверка:** 09.05.2026 11:50:16 (МСК)  
+
+
+---
+
+🌐 **Прокси:**
+```
+tg://proxy?server=t.yagosuslugi.ru&port=443&secret=eec3a80805cd5ee5d245ccea60ff27a3576170692d6d6170732e79616e6465782e7275
+```  
+🛡 **Канал-спонсор:** ⚠️ ОБНОВИТЕ ПРОКСИ  
+📜 **История проверок:**  
+**BY (68 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (836 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2 (49 ms):** ✅✅✅✅✅✅✅❌✅✅  
+🕒 **Последняя проверка:** 09.05.2026 11:50:18 (МСК)  
+
+
+---
+
+🌐 **Прокси:**
+```
+tg://proxy?server=proxysb.xyz&port=443&secret=eef7ca86268af768135f9ca41f89e9efb670726f787973622e78797a
+```  
+🛡 **Канал-спонсор:** Telegram Proxy  
+📜 **История проверок:**  
+**BY (88 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1:** ❌❌❌❌❌❌❌❌❌❌  
+**RU №2 (62 ms):** ✅✅✅✅✅✅✅✅✅✅  
+🕒 **Последняя проверка:** 09.05.2026 11:50:32 (МСК)  
+
+
+---
+
+🌐 **Прокси:**
+```
+tg://proxy?server=mtproxy.brizproject.space&port=8444&secret=07f4765c38cb72f40c92238c6e2ce02c
+```  
+🛡 **Канал-спонсор:** 🪐 | 𝗕𝗿𝗶𝘇𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗣𝗿𝗼𝘅𝘆  
+📜 **История проверок:**  
+**BY (68 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (66 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2 (63 ms):** ✅✅✅✅✅✅✅✅✅✅  
+🕒 **Последняя проверка:** 09.05.2026 11:50:36 (МСК)  
+
+
+---
+
+🌐 **Прокси:**
+```
+tg://proxy?server=proxy.proxymtproto.net&port=443&secret=7pfKo8aIg2byaxL5lPAuzxpzMy5hbWF6b25hd3MuY29t
+```  
+🛡 **Канал-спонсор:** Proxy MTProto - Прокси MTProto  
+📜 **История проверок:**  
+**BY (81 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1:** ❌❌❌❌❌❌❌❌❌❌  
+**RU №2 (90 ms):** ✅❌✅❌✅✅✅✅❌❌  
+🕒 **Последняя проверка:** 09.05.2026 11:50:47 (МСК)  
+
+
+---
+
+🌐 **Прокси:**
+```
+tg://proxy?server=5.230.159.11&port=443&secret=eec6c206c4d429f36d13af11fbd3c35e786d742d70726f78792e6f7267
+```  
+🛡 **Канал-спонсор:** Telegram Proxy  
+📜 **История проверок:**  
+**BY (112 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1:** ❌❌❌❌❌❌❌❌❌❌  
+**RU №2 (101 ms):** ✅✅✅✅✅✅✅✅✅✅  
+🕒 **Последняя проверка:** 09.05.2026 11:51:02 (МСК)  
+
+
+---
+
+🌐 **Прокси:**
+```
+tg://proxy?server=raw.cloud.klukva.online&port=443&secret=ee9ed9c1fc8539146787b1546e47b7af3b636c6f75642e6b6c756b76612e6f6e6c696e65
+```  
+🛡 **Канал-спонсор:** klukvaVPN | новости  
+📜 **История проверок:**  
+**BY (81 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (70 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2:** ❌❌❌❌❌❌❌❌❌❌  
+🕒 **Последняя проверка:** 09.05.2026 11:51:28 (МСК)  
+
+
+---
+
+🌐 **Прокси:**
+```
+tg://proxy?server=proxy.nuv.cx&port=443&secret=ee470cb2b8b29aeadfbdf8a2f7bee5ca3b62726f777365722e79616e6465782e636f6d
+```  
+🛡 **Канал-спонсор:** nuvira.​cx  
+📜 **История проверок:**  
+**BY (116 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (106 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2 (124 ms):** ✅✅✅✅✅✅✅✅✅✅  
+🕒 **Последняя проверка:** 09.05.2026 11:51:30 (МСК)  
+
+
+---
+
+🌐 **Прокси:**
+```
+tg://proxy?server=swekitty.grittytarantula.sbs&port=443&secret=eef57a906cee372b41675c67d9ca1bbe6c7377656b697474792e677269747479746172616e74756c612e736273
+```  
+🛡 **Канал-спонсор:** ProProxies News | PROXY & VPN  
+📜 **История проверок:**  
+**BY (482 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (77 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2 (80 ms):** ✅✅✅✅✅✅✅✅✅✅  
+🕒 **Последняя проверка:** 09.05.2026 11:51:43 (МСК)  
+
+
+---
+
+🌐 **Прокси:**
+```
+tg://proxy?server=masterklass-umelye-ruchki.voltlab.su&port=443&secret=eea5e1036a0432a85a0f1d73d05c643b9e6d61737465726b6c6173732d756d656c79652d727563686b692e766f6c746c61622e7375
+```  
+🛡 **Канал-спонсор:** voltLab | Channel  
+📜 **История проверок:**  
+**BY (315 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1:** ❌❌❌❌❌❌❌❌❌❌  
+**RU №2:** ❌❌❌❌❌❌❌❌❌❌  
+🕒 **Последняя проверка:** 09.05.2026 11:51:47 (МСК)  
+
+
+---
+
+🌐 **Прокси:**
+```
+tg://proxy?server=nsk.catpaws.ru&port=443&secret=ee6288b4d5d9526c8d60cf8052e7eb0d3473742e6f6b63646e2e7275
+```  
+🛡 **Канал-спонсор:** Senkapopka proxy  
+📜 **История проверок:**  
+**BY (718 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (160 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2 (161 ms):** ✅✅✅✅✅✅✅✅✅✅  
+🕒 **Последняя проверка:** 09.05.2026 11:52:05 (МСК)  
+
+
+---
+
+🌐 **Прокси:**
+```
+tg://proxy?server=prx03.gtgt.ru&port=443&secret=eeffb8ecadb37e893760b73778ed5a4ae97777772e6761727368696e6b612e7275
+```  
+🛡 **Канал-спонсор:** Devops Story  
+📜 **История проверок:**  
+**BY (48 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (52 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2 (57 ms):** ✅✅✅✅✅✅✅✅✅✅  
+🕒 **Последняя проверка:** 09.05.2026 11:52:06 (МСК)  
+
+
+---
+
+🌐 **Прокси:**
+```
+tg://proxy?server=tg.ntgrd.link&port=443&secret=eef8ba76819be7e3aa84728919b53fddb974672e6e746772642e6c696e6b
+```  
+🛡 **Канал-спонсор:** NetGuard Community  
+📜 **История проверок:**  
+**BY (60 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (49 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2 (42 ms):** ✅✅✅✅✅✅✅✅✅✅  
+🕒 **Последняя проверка:** 09.05.2026 11:52:08 (МСК)  
+
+
+---
+
+🌐 **Прокси:**
+```
+tg://proxy?server=rawmilk.voltlab.su&port=443&secret=eecacfc4d512f6456f443148a9ad484be77261776d696c6b2e766f6c746c61622e7375
+```  
+🛡 **Канал-спонсор:** voltLab | Channel  
+📜 **История проверок:**  
+**BY (89 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1:** ❌❌❌❌❌❌❌❌❌❌  
+**RU №2:** ❌❌❌❌❌❌❌❌❌❌  
+🕒 **Последняя проверка:** 09.05.2026 11:52:17 (МСК)  
+
+
+---
+
+🌐 **Прокси:**
+```
+tg://proxy?server=ultrasweeden.mooo.com&port=443&secret=eefd747c034f0d26860a223469cf155090756c7472617377656564656e2e6d6f6f6f2e636f6d
+```  
+🛡 **Канал-спонсор:** XLshina  
+📜 **История проверок:**  
+**BY (96 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (93 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2:** ❌❌❌❌❌❌❌❌❌❌  
+🕒 **Последняя проверка:** 09.05.2026 11:52:38 (МСК)  
+
+
+---
+
+🌐 **Прокси:**
+```
+tg://proxy?server=hea08mw3apa.sn.mynetname.net&port=8243&secret=ee6311f23d3942893bef1ac4e14225504d706f7274616c2e74756e64756b2e6b67
+```  
+🛡 **Канал-спонсор:** TANDZUNART  
+📜 **История проверок:**  
+**BY (170 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (150 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2 (154 ms):** ✅✅✅✅✅✅✅✅✅✅  
+🕒 **Последняя проверка:** 09.05.2026 11:53:09 (МСК)  
+
+
+---
+
+🌐 **Прокси:**
+```
+tg://proxy?server=foreignpayproxytg.top&port=443&secret=ee6d61782e7275e467763b2a1379ff21
+```  
+🛡 **Канал-спонсор:** Блог ForeignPay — полезное про нейросети, подписки, игры и приложения  
+📜 **История проверок:**  
+**BY (85 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (90 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2 (68 ms):** ✅✅✅✅✅✅✅✅✅✅  
+🕒 **Последняя проверка:** 09.05.2026 11:53:15 (МСК)  
+
+
+---
+
+🌐 **Прокси:**
+```
+tg://proxy?server=papin.olympos.lol&port=443&secret=dd470cb2b8b29aeadfbdf8a2f7bee5ca3b
+```  
+🛡 **Канал-спонсор:** nuvira.​cx  
+📜 **История проверок:**  
+**BY (127 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (98 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2 (4761 ms):** ✅✅✅✅✅✅✅✅✅✅  
+🕒 **Последняя проверка:** 09.05.2026 11:53:35 (МСК)  
+
+
+---
+
+🌐 **Прокси:**
+```
+tg://proxy?server=proxytg.fit&port=443&secret=eec8f164f338f20e2e3c7a0f4e0408a51270726f787974672e666974
+```  
+🛡 **Канал-спонсор:** Telegram Proxy  
+📜 **История проверок:**  
+**BY (72 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1:** ❌❌❌❌❌❌❌❌❌❌  
+**RU №2 (65 ms):** ✅✅✅✅✅✅✅✅✅✅  
+🕒 **Последняя проверка:** 09.05.2026 11:53:36 (МСК)  
+
+
+---
+
+🌐 **Прокси:**
+```
+tg://proxy?server=tg.garden-gnomes.lol&port=443&secret=ee46b0971d5de93f825bc66f23a304c9367a61796d65722e7275
+```  
+🛡 **Канал-спонсор:** GG - Garden Gnomes  
+📜 **История проверок:**  
+**BY (74 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (51 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2 (52 ms):** ✅✅✅✅✅✅✅✅✅✅  
+🕒 **Последняя проверка:** 09.05.2026 11:53:40 (МСК)  
+
+
+---
+
+🌐 **Прокси:**
+```
+tg://proxy?server=swekitty2.grittytarantula.sbs&port=443&secret=ee3730ca5b692dc64af181a706bcc5cabc7377656b69747479322e677269747479746172616e74756c612e736273
+```  
+🛡 **Канал-спонсор:** ProProxies News | PROXY & VPN  
+📜 **История проверок:**  
+**BY (992 ms):** ✅✅✅✅✅✅✅❌✅✅  
+**RU №1 (392 ms):** ✅✅✅✅✅✅✅❌✅✅  
+**RU №2 (437 ms):** ✅✅✅✅✅✅✅❌✅✅  
+🕒 **Последняя проверка:** 09.05.2026 11:53:51 (МСК)  
