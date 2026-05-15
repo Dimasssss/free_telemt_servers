@@ -65,112 +65,6 @@ tg://proxy?server=s013.dimasssss.space&port=443&secret=eebed92191281b6d7a676b052
 # Прокси от других добрых людей из [моего канала](https://t.me/telemt_free_proxy)
 ---
 
-🌐 **Прокси:**
-```
-tg://proxy?server=swekitty2.grittytarantula.sbs&port=443&secret=ee3730ca5b692dc64af181a706bcc5cabc7377656b69747479322e677269747479746172616e74756c612e736273
-```  
-🛡 **Канал-спонсор:** ProProxies News | PROXY & VPN  
-📜 **История проверок:**  
-**BY (76 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**RU №1 (54 ms):** ✅✅❌❌❌❌❌✅❌❌  
-**RU №2 (62 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**RU №3 (89 ms):** ✅✅✅✅✅✅✅✅✅✅  
-🕒 **Последняя проверка:** 15.05.2026 15:25:25 (МСК)  
-
-
----
-
-🌐 **Прокси:**
-```
-tg://proxy?server=main.mtproxy.pw&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa27786170692e6f7a6f6e2e727527
-```  
-🛡 **Канал-спонсор:** Telegram Proxy  
-📜 **История проверок:**  
-**BY (112 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**RU №1 (138 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**RU №2 (183 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**RU №3 (68 ms):** ✅✅✅✅✅✅✅✅✅✅  
-🕒 **Последняя проверка:** 15.05.2026 15:25:42 (МСК)  
-
-
----
-
-🌐 **Прокси:**
-```
-tg://proxy?server=mtproto.ru-01.scamhost.online&port=443&secret=eee299ec6bd7e1b952c0e72564fdcca03f766b2e7275
-```  
-🛡 **Канал-спонсор:** Hitori VPN  
-📜 **История проверок:**  
-**BY (65 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**RU №1 (42 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**RU №2 (42 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**RU №3 (53 ms):** ✅✅✅✅✅✅✅✅✅✅  
-🕒 **Последняя проверка:** 15.05.2026 15:25:47 (МСК)  
-
-
----
-
-🌐 **Прокси:**
-```
-tg://proxy?server=tg-proxy-2.potokvpn.com&port=993&secret=dd080073892babef5b062caf40c39e8251
-```  
-🛡 **Канал-спонсор:** Potok VPN  
-📜 **История проверок:**  
-**BY (190 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**RU №1 (372 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**RU №2 (472 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**RU №3 (448 ms):** ✅✅✅✅✅✅✅✅✅✅  
-🕒 **Последняя проверка:** 15.05.2026 15:25:55 (МСК)  
-
-
----
-
-🌐 **Прокси:**
-```
-tg://proxy?server=swekitty.grittytarantula.sbs&port=443&secret=eea9d025741fc7da0a4b9b6243ee675e907377656b697474792e677269747479746172616e74756c612e736273
-```  
-🛡 **Канал-спонсор:** ProProxies News | PROXY & VPN  
-📜 **История проверок:**  
-**BY (81 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**RU №1 (60 ms):** ✅✅❌❌❌❌❌✅❌❌  
-**RU №2 (60 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**RU №3:** ❌❌✅❌✅✅❌❌✅❌  
-🕒 **Последняя проверка:** 15.05.2026 15:26:15 (МСК)  
-
-
----
-
-🌐 **Прокси:**
-```
-tg://proxy?server=proxy.fluxoria.it.com&port=443&secret=ee307242dd41275c771f40035565d0750a70726f78792e666c75786f7269612e69742e636f6d
-```  
-🛡 **Канал-спонсор:** 💎 Нет  
-📜 **История проверок:**  
-**BY (75 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**RU №1 (65 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**RU №2:** ❌❌❌❌❌❌❌❌❌❌  
-**RU №3 (59 ms):** ✅✅✅✅✅✅✅✅✅✅  
-🕒 **Последняя проверка:** 15.05.2026 15:26:15 (МСК)  
-
-
----
-
-🌐 **Прокси:**
-```
-tg://proxy?server=136.234.224.86&port=443&secret=ee58c2807d6ee43ab9a42107ff7ef4f7b579612e7275
-```  
-🛡 **Канал-спонсор:** 💎 Нет  
-📜 **История проверок:**  
-**BY (44 ms):** ✅✅❔❔❔❔❔❔❔❔  
-**RU №1 (46 ms):** ✅✅❔❔❔❔❔❔❔❔  
-**RU №2 (49 ms):** ✅✅❔❔❔❔❔❔❔❔  
-**RU №3 (43 ms):** ✅✅❔❔❔❔❔❔❔❔  
-🕒 **Последняя проверка:** 15.05.2026 15:26:37 (МСК)  
-
-
----
-
-🌐 **Прокси:**
 ```
 tg://proxy?server=mtproto.de-01.scamhost.online&port=8443&secret=ee7114d686bb0131c036a290f7c369c03873706565642e636c6f7564666c6172652e636f6d
 ```  
@@ -185,37 +79,6 @@ tg://proxy?server=mtproto.de-01.scamhost.online&port=8443&secret=ee7114d686bb013
 
 ---
 
-🌐 **Прокси:**
-```
-tg://proxy?server=rdp10592.vertiex.ru&port=443&secret=7qFeqZ7DRW5_RCXdOSQmrGR5YS5ydQ
-```  
-🛡 **Канал-спонсор:** VPN #1 | Новости  
-📜 **История проверок:**  
-**BY (188 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**RU №1 (210 ms):** ✅✅✅✅✅✅✅✅❌✅  
-**RU №2 (214 ms):** ✅✅✅✅✅✅✅✅❌✅  
-**RU №3 (219 ms):** ✅✅✅✅✅✅✅✅✅✅  
-🕒 **Последняя проверка:** 15.05.2026 15:26:54 (МСК)  
-
-
----
-
-🌐 **Прокси:**
-```
-tg://proxy?server=quackton.life&port=443&secret=ee65fc7553a1f5ca8b50b71c015b38722479616e6465782e7275
-```  
-🛡 **Канал-спонсор:** TONPLAY💰  
-📜 **История проверок:**  
-**BY (38 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**RU №1 (235 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**RU №2 (89 ms):** ✅✅✅✅✅✅✅✅✅✅  
-**RU №3 (42 ms):** ✅✅✅✅✅✅✅✅✅✅  
-🕒 **Последняя проверка:** 15.05.2026 15:26:59 (МСК)  
-
-
----
-
-🌐 **Прокси:**
 ```
 tg://proxy?server=150.241.95.89&port=443&secret=7iOHaedClDVkM5ncIRadj_5jbG91ZC5ydQ
 ```  
@@ -230,7 +93,6 @@ tg://proxy?server=150.241.95.89&port=443&secret=7iOHaedClDVkM5ncIRadj_5jbG91ZC5y
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=pro.sosproxy.space&port=443&secret=ee9d4772354ab76b3d16bc0423b6f44a2b70726f2e736f7370726f78792e7370616365
 ```  
@@ -245,7 +107,6 @@ tg://proxy?server=pro.sosproxy.space&port=443&secret=ee9d4772354ab76b3d16bc0423b
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=tadam.fastexte.pro&port=8443&secret=7mUPsDVuaRFh5a8PPKhiKQprb211cy5ydQ
 ```  
@@ -260,7 +121,6 @@ tg://proxy?server=tadam.fastexte.pro&port=8443&secret=7mUPsDVuaRFh5a8PPKhiKQprb2
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=mtproxy.brizproject.space&port=8444&secret=07f4765c38cb72f40c92238c6e2ce02c
 ```  
@@ -275,7 +135,6 @@ tg://proxy?server=mtproxy.brizproject.space&port=8444&secret=07f4765c38cb72f40c9
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=5.230.159.11&port=443&secret=eec6c206c4d429f36d13af11fbd3c35e786d742d70726f78792e6f7267
 ```  
@@ -290,7 +149,6 @@ tg://proxy?server=5.230.159.11&port=443&secret=eec6c206c4d429f36d13af11fbd3c35e7
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=150.241.108.248&port=8980&secret=eeb6506e69d11db32d81c215a14850a194617669746f2e7275
 ```  
@@ -305,7 +163,6 @@ tg://proxy?server=150.241.108.248&port=8980&secret=eeb6506e69d11db32d81c215a1485
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=swekitty.grittytarantula.sbs&port=443&secret=eed512e455e06425061a413e02fab20f567377656b697474792e677269747479746172616e74756c612e736273
 ```  
@@ -320,7 +177,6 @@ tg://proxy?server=swekitty.grittytarantula.sbs&port=443&secret=eed512e455e064250
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=proxy.aprux.ru&port=443&secret=ee2f23604857121c44e119a4b9a1af939d7777772e636c6f7564666c6172652e636f6d
 ```  
@@ -335,7 +191,6 @@ tg://proxy?server=proxy.aprux.ru&port=443&secret=ee2f23604857121c44e119a4b9a1af9
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=hella.2pac.live&port=443&secret=ee8bc27dfdd23b31bd7badf79291b4ff507777772e616d642e636f6d
 ```  
@@ -350,7 +205,6 @@ tg://proxy?server=hella.2pac.live&port=443&secret=ee8bc27dfdd23b31bd7badf79291b4
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=mtproto.secret-node.online&port=443&secret=ee28c1055196be0089a0905792d38bc68a6d2e766b2e7275
 ```  
@@ -365,7 +219,6 @@ tg://proxy?server=mtproto.secret-node.online&port=443&secret=ee28c1055196be0089a
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=tg.hellohiro.ru&port=443&secret=ee973e178b06e6b204a3f6d8044dda69c774672e68656c6c6f6869726f2e7275
 ```  
@@ -380,7 +233,6 @@ tg://proxy?server=tg.hellohiro.ru&port=443&secret=ee973e178b06e6b204a3f6d8044dda
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=max.ru.rightarion.ru&port=443&secret=dddcaae509a2455bbfc6165f1708fd5c58
 ```  
@@ -395,7 +247,6 @@ tg://proxy?server=max.ru.rightarion.ru&port=443&secret=dddcaae509a2455bbfc6165f1
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=tg.hellohiro.ru&port=8443&secret=dd973e178b06e6b204a3f6d8044dda69c7
 ```  
@@ -410,7 +261,6 @@ tg://proxy?server=tg.hellohiro.ru&port=8443&secret=dd973e178b06e6b204a3f6d8044dd
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=159.194.216.137&port=443&secret=ee6e2443fe7f5904ff5ceded8d76f02ea268312e6d79726b612e6469676974616c
 ```  
@@ -425,7 +275,6 @@ tg://proxy?server=159.194.216.137&port=443&secret=ee6e2443fe7f5904ff5ceded8d76f0
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=free-finland.kimt.space&port=443&secret=ee33a6dcb429c2952d80e01bcbae16912f6164732e78352e7275
 ```  
@@ -440,7 +289,6 @@ tg://proxy?server=free-finland.kimt.space&port=443&secret=ee33a6dcb429c2952d80e0
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=shrink.pulsar.rest&port=443&secret=eed32bfada03b362891b9d067d465baee3736872696e6b2e70756c7361722e72657374
 ```  
@@ -455,7 +303,6 @@ tg://proxy?server=shrink.pulsar.rest&port=443&secret=eed32bfada03b362891b9d067d4
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=rodion.voltlab.su&port=333&secret=ee4fb4f50671cf171c891dfc1475609a0c726f64696f6e2e766f6c746c61622e7375
 ```  
@@ -470,7 +317,6 @@ tg://proxy?server=rodion.voltlab.su&port=333&secret=ee4fb4f50671cf171c891dfc1475
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=max.ru.rightarion.ru&port=443&secret=ddc1e84a7f2d9b3056eaf17c4d8b62f903
 ```  
@@ -485,7 +331,6 @@ tg://proxy?server=max.ru.rightarion.ru&port=443&secret=ddc1e84a7f2d9b3056eaf17c4
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=154.86.119.241&port=443&secret=eefae8fc51b22080948cf13e35ce67428574672e70616c616e746972626f742e78797a
 ```  
@@ -500,7 +345,6 @@ tg://proxy?server=154.86.119.241&port=443&secret=eefae8fc51b22080948cf13e35ce674
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=s.rkn.tg&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b
 ```  
@@ -515,7 +359,6 @@ tg://proxy?server=s.rkn.tg&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d7
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=murka.bronstein.ar&port=8443&secret=ee29c42fdca322d72b6105276b5ef8419e6c6f61642e6d79726b612e6469676974616c
 ```  
@@ -530,7 +373,6 @@ tg://proxy?server=murka.bronstein.ar&port=8443&secret=ee29c42fdca322d72b6105276b
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=45.63.95.95&port=443&secret=43c19798f04925119f8d08d3c85969cc
 ```  
@@ -545,7 +387,6 @@ tg://proxy?server=45.63.95.95&port=443&secret=43c19798f04925119f8d08d3c85969cc
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=alo.acharbashi.info&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d
 ```  
@@ -560,7 +401,6 @@ tg://proxy?server=alo.acharbashi.info&port=4515&secret=eee9a4f23b1d768c04a8d7f39
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=max.ru.rightarion.ru&port=443&secret=eec1e84a7f2d9b3056eaf17c4d8b62f9036d61782e7275
 ```  
@@ -575,7 +415,6 @@ tg://proxy?server=max.ru.rightarion.ru&port=443&secret=eec1e84a7f2d9b3056eaf17c4
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=185.119.59.169&port=443&secret=ee54d03d058a505fc8674365fd46b7077f6469736b2e6d796165726f706c616e2e7275
 ```  
@@ -590,7 +429,6 @@ tg://proxy?server=185.119.59.169&port=443&secret=ee54d03d058a505fc8674365fd46b70
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=hea08mw3apa.sn.mynetname.net&port=8243&secret=ee6311f23d3942893bef1ac4e14225504d706f7274616c2e74756e64756b2e6b67
 ```  
@@ -605,7 +443,6 @@ tg://proxy?server=hea08mw3apa.sn.mynetname.net&port=8243&secret=ee6311f23d394289
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=clay.callsmeee.xyz&port=443&secret=7o_QggOjKZlzKo-xBzrxiGprb211cy5ydQ
 ```  
@@ -620,7 +457,6 @@ tg://proxy?server=clay.callsmeee.xyz&port=443&secret=7o_QggOjKZlzKo-xBzrxiGprb21
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=wiseprox.sbrf-cdn342.ru&port=443&secret=ee4e7fd635e4a98c210d350de964df1bd86f7a6f6e2e7275
 ```  
@@ -635,7 +471,6 @@ tg://proxy?server=wiseprox.sbrf-cdn342.ru&port=443&secret=ee4e7fd635e4a98c210d35
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=185.130.113.188&port=444&secret=7ukyMzNNCZ86kzlyMa0mcLV5ZWlza21lZGljaW5lLnJ1
 ```  
@@ -650,7 +485,6 @@ tg://proxy?server=185.130.113.188&port=444&secret=7ukyMzNNCZ86kzlyMa0mcLV5ZWlza2
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=93.123.39.235&port=443&secret=ee6b74041f24ff73dc4305cef153aad92a6170702d6c696e6b732e7275
 ```  
@@ -665,7 +499,6 @@ tg://proxy?server=93.123.39.235&port=443&secret=ee6b74041f24ff73dc4305cef153aad9
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=barsik.myrka.digital&port=444&secret=ee1111f7e81a11fa78811ffecfb68bfc7462617273696b2e6d79726b612e6469676974616c
 ```  
@@ -680,7 +513,6 @@ tg://proxy?server=barsik.myrka.digital&port=444&secret=ee1111f7e81a11fa78811ffec
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=ducknode.life&port=443&secret=ee65fc7553a1f5ca8b50b71c015b387224766473696e612e7275
 ```  
@@ -695,7 +527,6 @@ tg://proxy?server=ducknode.life&port=443&secret=ee65fc7553a1f5ca8b50b71c015b3872
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=185.70.186.145&port=8443&secret=7qlKUMPbK55kA1GDHovUK7p3d3cuZ29vZ2xlLmNvbQ
 ```  
@@ -710,7 +541,6 @@ tg://proxy?server=185.70.186.145&port=8443&secret=7qlKUMPbK55kA1GDHovUK7p3d3cuZ2
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=anarchy.click&port=443&secret=ee7118c792a6da15636cc9753bf90cfc2d62726f777365722e79616e6465782e636f6d
 ```  
@@ -725,7 +555,6 @@ tg://proxy?server=anarchy.click&port=443&secret=ee7118c792a6da15636cc9753bf90cfc
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=194.50.94.98&port=443&secret=ee75a53853cb3f53976737c82a53d4f13879616e6465782e7275
 ```  
@@ -740,7 +569,6 @@ tg://proxy?server=194.50.94.98&port=443&secret=ee75a53853cb3f53976737c82a53d4f13
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=185.184.122.123&port=8980&secret=eeb6506e69d11db32d81c215a14850a194617669746f2e7275
 ```  
@@ -755,7 +583,6 @@ tg://proxy?server=185.184.122.123&port=8980&secret=eeb6506e69d11db32d81c215a1485
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=kosha.myrka.digital&port=12345&secret=ee240eb837034fef71c7f14e62ebf869776b6f7368612e6d79726b612e6469676974616c
 ```  
@@ -770,7 +597,6 @@ tg://proxy?server=kosha.myrka.digital&port=12345&secret=ee240eb837034fef71c7f14e
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=89.144.48.243&port=8443&secret=ee9962b6593a490946f5a9e2c45ce3130b7261772E67697468756275736572636F6E74656E742E636F6D
 ```  
@@ -785,7 +611,6 @@ tg://proxy?server=89.144.48.243&port=8443&secret=ee9962b6593a490946f5a9e2c45ce31
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=one.turboproxy.pro&port=443&secret=ee74e2e117f2160c55370f68df7381d5d361657a612e7275
 ```  
@@ -800,7 +625,6 @@ tg://proxy?server=one.turboproxy.pro&port=443&secret=ee74e2e117f2160c55370f68df7
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=musbest.space&port=443&secret=eecaca160442c8a4af24c6d96b04337d656d6f647363656e7465722e6f7267
 ```  
@@ -815,7 +639,6 @@ tg://proxy?server=musbest.space&port=443&secret=eecaca160442c8a4af24c6d96b04337d
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=swekitty.grittytarantula.sbs&port=443&secret=ee279f27349c60d8489533dc8ac8e10b7c7377656b697474792e677269747479746172616e74756c612e736273
 ```  
@@ -830,7 +653,6 @@ tg://proxy?server=swekitty.grittytarantula.sbs&port=443&secret=ee279f27349c60d84
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=sub3relay.duckdns.org&port=8443&secret=ee17fdfa167f6babdb3f893586ac3784977375623372656c61792e6475636b646e732e6f7267
 ```  
@@ -845,7 +667,6 @@ tg://proxy?server=sub3relay.duckdns.org&port=8443&secret=ee17fdfa167f6babdb3f893
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=64.188.64.79&port=8443&secret=ee17fdfa167f6babdb3f893586ac3784977375623372656c61792e6475636b646e732e6f7267
 ```  
@@ -860,7 +681,6 @@ tg://proxy?server=64.188.64.79&port=8443&secret=ee17fdfa167f6babdb3f893586ac3784
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=154.83.149.249&port=8443&secret=ee424bb4ccc8692dc46f5b6f80bf1ba85f766c6164766f7a6572652e6475636b646e732e6f7267
 ```  
@@ -875,7 +695,6 @@ tg://proxy?server=154.83.149.249&port=8443&secret=ee424bb4ccc8692dc46f5b6f80bf1b
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=aajonus.voltlab.su&port=443&secret=7hbmURRC1pnW7EO7yt8FKVBhYWpvbnVzLnZvbHRsYWIuc3U
 ```  
@@ -890,7 +709,6 @@ tg://proxy?server=aajonus.voltlab.su&port=443&secret=7hbmURRC1pnW7EO7yt8FKVBhYWp
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=91.229.105.116&port=443&secret=ee4e39e385ea7958450073a4e2a0b8dce77072312e666c7578736f6c7574696f6e732e7275
 ```  
@@ -905,7 +723,6 @@ tg://proxy?server=91.229.105.116&port=443&secret=ee4e39e385ea7958450073a4e2a0b8d
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=santehnik-na-vse-ryki.mooo.com&port=443&secret=eeb9c3e11bde361ca1e3a6ba9769cf3b7173616e7465686e696b2d6e612d7673652d72796b692e6d6f6f6f2e636f6d
 ```  
@@ -920,7 +737,6 @@ tg://proxy?server=santehnik-na-vse-ryki.mooo.com&port=443&secret=eeb9c3e11bde361
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=suge.2pac.live&port=7777&secret=ee97c88e23d6902be6f5d2a85c2013539b7777772e7068696c6970732e636f6d
 ```  
@@ -935,7 +751,6 @@ tg://proxy?server=suge.2pac.live&port=7777&secret=ee97c88e23d6902be6f5d2a85c2013
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=5.180.30.15&port=443&secret=eee961e8bb57463af4b6f9f9c5d2bbff1170617472696172636869612e7275
 ```  
@@ -950,7 +765,6 @@ tg://proxy?server=5.180.30.15&port=443&secret=eee961e8bb57463af4b6f9f9c5d2bbff11
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=ru.free.mambabot.net&port=443&secret=eea6584be1343deacba4a58766217e31b7786170692e6f7a6f6e2e7275
 ```  
@@ -965,7 +779,6 @@ tg://proxy?server=ru.free.mambabot.net&port=443&secret=eea6584be1343deacba4a5876
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=another.life.mambabot.net&port=4515&secret=eec485b564c0178c338d8bf4f3f17539c4613234382e652e616b616d61692e6e6574
 ```  
@@ -980,7 +793,6 @@ tg://proxy?server=another.life.mambabot.net&port=4515&secret=eec485b564c0178c338
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=dedicated.love-internet.xyz&port=4515&secret=7umk8jsddowEqNfzkSDKW25iaXNjb3R0aS55ZWt0YW5ldC5jb20
 ```  
@@ -995,7 +807,6 @@ tg://proxy?server=dedicated.love-internet.xyz&port=4515&secret=7umk8jsddowEqNfzk
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=cdn-cache-node.freeddns.org&port=9000&secret=ee43d36bc02a1da1b3155ed71e86b2849763646e2d63616368652d6e6f64652e6672656564646e732e6f7267
 ```  
@@ -1010,7 +821,6 @@ tg://proxy?server=cdn-cache-node.freeddns.org&port=9000&secret=ee43d36bc02a1da1b
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=proxysb.xyz&port=443&secret=eef7ca86268af768135f9ca41f89e9efb670726f787973622e78797a
 ```  
@@ -1025,7 +835,6 @@ tg://proxy?server=proxysb.xyz&port=443&secret=eef7ca86268af768135f9ca41f89e9efb6
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=50.7.230.106&port=443&secret=ee65fc7553a1f5ca8b50b71c015b387224766473696e612e7275
 ```  
@@ -1040,7 +849,6 @@ tg://proxy?server=50.7.230.106&port=443&secret=ee65fc7553a1f5ca8b50b71c015b38722
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=swekitty.grittytarantula.sbs&port=443&secret=eef57a906cee372b41675c67d9ca1bbe6c7377656b697474792e677269747479746172616e74756c612e736273
 ```  
@@ -1055,7 +863,6 @@ tg://proxy?server=swekitty.grittytarantula.sbs&port=443&secret=eef57a906cee372b4
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=ens3.myrka.digital&port=4515&secret=eeb641df2d369ca4120d05ecab9b09df7e656e73332e6d79726b612e6469676974616c
 ```  
@@ -1070,7 +877,6 @@ tg://proxy?server=ens3.myrka.digital&port=4515&secret=eeb641df2d369ca4120d05ecab
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=papin.olympos.lol&port=443&secret=dd470cb2b8b29aeadfbdf8a2f7bee5ca3b
 ```  
@@ -1085,7 +891,6 @@ tg://proxy?server=papin.olympos.lol&port=443&secret=dd470cb2b8b29aeadfbdf8a2f7be
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=89.208.211.102&port=5443&secret=2178e95a64ccce06f01ab93b3224b50d
 ```  
@@ -1100,7 +905,6 @@ tg://proxy?server=89.208.211.102&port=5443&secret=2178e95a64ccce06f01ab93b3224b5
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=nono.2pac.live&port=443&secret=ee24db8a52b836e06bf62a28a1bf566d8f7777772e616d642e636f6d
 ```  
@@ -1115,7 +919,6 @@ tg://proxy?server=nono.2pac.live&port=443&secret=ee24db8a52b836e06bf62a28a1bf566
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=proxytg.fit&port=443&secret=eec8f164f338f20e2e3c7a0f4e0408a51270726f787974672e666974
 ```  
@@ -1130,7 +933,6 @@ tg://proxy?server=proxytg.fit&port=443&secret=eec8f164f338f20e2e3c7a0f4e0408a512
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=free.beatvault.ru&port=443&secret=eef7500d69d0479eb1c90454490aa7096d64726976652e676f6f676c652e636f6d
 ```  
@@ -1145,7 +947,6 @@ tg://proxy?server=free.beatvault.ru&port=443&secret=eef7500d69d0479eb1c90454490a
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=huntereyes.voltlab.su&port=443&secret=7maPQrr0tsiX8fCJLJjufgthZHMueDUucnU
 ```  
@@ -1160,7 +961,6 @@ tg://proxy?server=huntereyes.voltlab.su&port=443&secret=7maPQrr0tsiX8fCJLJjufgth
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=95.163.214.170&port=8443&secret=dd9641066cd9fbf8f4764dcf97cbddfb33
 ```  
@@ -1175,7 +975,6 @@ tg://proxy?server=95.163.214.170&port=8443&secret=dd9641066cd9fbf8f4764dcf97cbdd
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=get.beatvault.ru&port=443&secret=eef7500d69d0479eb1c90454490aa7096d64726976652e676f6f676c652e636f6d
 ```  
@@ -1190,7 +989,6 @@ tg://proxy?server=get.beatvault.ru&port=443&secret=eef7500d69d0479eb1c90454490aa
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=mt1.shifor.live&port=443&secret=ee591d42555613d98af502d991892478346d74312e736869666f722e6c697665
 ```  
@@ -1205,7 +1003,6 @@ tg://proxy?server=mt1.shifor.live&port=443&secret=ee591d42555613d98af502d9918924
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=tg-proxy-2.potokvpn.com&port=993&secret=080073892babef5b062caf40c39e8251
 ```  
@@ -1220,7 +1017,6 @@ tg://proxy?server=tg-proxy-2.potokvpn.com&port=993&secret=080073892babef5b062caf
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=95.85.246.230&port=443&secret=ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d
 ```  
@@ -1235,7 +1031,6 @@ tg://proxy?server=95.85.246.230&port=443&secret=ee368601a36ebfafec1604dd8ad6c2d1
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=prx03.gtgt.ru&port=443&secret=eeffb8ecadb37e893760b73778ed5a4ae97777772e6761727368696e6b612e7275
 ```  
@@ -1250,7 +1045,6 @@ tg://proxy?server=prx03.gtgt.ru&port=443&secret=eeffb8ecadb37e893760b73778ed5a4a
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=proxy.nuv.cx&port=443&secret=ee470cb2b8b29aeadfbdf8a2f7bee5ca3b62726f777365722e79616e6465782e636f6d
 ```  
@@ -1265,7 +1059,6 @@ tg://proxy?server=proxy.nuv.cx&port=443&secret=ee470cb2b8b29aeadfbdf8a2f7bee5ca3
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=hyper.sosproxy.space&port=443&secret=ee44adc4da5280b196fa8192ffb712cef964726976652e676f6f676c652e636f6d
 ```  
@@ -1280,7 +1073,6 @@ tg://proxy?server=hyper.sosproxy.space&port=443&secret=ee44adc4da5280b196fa8192f
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=budge.pulsar.rest&port=443&secret=ee4cc750d4cf7b5762b6ca9949c778ef4162756467652e70756c7361722e72657374
 ```  
@@ -1295,7 +1087,6 @@ tg://proxy?server=budge.pulsar.rest&port=443&secret=ee4cc750d4cf7b5762b6ca9949c7
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=rdp10592.vertiex.ru&port=443&secret=eea15ea99ec3456e7f4425dd392426ac6479612e7275
 ```  
@@ -1310,7 +1101,6 @@ tg://proxy?server=rdp10592.vertiex.ru&port=443&secret=eea15ea99ec3456e7f4425dd39
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=85.17.89.193&port=443&secret=ee76f6583e6b509d946c56287a9ca59dc362726f7773696e672e79616e6465782e636f6d
 ```  
@@ -1325,7 +1115,6 @@ tg://proxy?server=85.17.89.193&port=443&secret=ee76f6583e6b509d946c56287a9ca59dc
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=swekitty.grittytarantula.sbs&port=443&secret=ee34103785f92b58549310adb46f79a87f7377656b697474792e677269747479746172616e74756c612e736273
 ```  
@@ -1340,7 +1129,6 @@ tg://proxy?server=swekitty.grittytarantula.sbs&port=443&secret=ee34103785f92b585
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=stars-connect.duckdns.org&port=443&secret=ee176ff0639ed5582352da8e1df17791b877622e7275
 ```  
@@ -1355,7 +1143,6 @@ tg://proxy?server=stars-connect.duckdns.org&port=443&secret=ee176ff0639ed5582352
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=tg.garden-gnomes.lol&port=443&secret=ee46b0971d5de93f825bc66f23a304c9367a61796d65722e7275
 ```  
@@ -1370,7 +1157,6 @@ tg://proxy?server=tg.garden-gnomes.lol&port=443&secret=ee46b0971d5de93f825bc66f2
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=vinyl.callsmeee.xyz&port=8443&secret=7j_bCyXJvCtOESsYh2397ZV2aW55bC5jYWxsc21lZWUueHl6
 ```  
@@ -1385,7 +1171,6 @@ tg://proxy?server=vinyl.callsmeee.xyz&port=8443&secret=7j_bCyXJvCtOESsYh2397ZV2a
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=tg.garden-gnomes.lol&port=443&secret=ee46b0971d5de93f825bc66f23a304c93665786973742e7275
 ```  
@@ -1400,7 +1185,6 @@ tg://proxy?server=tg.garden-gnomes.lol&port=443&secret=ee46b0971d5de93f825bc66f2
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=s1.proxytg.space&port=443&secret=ee481fc4aa7c63d939142d4dbf07e1aac464726976652e676f6f676c652e636f6d
 ```  
@@ -1415,7 +1199,6 @@ tg://proxy?server=s1.proxytg.space&port=443&secret=ee481fc4aa7c63d939142d4dbf07e
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=max.ru.rightarion.ru&port=443&secret=eedcaae509a2455bbfc6165f1708fd5c586d61782e7275
 ```  
@@ -1430,7 +1213,6 @@ tg://proxy?server=max.ru.rightarion.ru&port=443&secret=eedcaae509a2455bbfc6165f1
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=tg.vpmks.com&port=443&secret=2726df52a147333d3db19d8b56fb8cce
 ```  
@@ -1445,7 +1227,6 @@ tg://proxy?server=tg.vpmks.com&port=443&secret=2726df52a147333d3db19d8b56fb8cce
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=rawmilk.voltlab.su&port=443&secret=eecacfc4d512f6456f443148a9ad484be77261776d696c6b2e766f6c746c61622e7375
 ```  
@@ -1460,7 +1241,6 @@ tg://proxy?server=rawmilk.voltlab.su&port=443&secret=eecacfc4d512f6456f443148a9a
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=5.231.223.74&port=443&secret=ee00bbae96d95969bc492b955131d1b38764652e7961686f6f2e636f6d
 ```  
@@ -1475,7 +1255,6 @@ tg://proxy?server=5.231.223.74&port=443&secret=ee00bbae96d95969bc492b955131d1b38
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=tg.ntgrd.link&port=443&secret=eef8ba76819be7e3aa84728919b53fddb974672e6e746772642e6c696e6b
 ```  
@@ -1490,7 +1269,6 @@ tg://proxy?server=tg.ntgrd.link&port=443&secret=eef8ba76819be7e3aa84728919b53fdd
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=84.201.135.111&port=8443&secret=eea1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6676f6f676c652e636f6d
 ```  
@@ -1505,7 +1283,6 @@ tg://proxy?server=84.201.135.111&port=8443&secret=eea1b2c3d4e5f6a7b8c9d0e1f2a3b4
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=go.bifrost.now&port=443&secret=ee5b80c2eddbf3c75219fc56b524f1f8fc676f2e626966726f73742e6e6f77
 ```  
@@ -1520,7 +1297,6 @@ tg://proxy?server=go.bifrost.now&port=443&secret=ee5b80c2eddbf3c75219fc56b524f1f
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=free-niderl.kimt.space&port=443&secret=ee7d025179c3b272e9631a5e2eb313b6b36164732e78352e7275
 ```  
@@ -1535,7 +1311,6 @@ tg://proxy?server=free-niderl.kimt.space&port=443&secret=ee7d025179c3b272e9631a5
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=nsk.catpaws.ru&port=443&secret=ee6288b4d5d9526c8d60cf8052e7eb0d3473742e6f6b63646e2e7275
 ```  
@@ -1550,7 +1325,6 @@ tg://proxy?server=nsk.catpaws.ru&port=443&secret=ee6288b4d5d9526c8d60cf8052e7eb0
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=px.spektr.win&port=443&secret=ee370baecb228874e0fe5b4a32a9a95ed0646c2e676f6f676c652e636f6d
 ```  
@@ -1565,7 +1339,6 @@ tg://proxy?server=px.spektr.win&port=443&secret=ee370baecb228874e0fe5b4a32a9a95e
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=95.164.53.156&port=7777&secret=c406caad29b40b1dd4ad970b253c52c5
 ```  
@@ -1580,7 +1353,6 @@ tg://proxy?server=95.164.53.156&port=7777&secret=c406caad29b40b1dd4ad970b253c52c
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=free.bifrost.now&port=443&secret=ee5b80c2eddbf3c75219fc56b524f1f8fc667265652e626966726f73742e6e6f77
 ```  
@@ -1595,7 +1367,6 @@ tg://proxy?server=free.bifrost.now&port=443&secret=ee5b80c2eddbf3c75219fc56b524f
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=ryzen.myrka.digital&port=228&secret=ee10ed94d5d6d262a105815cbbe01218ff72797a656e2e6d79726b612e6469676974616c
 ```  
@@ -1610,7 +1381,6 @@ tg://proxy?server=ryzen.myrka.digital&port=228&secret=ee10ed94d5d6d262a105815cbb
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=jkkeb.demo.personal-mtp.online&port=443&secret=eed0d6e111bada5511fcce9584deadbeef6a6b6b65622e64656d6f2e706572736f6e616c2d6d74702e6f6e6c696e65
 ```  
@@ -1625,7 +1395,6 @@ tg://proxy?server=jkkeb.demo.personal-mtp.online&port=443&secret=eed0d6e111bada5
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=xfs1.gbird.top&port=6443&secret=ddecad3d673e42dc10cae6fa9bcebcd5f6
 ```  
@@ -1640,7 +1409,6 @@ tg://proxy?server=xfs1.gbird.top&port=6443&secret=ddecad3d673e42dc10cae6fa9bcebc
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=peyk.acharbashi.info&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d
 ```  
@@ -1655,7 +1423,6 @@ tg://proxy?server=peyk.acharbashi.info&port=4515&secret=eee9a4f23b1d768c04a8d7f3
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=telegram.crocnet.ru&port=443&secret=eedb556b30e8aefc3443956f9a971bdcec74656c656772616d2e63726f636e65742e7275
 ```  
@@ -1670,7 +1437,6 @@ tg://proxy?server=telegram.crocnet.ru&port=443&secret=eedb556b30e8aefc3443956f9a
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=gotelega.click&port=443&secret=eeac706b8d55ae2069916a52f57dd2199f676f74656c6567612e636c69636b
 ```  
@@ -1685,7 +1451,6 @@ tg://proxy?server=gotelega.click&port=443&secret=eeac706b8d55ae2069916a52f57dd21
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=travofut.site&port=443&secret=ee48b1cdbd937bdbea12479c95325f6b157275747562652e7275
 ```  
@@ -1700,7 +1465,6 @@ tg://proxy?server=travofut.site&port=443&secret=ee48b1cdbd937bdbea12479c95325f6b
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=31.129.42.35&port=443&secret=ee4cc83d19c09c796a4dffdd136cf06a226d61782e7275
 ```  
@@ -1715,7 +1479,6 @@ tg://proxy?server=31.129.42.35&port=443&secret=ee4cc83d19c09c796a4dffdd136cf06a2
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=telegramfree3.idind.ru&port=443&secret=ee4318bd9fa023e118eca03abed6d0414c736e692e6964696e642e7275
 ```  
@@ -1730,7 +1493,6 @@ tg://proxy?server=telegramfree3.idind.ru&port=443&secret=ee4318bd9fa023e118eca03
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=zaebalsya.uk&port=443&secret=eede42c8b90b621e288a4dedefd79ec1c8636c6f7564666c6172652e636f6d
 ```  
@@ -1745,7 +1507,6 @@ tg://proxy?server=zaebalsya.uk&port=443&secret=eede42c8b90b621e288a4dedefd79ec1c
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=two.turboproxy.pro&port=8443&secret=eec8150abdb60a541343858be088e857f66669727374627974652e7275
 ```  
@@ -1760,7 +1521,6 @@ tg://proxy?server=two.turboproxy.pro&port=8443&secret=eec8150abdb60a541343858be0
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=papin.olympos.lol&port=443&secret=ee470cb2b8b29aeadfbdf8a2f7bee5ca3b62726f777365722e79616e6465782e636f6d
 ```  
@@ -1775,7 +1535,6 @@ tg://proxy?server=papin.olympos.lol&port=443&secret=ee470cb2b8b29aeadfbdf8a2f7be
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=ultrasweeden.mooo.com&port=443&secret=eefd747c034f0d26860a223469cf155090756c7472617377656564656e2e6d6f6f6f2e636f6d
 ```  
@@ -1790,7 +1549,6 @@ tg://proxy?server=ultrasweeden.mooo.com&port=443&secret=eefd747c034f0d26860a2234
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=s7.dimasssss.space&port=443&secret=eebe3007e927acd147dde12bee8b1a7c9364726976652e676f6f676c652e636f6d
 ```  
@@ -1805,7 +1563,6 @@ tg://proxy?server=s7.dimasssss.space&port=443&secret=eebe3007e927acd147dde12bee8
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=tg.elysium.su&port=8443&secret=ee42c8a64c132ec4aebc445296ed884fed74672e656c797369756d2e7375
 ```  
@@ -1820,7 +1577,6 @@ tg://proxy?server=tg.elysium.su&port=8443&secret=ee42c8a64c132ec4aebc445296ed884
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=132.243.235.190&port=443&secret=ee157938a8c2f93afd4880d5bc6a1c8da279616e6465782e7275
 ```  
@@ -1835,7 +1591,6 @@ tg://proxy?server=132.243.235.190&port=443&secret=ee157938a8c2f93afd4880d5bc6a1c
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=144.31.15.51&port=443&secret=ee6288b4d5d9526c8d60cf8052e7eb0d3479612e7275
 ```  
@@ -1850,7 +1605,6 @@ tg://proxy?server=144.31.15.51&port=443&secret=ee6288b4d5d9526c8d60cf8052e7eb0d3
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=dedicated.love-internet.xyz&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d
 ```  
@@ -1865,7 +1619,6 @@ tg://proxy?server=dedicated.love-internet.xyz&port=4515&secret=eee9a4f23b1d768c0
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=ru.world.mambabot.net&port=443&secret=eea6584be1343deacba4a58766217e31b7786170692e6f7a6f6e2e7275
 ```  
@@ -1880,7 +1633,6 @@ tg://proxy?server=ru.world.mambabot.net&port=443&secret=eea6584be1343deacba4a587
 
 ---
 
-🌐 **Прокси:**
 ```
 tg://proxy?server=fear.callsmeee.xyz&port=443&secret=7h42N3JTopEz0pDz0UrgFjhzdW40LTIwLnVzZXJhcGkuY29t
 ```  
@@ -1891,3 +1643,129 @@ tg://proxy?server=fear.callsmeee.xyz&port=443&secret=7h42N3JTopEz0pDz0UrgFjhzdW4
 **RU №2 (61 ms):** ✅✅✅✅✅✅✅✅✅✅  
 **RU №3 (52 ms):** ✅✅✅✅✅✅✅✅✅✅  
 🕒 **Последняя проверка:** 15.05.2026 15:41:32 (МСК)  
+
+
+---
+
+```
+tg://proxy?server=main.mtproxy.pw&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa27786170692e6f7a6f6e2e727527
+```  
+🛡 **Канал-спонсор:** Telegram Proxy  
+📜 **История проверок:**  
+**BY (199 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (1278 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2 (1000 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №3 (101 ms):** ✅✅✅✅✅✅✅✅✅✅  
+🕒 **Последняя проверка:** 15.05.2026 15:41:37 (МСК)  
+
+
+---
+
+```
+tg://proxy?server=mtproto.ru-01.scamhost.online&port=443&secret=eee299ec6bd7e1b952c0e72564fdcca03f766b2e7275
+```  
+🛡 **Канал-спонсор:** Hitori VPN  
+📜 **История проверок:**  
+**BY (63 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (40 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2 (40 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №3 (52 ms):** ✅✅✅✅✅✅✅✅✅✅  
+🕒 **Последняя проверка:** 15.05.2026 15:41:39 (МСК)  
+
+
+---
+
+```
+tg://proxy?server=tg-proxy-2.potokvpn.com&port=993&secret=dd080073892babef5b062caf40c39e8251
+```  
+🛡 **Канал-спонсор:** Potok VPN  
+📜 **История проверок:**  
+**BY (175 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (291 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2 (535 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №3 (1160 ms):** ✅✅✅✅✅✅✅✅✅✅  
+🕒 **Последняя проверка:** 15.05.2026 15:41:43 (МСК)  
+
+
+---
+
+```
+tg://proxy?server=swekitty2.grittytarantula.sbs&port=443&secret=ee3730ca5b692dc64af181a706bcc5cabc7377656b69747479322e677269747479746172616e74756c612e736273
+```  
+🛡 **Канал-спонсор:** ProProxies News | PROXY & VPN  
+📜 **История проверок:**  
+**BY (74 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1:** ❌✅✅❌❌❌❌❌✅❌  
+**RU №2 (56 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №3 (92 ms):** ✅✅✅✅✅✅✅✅✅✅  
+🕒 **Последняя проверка:** 15.05.2026 15:41:44 (МСК)  
+
+
+---
+
+```
+tg://proxy?server=swekitty.grittytarantula.sbs&port=443&secret=eea9d025741fc7da0a4b9b6243ee675e907377656b697474792e677269747479746172616e74756c612e736273
+```  
+🛡 **Канал-спонсор:** ProProxies News | PROXY & VPN  
+📜 **История проверок:**  
+**BY (91 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1:** ❌✅✅❌❌❌❌❌✅❌  
+**RU №2 (90 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №3:** ❌❌❌✅❌✅✅❌❌✅  
+🕒 **Последняя проверка:** 15.05.2026 15:42:13 (МСК)  
+
+
+---
+
+```
+tg://proxy?server=proxy.fluxoria.it.com&port=443&secret=ee307242dd41275c771f40035565d0750a70726f78792e666c75786f7269612e69742e636f6d
+```  
+🛡 **Канал-спонсор:** 💎 Нет  
+📜 **История проверок:**  
+**BY:** ❌✅✅✅✅✅✅✅✅✅  
+**RU №1 (389 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2:** ❌❌❌❌❌❌❌❌❌❌  
+**RU №3 (13646 ms):** ✅✅✅✅✅✅✅✅✅✅  
+🕒 **Последняя проверка:** 15.05.2026 15:42:23 (МСК)  
+
+
+---
+
+```
+tg://proxy?server=rdp10592.vertiex.ru&port=443&secret=7qFeqZ7DRW5_RCXdOSQmrGR5YS5ydQ
+```  
+🛡 **Канал-спонсор:** VPN #1 | Новости  
+📜 **История проверок:**  
+**BY (108 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (648 ms):** ✅✅✅✅✅✅✅✅✅❌  
+**RU №2 (751 ms):** ✅✅✅✅✅✅✅✅✅❌  
+**RU №3 (92 ms):** ✅✅✅✅✅✅✅✅✅✅  
+🕒 **Последняя проверка:** 15.05.2026 15:42:26 (МСК)  
+
+
+---
+
+```
+tg://proxy?server=136.234.224.86&port=443&secret=ee58c2807d6ee43ab9a42107ff7ef4f7b579612e7275
+```  
+🛡 **Канал-спонсор:** 💎 Нет  
+📜 **История проверок:**  
+**BY (49 ms):** ✅✅✅❔❔❔❔❔❔❔  
+**RU №1 (43 ms):** ✅✅✅❔❔❔❔❔❔❔  
+**RU №2 (54 ms):** ✅✅✅❔❔❔❔❔❔❔  
+**RU №3 (39 ms):** ✅✅✅❔❔❔❔❔❔❔  
+🕒 **Последняя проверка:** 15.05.2026 15:42:28 (МСК)  
+
+
+---
+
+```
+tg://proxy?server=quackton.life&port=443&secret=ee65fc7553a1f5ca8b50b71c015b38722479616e6465782e7275
+```  
+🛡 **Канал-спонсор:** TONPLAY💰  
+📜 **История проверок:**  
+**BY (39 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №1 (55 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №2 (49 ms):** ✅✅✅✅✅✅✅✅✅✅  
+**RU №3 (41 ms):** ✅✅✅✅✅✅✅✅✅✅  
+🕒 **Последняя проверка:** 15.05.2026 15:42:29 (МСК)  
